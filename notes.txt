@@ -1,0 +1,163 @@
+===========
+ Web notes
+===========
+
+Sphinx for websites
+===================
+
+- Contents of all static paths is dumped on output into _static
+
+- Symlinks in static paths are resolved and copied out rather than kept as
+  symlinks, including nested directories (a symlink pointing to a directory
+  causes the whole dir to be recursively copied).
+
+- How to do
+.. image:: pycachegrind.png
+  :target: pycachegrind.png
+
+  ?  I want to click on a figure to get the full-res version, but the final
+  image ends up copied to ../../_images/, which is not what I need (I need it
+  locally, or for the :target: link to resolve to the right link as well).
+
+  It works if I do
+
+  .. image:: pycachegrind.png
+   :target: ../../_images/pycachegrind.png
+
+   but this is annoying and means I have to keep updating these relative paths
+   if I move things around.
+
+   My solution for now: my copy_trees script copies back all these images so
+   local links work.
+
+- Make linkcheck throws too many warnings.  I have a lot of links of the form
+  `some text <file.pdf>`_  and with my copy_trees script, file.pdf will in fact
+  be there in the target.  But linkcheck complains that these are 'malformed'
+  links:
+
+  WARNING: 0811_baypig_scipy.pdf - malformed!
+
+  Even though the files are actually there.  Is there a way to avoid these
+  warnings, so that only truly broken links are not displayed?
+
+  I get the same warnings for links that come from the toctree entries:
+
+  WARNING: talks - malformed!
+
+  Where talks is a directory that was linked in a toctree as 'talks/index', but
+  referred in a sentence like:
+
+  * Some `<talks>`_.
+
+- For linkcheck, it would be nice if it printed first which file it's checking
+  with full path, and then all the warnings/errors for that file (indented a
+  few spaces), so that one can more easily go back to the sources to fix the
+  problems (right now, it's basically a matter of grepping the tree).
+
+  Note: I see this is stored in the linkcheck output file, so ok for now.
+
+- linkcheck: this link is valid:
+  
+   https://calmail.berkeley.edu/manage/list/listinfo/py4science@lists.berkeley.edu
+   but linkcheck reports it a 403:
+
+      38 : py4science/starter_kit.rst:220: [broken] https://calmail.berkeley.edu/manage/list/listinfo/py4science@lists.berkeley.edu: HTTP Error 403: Forbidden
+
+   Why?
+
+
+- The :doc: role renders with <em> its output.  Is there a way to eliminate
+  this?  It should render in the normal link style, because it makes doc links
+  jarringly stand out from other links that may also be to regular html pages.
+  Why the difference?
+
+  It's defined in roles.py, at the end, in the specific_docroles dict pointed
+  to xfileref_role.  Perhaps there's a way to change that to avoid the <em>
+  always...
+
+- Similarly, the :download: role produces <strong class="xref">.  Is there a
+  way to disable this too?
+
+  Basically, I want all links to my locally hosted documents to be normal links
+  like any other, without special italics or boldface, as I want to reserve
+  that markup for other things.
+
+- In order to be able to use a common links file but with the possibility of
+  `long link targets` in the text, use anonymous targets:
+
+  `long text here`__
+
+__ label_
+
+  Use these sparingly though as the __ definition must be kept close to the
+  source paragraph.  To resolve more than one phrase to the same target, simply
+  use indirect hyperlink targets, for example::
+
+  text `foo bar`_ and `foo 2`_ can go
+
+  .. _foo bar: target_
+  .. _foo 2: target_
+  
+
+- Is it possible to set the class of an image or div?  I'd like to be able to
+  create images and figures with a special class, so that I can then write CSS
+  to control their alignment, for example.
+  
+- Note, when the reference name contains any colons, either:
+
+    * the phrase must be enclosed in backquotes:
+
+      .. _`FAQTS: Computers: Programming: Languages: Python`:
+         http://python.faqts.com/
+
+    * or the colon(s) must be backslash-escaped in the link target:
+
+      .. _Chapter One\: "Tadpole Days":
+
+      It's not easy being green...
+
+
+  
+Webhosting ideas
+================
+
+From a post online
+------------------
+
+Well this is what I do.
+
+First off I have Dreamhost which allows unlimited domains, space &
+bandwidth. It's not 6-nines, but it works for me. Full SSH, SFTP, etc access.
+
+1) My 'domain' is blank. It points to nothing.
+
+2) Every picture I've ever taken is at pictures.X.org. Password Protected.
+If I want to show someone something I'll open a folder for them using
+htaccess. It's also my off-site backup for my pictures.
+
+2) SVN. Dreamhost lets you easily setup SVN. I honestly just discovered
+version control in the last month (More or less took the time to learn it)
+and absolutely love it. So all my pet projects have an svn.X.org page.
+
+3) Sub domains for where I post the most. Since I post quite a few
+photoshops/images to Fark. I have a fark.X.org that is nothing but pictures.
+I have a vw.X.org for posting pictures of my Dubs to VWVortex and TDICLub. I
+try not to move the directory around at all. I hate digging up a 6 month old
+"how to" and find all the images are broken.
+
+4) Unlimited e-mail. I have catch-all turned on. slashdot@X.org, fark@x.org,
+facebook@X.org, I know exactly when and where spam comes from. (Damn you USA
+Rugby*).
+
+5) Subdomains to my computers. Both my linux desktop and mac laptop have
+scripts to update mac/linux.X.org with the current IP.
+
+6) gallery.X.org for people in my family to upload stuff. (With Gallery2).
+
+7) A few friends have websites at name.X.org. I create a new FTP or SFTP
+user for them
+
+8) If you have SSH access, I route everything through at work. Dynamic proxy
+and I don't go through the work proxy servers.
+
+Half of those blur the line between domain/host but you get the idea.
