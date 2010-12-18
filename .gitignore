@@ -15,3 +15,6 @@ mpi4py_ldalcin_bgranger*
 
 brent_pedersen*
 movie*.avi
+
+*~
+.build/*

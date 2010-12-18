@@ -1,7 +1,7 @@
 # -*- coding: utf-8 -*-
 #
-# fperez.org documentation build configuration file, created by
-# sphinx-quickstart on Thu Sep 17 23:10:43 2009.
+# ipythonscipy.org documentation build configuration file, created by
+# sphinx-quickstart on Sat Dec 18 17:03 2010.
 #
 # This file is execfile()d with the current directory set to its containing dir.
 #
@@ -44,7 +44,7 @@ master_doc = 'index'
 
 # General information about the project.
 project = u''
-copyright = u'2010, Fernando Pérez'
+copyright = u''
 
 # The version info for the project you're documenting, acts as replacement for
 # |version| and |release|, also used in various other places throughout the
@@ -100,12 +100,12 @@ pygments_style = 'sphinx'
 # Sphinx are currently 'default' and 'sphinxdoc'.
 #html_theme = 'default'
 #html_theme = 'sphinxdoc'
-html_theme = 'nature'  # inherits from sphinxdoc and modifies it a little
+html_theme = 'agogo'  # inherits from sphinxdoc and modifies it a little
 
 # The style sheet to use for HTML and HTML Help pages. A file of that name
 # must exist either in Sphinx' static/ path, or in one of the custom paths
 # given in html_static_path.
-html_style = 'nature.css'
+html_style = 'agogo.css'
 
 # Theme options are theme-specific and customize the look and feel of a theme
 # further.  For a list of options available for each theme, see the
@@ -120,7 +120,7 @@ html_theme_path = ['themes']
 
 # The name for this set of Sphinx documents.  If None, it defaults to
 # "<project> v<release> documentation".ke
-html_title = u"Fernando Pérez"
+html_title = u"IPython"
 
 # A shorter title for the navigation bar.  Default is the same as html_title.
 html_short_title = "Home"
@@ -128,7 +128,7 @@ html_short_title = "Home"
 # The name of an image file (relative to this directory) to place at the top
 # of the sidebar.
 #html_logo = None
-#html_logo = "_static/top_mountains_clouds.jpg"
+html_logo = "logos/IPy-120.png"
 
 # The name of an image file (within the static path) to use as favicon of the
 # pixels large.
