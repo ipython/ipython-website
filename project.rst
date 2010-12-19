@@ -1,13 +1,17 @@
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+**Projects Using IPython**
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
 Here is a brief list of other projects using IPython.  If you know of more, feel free to add them, and if IPython contributes to a publication, please see Self:CitingIPython for a citation entry.
 
-================
+===============================
 Scientific computing projects 
-================
+===============================
  * The `JModelica <http://www.jmodelica.org>`_ system for dynamical systems simulation and modeling uses IPython and matplotlib for its interactive analysis and visualization.
  * The University of Colorado's Mechanical Engineering Department, as part of the Denver Aerosol Sources and Health (DASH) study,  `uses IPython <http://www.microsoft.com/casestudies/Case_Study_Detail.aspx?CaseStudyID=4000007661>`_ to parallelize the data analysis.
- * The Sardana system, part of the `uses IPython <http://www.esrf.eu European Synchrotron Radiation Facility>`_.
+ * The Sardana system, part of the `European Synchrotron Radiation Facility <http://www.esrf.eu European Synchrotron Radiation Facility>`_.
  * `ASCEND <http://ascend.cheme.cmu.edu/>`_  embeds an IPython shell in its PyGTK GUI, using code from the Accerciser project. `More details <http://ascendwiki.cheme.cmu.edu/Python_console_support>`_.
- * `PyIMSL Studio <http://www.vni.com/products/imsl/pyimslstudio/overview.php>`_, by Visual Numerics, is a set of tools that expose the classic IMSL numerical libraries to Python, and ships with IPython, NumPy, SciPy and matplotlib as the core Python environment.
+ * `PyIMSL Studio <http://www.vni.com/products/imsl/pyimslstudio/overview.php>`_, by Visual Numerics, is a set of tools that expose the classic IMSL numerical libraries to Python, and ships with IPython, `NumPy <http://numpy.scipy.org/>`_, `SciPy <http://www.scipy.org/>`_ and matplotlib as the core Python environment.
  * The `Trilinos <http://trilinos.sandia.gov>`_  project has Python bindings that can be used effectively via IPython, see `these slides <http://ipython.scipy.org/talks/Trilinos-IPython.pdf>`_ for details.
  * The `PyRAF <http://www.stsci.edu/resources/software_hardware/pyraf>`_  environment for astronomical image analysis, from the `Space Telescope Science Institute <http://www.stsci.edu/>`_ , will include in its next official release an IPython-based interface.  Currently (May'05) this functionality is only available via SVN PyRAF.
  * The `CASA interactive shell <http://casa.nrao.edu/demo1.shtml>`_  from the National Radio Astronomy Observatory is built on top of IPython.

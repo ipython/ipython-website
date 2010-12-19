@@ -14,7 +14,9 @@ As a result of the Microsoft-funded work on providing support for Windows HPC Se
 
 Support for Windows HPC Server 2008
 -----------------------------------
-attachment:logo-hpc2008-header.png
+
+.. image:: http://ipython.scipy.org/moin/News?action=AttachFile&do=get&target=logo-hpc2008-header.png
+
 
 Recently, we have added support for Windows HPC Server 2008 in ipcluster.  This makes it easy to get started with IPython's parallel computing capabilities on Windows. These features are now in trunk and will be in the upcoming 0.11 release.  Brian Granger has created a `whitepaper <attachment:ipython_winhpc_whitepaper_v1.pdf>`_ and `two <http://channel9.msdn.com/shows/The+HPC+Show/Open-source-HPC-code-Episode-11-IPython-Grid-Engine-running-on-Windows-HPC-Server-2008/>`_ `videos <http://channel9.msdn.com/shows/The+HPC+Show/Open-source-HPC-code-Episode-12-IPython-computes-150-million-digits-of-Pi-in-Parallel/>`_ about using IPython on Windows HPC Server 2008. Additional information about these features can be found in our documentation `here <http://ipython.scipy.org/doc/nightly/html/parallel/parallel_winhpc.html>`_.  Many thanks to Microsoft for funding this effort.
 
@@ -49,7 +51,7 @@ IPython 0.8.4 was released.
 
 IPython 0.8.3
 -------------
-IPython 0.8.3 was released. See See WhatsNew083 for a summary of changes.
+IPython 0.8.3 was released. See See `WhatsNew083 <whatsnew083.html>`_ for a summary of changes.
 
 IPython1 and the Scripps Institute's Vision
 ------------------------------------------- 
@@ -67,11 +69,11 @@ Noah Gift wrote a great `article <http://www.ibm.com/developerworks/aix/library/
 IPython 0.8.2 is released (Nov 30, 2007)
 ----------------------------------------
 
-Version 0.8.2 is out.  See WhatsNew082 for a summary of changes, or read the gory details in the full `ChangeLog <http://ipython.scipy.org/ChangeLog>`_.
+Version 0.8.2 is out. See `WhatsNew082 <whatsnew082.html>`_ for a summary of changes, or read the gory details in the full `ChangeLog <http://ipython.scipy.org/ChangeLog>`_.
 
 First release of IpyKit (May 24, 2007)
 --------------------------------------
-IpyKit is a standalone IPython executable, created with py2exe and as such works on machines without python (or where you just don't have time to mess with installation). It includes pyreadline for full tab completion and color support. Get the first release (fully functional, based on svn IPython) `here <http://vivainio.googlepages.com/ipykit.zip>`_. Just unzip and run ipython.exe to go.
+`IpyKit <ipykit.html>`_ is a standalone IPython executable, created with py2exe and as such works on machines without python (or where you just don't have time to mess with installation). It includes pyreadline for full tab completion and color support. Get the first release (fully functional, based on svn IPython) `here <http://vivainio.googlepages.com/ipykit.zip>`_. Just unzip and run ipython.exe to go.
 
 Backports for 0.8.1 (may 23, 2007)
 ----------------------------------
@@ -81,7 +83,7 @@ IPython 0.8.1 is released (May 10, 2007)
 ----------------------------------------
 Version 0.8.1 is out.  See WhatsNew for a summary of changes, or read the gory details in the full `ChangeLog <http://ipython.scipy.org/ChangeLog>`_.
 
-Windows users can now safely upgrade, as long as they also use a current release of [:PyReadline/Intro:PyReadline] from the `download page <http://ipython.scipy.org/dist>`_.
+Windows users can now safely upgrade, as long as they also use a current release of `PyReadline <pyreadline.html>`_] from the `download page <http://ipython.scipy.org/dist>`_.
 
 Article about IPython in CiSE (May 2007)
 ----------------------------------------
@@ -89,7 +91,7 @@ The `issue <http://cise.aip.org/dbt/dbt.jsp?KEY=CSENFA&Volume=9&Issue=3 May/June
 
 IPython1 0.9alpha1 (Saw) is released (April 24, 2007)
 -----------------------------------------------------
-The first alpha of the new version of ["IPython1"], called Saw, is now out.  Please see the [:IPython1/ReleaseNotes:release notes], and [:Parallel Computing:this page] for more details.
+The first alpha of the new version of IPython1, called Saw, is now out.  Please see the release notes, and this page for more details.
 
 Coding Sprint in Boulder (Coming April 28, 2007)
 ------------------------------------------------
@@ -99,7 +101,7 @@ IPython 0.8.0 is released (April 10, 2007)
 ------------------------------------------
 Version 0.8.0 is out.  See WhatsNew for a summary of changes, or read the gory details in the full `ChangeLog <http://ipython.scipy.org/ChangeLog>`_.
 
-'''WARNING''' for Windows users: IPython 0.8.0 does '''NOT''' work correctly with PyReadline 1.4<:PyReadline/Intro:PyReadline] 1.3. `Use <http://ipython.scipy.org/dist/pyreadline-1.4.2.win32.exe>`_ instead.
+'''WARNING''' for Windows users: IPython 0.8.0 does '''NOT''' work correctly with `PyReadline <pyreadline.html>`_ 1.3 , Use `PyReadLine 1.4 <http://ipython.scipy.org/dist/pyreadline-1.4.2.win32.exe>`_ instead.
 
 IPython 0.7.3 is released (December 19, 2006)
 ---------------------------------------------

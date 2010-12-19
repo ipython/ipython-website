@@ -7,7 +7,7 @@
  Stable Releases
 =================
 
-Our `downloads <http://ipython.scipy.org/dist_>`_ directory for source distributions for Linux, Unix, Mac OS X and binaries for Windows.
+Our `downloads <http://ipython.scipy.org/dist>`_ directory for source distributions for Linux, Unix, Mac OS X and binaries for Windows.
 
 The current stable release, version 0.10.1, can be downloaded directly as:
 

@@ -14,6 +14,15 @@
   padding: 0px;
 }
 
+
+div.header-wrapper {
+  background: {{ theme_headerbg }};
+  border-top: 0px solid #babdb6;
+  padding-top: 0px;
+  padding-bottom: 70px;
+  min-height: 0px;
+}
+
 body {
   font-family: {{ theme_bodyfont }};
   line-height: 1.4em;
@@ -32,7 +41,7 @@ div.header, div.content, div.footer {
 
 div.header-wrapper {
   background: {{ theme_headerbg }};
-  border-bottom: 3px solid #2e3436;
+  border-bottom: 0px solid #2e3436;
 }
 
 
@@ -150,7 +159,7 @@ div.header div.rel a {
 }
 
 p.logo {
-    float: right;
+    float: left;
 }
 
 img.logo {
