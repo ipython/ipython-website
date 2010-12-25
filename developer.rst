@@ -1,6 +1,6 @@
-===================
+~~~~~~~~~~~~~~~~~~~~
 **Developer Zone**
-===================
+~~~~~~~~~~~~~~~~~~~~
 
 
 Welcome to IPython's Developer Zone.  This page has information about IPython's development.  IPython is developed by a distributed team of developers using
@@ -13,36 +13,35 @@ tools like `Git <http://git-scm.com>`_ and `GitHub <http://github.com>`_.
 IPython development has been moved to `GitHub <http://github.com/ipython>`_, using the  `Git <http://git-scm.com>`_ distributed version control system.
 
 
-The development version of IPython can be downloaded from our Git``Hub repository by doing:
+The development version of IPython can be downloaded from our GitHub repository by doing::
 
-**git clone git://github.com/ipython/ipython.git**
+    git clone git://github.com/ipython/ipython.git
 
 =====================================================================
  Running from a Git checkout without reinstalling after every update 
 =====================================================================
 
-The best way to run IPython from Git development code is to install setuptools and run
+The best way to run IPython from Git development code is to install setuptools and run::
 
-**setupegg.py develop**
+    setupegg.py develop
 
 in your git checkout directory. This way, the development version will be available as your "system" IPython, and this will also work for projects that embed IPython.
 
-Another way is to add a couple symlinks; however, this wont support embedding IPython. As an example, let's assume that your `$PYTHONPATH` includes the directory `$HOME/usr/local/lib/python2.4/site-packages` (a convenient choice if you usually install locally downloaded pacakges via `setup.py install --prefix=$HOME/usr/local`).  Lets imagine you've also just done the checkout of the IPython trunk, as indicated above, and put it in `$HOME/usr/local/src`. Then, the IPython library directory would be `$HOME/usr/local/src/ipython/IPython`. To make this available to python, add the following symlink:
+Another way is to add a couple symlinks; however, this wont support embedding IPython. As an example, let's assume that your `$PYTHONPATH` includes the directory `$HOME/usr/local/lib/python2.4/site-packages` (a convenient choice if you usually install locally downloaded pacakges via `setup.py install --prefix=$HOME/usr/local`).  Lets imagine you've also just done the checkout of the IPython trunk, as indicated above, and put it in `$HOME/usr/local/src`. Then, the IPython library directory would be `$HOME/usr/local/src/ipython/IPython`. To make this available to python, add the following symlink::
 
+    ln -s $HOME/usr/local/src/ipython/IPython $HOME/usr/local/lib/python2.4/site-packages/IPython
 
-**ln -s $HOME/usr/local/src/ipython/IPython $HOME/usr/local/lib/python2.4/site-packages/IPython**
+You will also need to symlink several IPython startup scripts so that they can be found by your $PATH. In the above example, you might do::
 
-You will also need to symlink several IPython startup scripts so that they can be found by your $PATH. In the above example, you might do:
+    ln -s $HOME/usr/local/src/ipython/scripts/ipython /usr/local/bin/ipython
 
-**ln -s $HOME/usr/local/src/ipython/scripts/ipython /usr/local/bin/ipython**
+and::
 
-and
+    ln -s $HOME/usr/local/src/ipython/scripts/pycolor /usr/local/bin/pycolor
 
-**ln -s $HOME/usr/local/src/ipython/scripts/pycolor /usr/local/bin/pycolor**
+Note that even if the code were to contain C extensions (IPython currently doesn't), you don't need to issue a `python setup.py` command. Rather, you'd just manually rebuild the extensions via::
 
-Note that even if the code were to contain C extensions (IPython currently doesn't), you don't need to issue a `python setup.py` command. Rather, you'd just manually rebuild the extensions via:
-
-**python setup.py build_ext --inplace**
+    python setup.py build_ext --inplace
 
 The `inplace` option ensures that the extension module is left in the library directory, so the above symlink trick finds all the code (pure python and extensions) together.
 

@@ -1,4 +1,4 @@
-# Makefile for building a website using sphinx.
+#h Makefile for building a website using sphinx.
 # This Makefile has been heavily modified from the original that
 # sphinx-quickstart automatically creates
 
@@ -10,7 +10,7 @@ SOURCEDIR     = .
 
 # Other variables for site management, css updating, etc.
 STATICDIR   = _static
-STATIC_CSS  = themes/fperez/static
+STATIC_CSS  = themes/agogo/static
 SITE        = $(BUILDDIR)/html
 WWW         = fdo_perez@fperez.org:fperez.org/www
 

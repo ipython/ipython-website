@@ -15,7 +15,7 @@ As a result of the Microsoft-funded work on providing support for Windows HPC Se
 Support for Windows HPC Server 2008
 -----------------------------------
 
-.. image:: http://ipython.scipy.org/moin/News?action=AttachFile&do=get&target=logo-hpc2008-header.png
+.. image:: logos/logo-hpc2008-header.png
 
 
 Recently, we have added support for Windows HPC Server 2008 in ipcluster.  This makes it easy to get started with IPython's parallel computing capabilities on Windows. These features are now in trunk and will be in the upcoming 0.11 release.  Brian Granger has created a `whitepaper <attachment:ipython_winhpc_whitepaper_v1.pdf>`_ and `two <http://channel9.msdn.com/shows/The+HPC+Show/Open-source-HPC-code-Episode-11-IPython-Grid-Engine-running-on-Windows-HPC-Server-2008/>`_ `videos <http://channel9.msdn.com/shows/The+HPC+Show/Open-source-HPC-code-Episode-12-IPython-computes-150-million-digits-of-Pi-in-Parallel/>`_ about using IPython on Windows HPC Server 2008. Additional information about these features can be found in our documentation `here <http://ipython.scipy.org/doc/nightly/html/parallel/parallel_winhpc.html>`_.  Many thanks to Microsoft for funding this effort.

@@ -21,9 +21,9 @@ Other useful documentation:
 
  - `Tips <http://ipython.scipy.org/doc/manual/html/interactive/tutorial.html>`_ for using IPython effectively.
  - IPython `screenshots <http://ipython.scipy.org/screenshots/index.html>`_.
- - A page for `Frequently Asked Questions <http://ipython.scipy.org/moin/FAQ>`_
+ - A page for `Frequently Asked Questions <faq.html>`_
  - The user maintained IPython `Cookbook <cookbook.html>`_.
- - `IpythonExtensionApi <http://ipython.scipy.org/moin/IpythonExtensionApi>`_ should be used both for extension and per-user configuration of IPython.
+ - `IpythonExtensionApi <api.html>`_ should be used both for extension and per-user configuration of IPython.
  - An `article about IPython <http://fperez.org/papers/ipython07_pe-gr_cise.pdf>`_, written by Fernando Perez and Brian Granger, published in the  `May/June 2007 issue <http://cise.aip.org/dbt/dbt.jsp?KEY=CSENFA&Volume=9&Issue=3>`_ of the journal ''Computing in Science and Engineering''.
 The manuals for all releases by number are here (note that we only have the recent ones from the Sphinx build system, we'll try to add old ones of historical interest later):
 
