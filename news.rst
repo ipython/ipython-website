@@ -2,6 +2,12 @@
 News
 ====
 
+IPython 0.10.2 released
+-----------------------
+IPython 0.10.2 was released on 9 June, 2011. This is a bugfix release for the 0.10
+series. See the `release notes <http://ipython.github.com/ipython-doc/stable/html/changes.html#release-0-10-2>`_
+for more details.
+
 
 IPython 0.10.1 is out!
 ----------------------
