@@ -60,33 +60,6 @@ you may find a few surprises if you update from our GitHub sources frequently.
 ``git clone git://github.com/ipython/ipython.git``
 
 
-~~~~~~~~~~~~~
-Documentation
-~~~~~~~~~~~~~
-`This page <documentation.html>`_ has links to all of IPython's documentation.
-
-
-~~~~~~~~~~~~~
-Mailing Lists 
-~~~~~~~~~~~~~
-The easiest way to get your questions about IPython answered is to ask on our
-mailing lists. Please note that these do *not* allow non-subscribers to post,
-because of the inordinate amount of spam that is otherwise generated.
-
- -  `Users <http://projects.scipy.org/mailman/listinfo/ipython-user>`_ mailing list
- -  `Developers <http://projects.scipy.org/mailman/listinfo/ipython-dev>`_ mailing list
-
-A gmane news gateway provides web mirrors of these lists
-(`users <http://news.gmane.org/gmane.comp.python.ipython.user>`_ and
-`developers <http://news.gmane.org/gmane.comp.python.ipython.devel>`_).
-
-
-~~~~~~~~~~~
-Report Bugs
-~~~~~~~~~~~
-We want IPython to be as bug-free as possible, so we encourage our users to `report <http://github.com/ipython/ipython/issues>`_ all bugs they find, as well as important feature requests (those should be marked as "Wishlist" items).
-
-
 ~~~~~~~~~~
 PyReadline
 ~~~~~~~~~~
