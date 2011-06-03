@@ -170,8 +170,7 @@ img.logo {
 /* Content */
 div.content-wrapper {
   background-color: white;
-  padding-top: 20px;
-  padding-bottom: 20px;
+  padding: 1em;
 }
 
 div.document {
@@ -317,7 +316,6 @@ div.footer-wrapper {
   border-top: 4px solid #babdb6;
   padding-top: 10px;
   padding-bottom: 10px;
-  min-height: 80px;
 }
 
 div.footer, div.footer a {
