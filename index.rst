@@ -60,12 +60,6 @@ you may find a few surprises if you update from our GitHub sources frequently.
 ``git clone git://github.com/ipython/ipython.git``
 
 
-~~~~~~~~~~
-PyReadline
-~~~~~~~~~~
-Under Windows, IPython requires an additional module to support color, tab completion and other features. These are provided by the `PyReadline <pyreadline.html>`_ project, also hosted on this site.
-
-
 ~~~~~~~
 Hosting
 ~~~~~~~

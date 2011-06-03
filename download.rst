@@ -26,3 +26,13 @@ Installation instructions
 Our installation instructions can be found in our official 
 `documentation <http://ipython.scipy.org/doc/rel-0.10.1/html/install/index.html>`_. 
 
+Readline
+--------
+
+IPython relies on the readline library for features like tab completion.
+
+* Most Linux distributions will have readline already.
+* For Mac OS X, readline can be installed `from PyPI <http://pypi.python.org/pypi/readline>`_.
+  The alternative (libedit) shipped with OS X is known to cause problems in IPython.
+* Under Windows, the functionality is provided by the `PyReadline <pyreadline.html>`_
+  project, also hosted on this site.
