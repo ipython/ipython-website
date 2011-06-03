@@ -1,6 +1,6 @@
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-**Presentations Using IPython**
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~
+ Presentations on IPython
+~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 
 We have given a number of talks and presentations about IPython:

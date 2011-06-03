@@ -148,9 +148,9 @@ html_static_path = ['_static']
 #html_use_smartypants = True
 
 # Custom sidebar templates, maps document names to template names.
+# TODO: split this up into several chunks
 html_sidebars = {
-   '**': ['globaltoc.html', 'searchbox.html'],
-   'index': ['sidebar_links.html', 'searchbox.html'],
+   '**': ['sidebar_links.html'],
 }
 
 # Additional templates that should be rendered to pages, maps page names to
