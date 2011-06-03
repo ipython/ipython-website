@@ -34,7 +34,7 @@ body {
 /* Page layout */
 
 div.header, div.content, div.footer {
-  width: {{ theme_pagewidth }};
+  max-width: {{ theme_pagewidth }};
   margin-left: auto;
   margin-right: auto;
 }
