@@ -173,8 +173,7 @@ div.content-wrapper {
 }
 
 div.document {
-  width: {{ theme_documentwidth }};
-  float: left;
+  max-width: {{ theme_documentwidth }};
 }
 
 div.body {
@@ -248,6 +247,7 @@ div.document ol {
 
 div.sphinxsidebar {
   width: {{ theme_sidebarwidth }};
+  padding: 0 2em;
   float: right;
   font-size: .9em;
 }

@@ -27,7 +27,7 @@ extensions = ['sphinx.ext.doctest',
               'sphinx.ext.pngmath',
               'sphinx.ext.ifconfig',
               
-              'ipython_console_highlighting',
+              #'ipython_console_highlighting',
               ]
 
 # Add any paths that contain templates here, relative to this directory.

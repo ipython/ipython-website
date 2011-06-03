@@ -39,17 +39,17 @@
 {% block content %}
     <div class="content-wrapper">
       <div class="content">
-        <div class="document">
-          {%- block document %}
-            {{ super() }}
-          {%- endblock %}
-        </div>
         {%- block sidebar2 %}
             {# We don't want the logo here #}
             {%- block sidebarlogo %} {% endblock %}
             {{ sidebar() }}
         {% endblock %}
-      <div class="clearer"></div>
+        <div class="document">
+          {%- block document %}
+            {{ super() }}
+          {%- endblock %}
+        </div>
+        <div class="clearer"></div>
     </div>
     </div>
 {% endblock %}
