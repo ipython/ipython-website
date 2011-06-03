@@ -265,6 +265,15 @@ div.sphinxsidebar h3 {
   text-transform: uppercase;
   font-size: 130%;
   letter-spacing: .1em;
+  margin-bottom: .4em;
+}
+
+div.sphinxsidebar .tile {
+  border: 1px solid #CCC;
+  border-radius: 10px;
+  background-color: #DDD;
+  padding-left: 0.5em;
+  margin: 1em 0;
 }
 
 div.sphinxsidebar ul {

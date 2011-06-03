@@ -150,7 +150,7 @@ html_static_path = ['_static']
 # Custom sidebar templates, maps document names to template names.
 # TODO: split this up into several chunks
 html_sidebars = {
-   '**': ['sidebar_links.html'],
+   '**': ['sidebar_versions.html', 'sidebar_links.html'],
 }
 
 # Additional templates that should be rendered to pages, maps page names to
