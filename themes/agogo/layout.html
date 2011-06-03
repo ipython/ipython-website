@@ -44,58 +44,13 @@
             {{ super() }}
           {%- endblock %}
         </div>
-        <div class="sidebar">
-          
-
-            {# This block gets put at the top of the sidebar #}
-            {% block sidebarlogo %}
-            
-            {% endblock %}
-
-
-          {%- block sidebartoc %}
-          <h3>{{ _('Site Navigation') }}</h3>
-
-              <ul class="simple">
-                <li><a class="reference external"
-	            href="{{pathto('index')}}">Home</a></li>                
-                <li><a class="reference external"
-	            href="{{pathto('documentation')}}">Documentation</a></li>
-                <li><a class="reference external"
-	            href="{{pathto('download')}}">Download</a></li>
-                <li><a class="reference external"
-	            href="{{pathto('news')}}">News</a></li>
-                <li><a class="reference external"
-	            href="{{pathto('cookbook')}}">Cookbook</a></li>
-                <li><a class="reference external"
-	            href="{{pathto('developer')}}">Developer Zone</a></li>
-                <li><a class="reference external"
-	            href="{{pathto('changes')}}">Recent Changes</a></li>
-                <li><a class="reference external"
-	            href="{{pathto('project')}}">Projects</a></li>
-                <li><a class="reference external"
-	            href="{{pathto('presentation')}}">Presentations</a></li>                
-                <li><a class="reference external"
-	            href="{{pathto('findpage')}}">Find Page</a></li>
-              </ul>          
-
-          
-          {%- endblock %}
-          {%- block sidebarsearch %}
-          <h3 style="margin-top: 1.5em;">{{ _('Search') }}</h3>
-          <form class="search" action="{{ pathto('search') }}" method="get">
-            <input type="text" name="q" size="18" />
-            <input type="submit" value="{{ _('Go') }}" />
-            <input type="hidden" name="check_keywords" value="yes" />
-            <input type="hidden" name="area" value="default" />
-          </form>
-          <p class="searchtip" style="font-size: 90%">
-            {{ _('Enter search terms or a module, class or function name.') }}
-          </p>
-          {%- endblock %}
-        </div>
-        <div class="clearer"></div>
-      </div>
+        {%- block sidebar2 %}
+            {# We don't want the logo here #}
+            {%- block sidebarlogo %} {% endblock %}
+            {{ sidebar() }}
+        {% endblock %}
+      <div class="clearer"></div>
+    </div>
     </div>
 {% endblock %}
 

@@ -248,32 +248,32 @@ div.document ol {
 
 /* Sidebar */
 
-div.sidebar {
+div.sphinxsidebar {
   width: {{ theme_sidebarwidth }};
   float: right;
   font-size: .9em;
 }
 
-div.sidebar a, div.header a {
+div.sphinxsidebar a, div.header a {
   text-decoration: none;
 }
 
-div.sidebar a:hover, div.header a:hover {
+div.sphinxsidebar a:hover, div.header a:hover {
   text-decoration: underline;
 }
 
-div.sidebar h3 {
+div.sphinxsidebar h3 {
   color: #2e3436;
   text-transform: uppercase;
   font-size: 130%;
   letter-spacing: .1em;
 }
 
-div.sidebar ul {
+div.sphinxsidebar ul {
   list-style-type: none;
 }
 
-div.sidebar li.toctree-l1 a {
+div.sphinxsidebar li.toctree-l1 a {
   display: block;
   padding: 1px;
   border: 1px solid #dddddd;
@@ -283,29 +283,29 @@ div.sidebar li.toctree-l1 a {
   color: #2e3436;
 }
 
-div.sidebar li.toctree-l2 a {
+div.sphinxsidebar li.toctree-l2 a {
   background-color: transparent;
   border: none;
   margin-left: 1em;
   border-bottom: 1px solid #dddddd;
 }
 
-div.sidebar li.toctree-l3 a {
+div.sphinxsidebar li.toctree-l3 a {
   background-color: transparent;
   border: none;
   margin-left: 2em;
   border-bottom: 1px solid #dddddd;
 }
 
-div.sidebar li.toctree-l2:last-child a {
+div.sphinxsidebar li.toctree-l2:last-child a {
   border-bottom: none;
 }
 
-div.sidebar li.toctree-l1.current a {
+div.sphinxsidebar li.toctree-l1.current a {
   border-right: 5px solid {{ theme_headerlinkcolor }};
 }
 
-div.sidebar li.toctree-l1.current li.toctree-l2 a {
+div.sphinxsidebar li.toctree-l1.current li.toctree-l2 a {
   border-right: none;
 }
 

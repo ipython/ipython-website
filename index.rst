@@ -70,7 +70,7 @@ Documentation
 Mailing Lists 
 ~~~~~~~~~~~~~
 The easiest way to get your questions about IPython answered is to ask on our
-mailing lists. Please note that these do ''not'' allow non-subscribers to post,
+mailing lists. Please note that these do *not* allow non-subscribers to post,
 because of the inordinate amount of spam that is otherwise generated.
 
  -  `Users <http://projects.scipy.org/mailman/listinfo/ipython-user>`_ mailing list
