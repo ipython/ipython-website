@@ -16,48 +16,39 @@ see what projects are using IPython `here <project.html>`_, or check out the
 IPython supports Python 2.5 and 2.6 officially.  If you need to use Python 2.4,
 the 0.10 series probably works OK but has not been extensively tested with 2.4.
 
-An *experimental* Python 3 port has been started recently.  The code is
-currently only available 
-`in source form from github <http://github.com/ipython/ipython-py3k>`_ but we
-welcome testing, contributions and improvements. Please join the 
-`IPython developers list <http://mail.scipy.org/mailman/listinfo/ipython-dev>`_
-to participate!
+~~~~~~~~~~~~~
+Announcements
+~~~~~~~~~~~~~
+
+- **Testing:** We aim to release 0.11 soon, but there are a lot of changes, so
+  we're looking for users to test it. If you're interested, please download or
+  check out the code `from Github <https://github.com/ipython/ipython>`_, and
+  let us know of any problems on the `mailing list <http://projects.scipy.org/mailman/listinfo/ipython-dev>`_
+  or `bug tracker <https://github.com/ipython/ipython/issues>`_.
+- **Python 3:** An *experimental* Python 3 port has been started recently. The
+  code is currently only available 
+  `in source form from github <http://github.com/ipython/ipython-py3k>`_ but we
+  welcome testing, contributions and improvements. Please join the 
+  `developers list <http://mail.scipy.org/mailman/listinfo/ipython-dev>`_
+  to participate!
+- **User survey:** We'd like to know a bit about who uses IPython. Please
+  `fill in <https://spreadsheets.google.com/viewform?formkey=dDMzREtNSk9pX282N3lxaXhiTmxyN0E6MQ>`_
+  a short, anonymous survey. The `results <https://spreadsheets.google.com/spreadsheet/ccc?key=0AqIElKUDQl8tdDMzREtNSk9pX282N3lxaXhiTmxyN0E&hl=en_GB&authkey=CNOmu-QC#gid=0>`_
+  are publically visible and automatically updated.
+  
+`More news... <news.html>`_
+
 
 ~~~~~~~~~~~~~~
 Citing IPython
 ~~~~~~~~~~~~~~
-Several of the authors of IPython are connected with academic and scientific research, so it is important to us to be able to show the impact of our work in other projects and fields.
+Several of the authors of IPython are connected with academic and scientific
+research, so it is important to us to be able to show the impact of our work in
+other projects and fields.
 
-If IPython contributes to a project that leads to a scientific publication, please acknowledge this fact by citing the project. You can use this `ready-made citation entry <citing.html>`_.
-
-
-~~~~~~~~~~~~~
-Announcements
-~~~~~~~~~~~~~
- - **Development Version:** what will be 0.11 is taking shape, but lots of changes are coming (including some that break compatibility).  We would like your feedback, from either the `nightly documentation <http://ipython.scipy.org/doc/nightly/html/whatsnew/development.html>`_ or `source tarball <http://github.com/ipython/ipython/tarball/master>`_ (you can also follow the trunk from `GitHub <http://github.com/ipython/ipython>`_).
- - **Stable Version:** 0.10.2, released on April 9, 2011.
-
-
-More news about IPython can be found `here <news.html>`_.
-
-
-~~~~~~~~
-Download
-~~~~~~~~
-If you just want to grab IPython, this `page <download.html>`_ has direct links
-to downloads of the latest version in various formats, and you can always access
-the download directory with all previous versions `here <download.html>`_.
-
-
-Or, for those who prefer the bleeding edge, the development version of IPython
-can be downloaded from our `GitHub repository <http://github.com/ipython/ipython>`_
-using `Git <http://git-scm.com>`_:
-
-Please note that currently, the IPython trunk is undergoing significant changes
-and APIs are changing. So unless you keep tabs on the development mailing list,
-you may find a few surprises if you update from our GitHub sources frequently.
-
-``git clone git://github.com/ipython/ipython.git``
+If IPython contributes to a project that leads to a scientific publication,
+please acknowledge this fact by citing the project. You can use this
+`ready-made citation entry <citing.html>`_.
 
 
 ~~~~~~~
