@@ -7,7 +7,7 @@ interactive and exploratory computing.  To support, this goal, IPython
 has two main components:
 
 	- An enhanced interactive Python shell.
-	- An architecture for interactive parallerel computing.
+	- An architecture for interactive parallel computing.
 
 All of IPython is open source (released under the revised BSD license). You can
 see what projects are using IPython `here <project.html>`_, or check out the
