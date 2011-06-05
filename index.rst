@@ -28,7 +28,7 @@ Citing IPython
 ~~~~~~~~~~~~~~
 Several of the authors of IPython are connected with academic and scientific research, so it is important to us to be able to show the impact of our work in other projects and fields.
 
-If IPython contributes to a project that leads to a scientific publication, please acknowledge this fact by citing the project, you can see `CitingIPython <citing.html>`_ for a ready-made citation entry.  We have a listing of `projects using IPython <project.html>`_, for which updates are always also welcome.
+If IPython contributes to a project that leads to a scientific publication, please acknowledge this fact by citing the project. You can use this `ready-made citation entry <citing.html>`_.
 
 
 ~~~~~~~~~~~~~
