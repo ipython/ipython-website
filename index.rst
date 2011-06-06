@@ -9,11 +9,12 @@ has two main components:
 	- An enhanced interactive Python shell.
 	- An architecture for interactive parallel computing.
 
-All of IPython is open source (released under the revised BSD license). You can
-see what projects are using IPython `here <project.html>`_, or check out the
-`talks and presentations <presentation.html>`_ we have given about IPython.  
+All of IPython is open source (released under the revised BSD license), and it is
+used by a range of `other projects <http://ipython.scipy.org/moin/About/Projects_Using_IPython>`_.
+Have a look at the `talks and presentations <presentation.html>`_ we have given
+about IPython.  
 
-IPython supports Python 2.5 and 2.6 officially.  If you need to use Python 2.4,
+IPython supports Python 2.5 and 2.6 officially. If you need to use Python 2.4,
 the 0.10 series probably works OK but has not been extensively tested with 2.4.
 
 ~~~~~~~~~~~~~
