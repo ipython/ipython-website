@@ -2,12 +2,25 @@
 News
 ====
 
+User survey
+-----------
+From May 2011, we've been running a survey to find about more about who uses
+IPython. If you're an IPython user, please `fill in <https://spreadsheets.google.com/viewform?formkey=dDMzREtNSk9pX282N3lxaXhiTmxyN0E6MQ>`_
+this short, anonymous questionnaire. The `results <https://spreadsheets.google.com/spreadsheet/ccc?key=0AqIElKUDQl8tdDMzREtNSk9pX282N3lxaXhiTmxyN0E&hl=en_GB&authkey=CNOmu-QC#gid=0>`_
+are publically visible and automatically updated.
+
 IPython 0.10.2 released
 -----------------------
-IPython 0.10.2 was released on 9 June, 2011. This is a bugfix release for the 0.10
+IPython 0.10.2 was released on 9 April, 2011. This is a bugfix release for the 0.10
 series. See the `release notes <http://ipython.github.com/ipython-doc/stable/html/changes.html#release-0-10-2>`_
 for more details.
 
+Python 3 support in progress
+----------------------------
+Work has started to get IPython running on Python 3. If you're interested in
+testing it, get `the code <https://github.com/ipython/ipython-py3k>`_ from GitHub,
+and read the `developer notes <http://ipython.scipy.org/moin/Python3>`_ on the
+wiki. We hope to release this along with IPython 0.11.
 
 IPython 0.10.1 is out!
 ----------------------
