@@ -79,7 +79,7 @@ Version 0.8.2 is out. See `WhatsNew082 <whatsnew082.html>`_ for a summary of cha
 
 First release of IpyKit (May 24, 2007)
 --------------------------------------
-`IpyKit <ipykit.html>`_ is a standalone IPython executable, created with py2exe and as such works on machines without python (or where you just don't have time to mess with installation). It includes pyreadline for full tab completion and color support. Get the first release (fully functional, based on svn IPython) `here <http://vivainio.googlepages.com/ipykit.zip>`_. Just unzip and run ipython.exe to go.
+`IpyKit <http://ipython.scipy.org/moin/IpyKit>`_ is a standalone IPython executable, created with py2exe and as such works on machines without python (or where you just don't have time to mess with installation). It includes pyreadline for full tab completion and color support. Get the first release (fully functional, based on svn IPython) `here <http://vivainio.googlepages.com/ipykit.zip>`_. Just unzip and run ipython.exe to go.
 
 Backports for 0.8.1 (may 23, 2007)
 ----------------------------------
