@@ -41,6 +41,6 @@ This does not list bugfixes, enhanced internals or api additions.
 
  * We still get crashes from KeyboardInterrupt occasionally (caused by pressing ctrl+C or ctrl+break)
  * Unicode support is not yet perfect, so expect problems on Unicode input/output.
- * The manual is hopelessly out of date. This is something we will look into during 0.8.3 cycle; in the meantime, see the `documentation <documentation.html>`_ page on the wiki] and the user-maintained `Cookbook <cookbook.html>`_
+ * The manual is hopelessly out of date. This is something we will look into during 0.8.3 cycle; in the meantime, see the documentation page on the wiki [superseded], and the user-maintained `cookbook <http://ipython.scipy.org/moin/Cookbook>`_.
  * Under OSX Leopard, we are seeing some readline-related problems with history recall.  It is not clear yet whether the issue is with IPython or Leopard's readline support itself.  We're investigating the issue.
 
