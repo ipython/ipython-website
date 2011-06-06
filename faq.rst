@@ -1,13 +1,12 @@
-=====
-**FAQ**
-=====
+===
+FAQ
+===
 
-This is the IPython Frequently Asked Questions page. Feel free to contribute new information to it!
+If your question isn't answered below, check `the docs <http://ipython.github.com/ipython-doc/>`_, then ask on the `user mailing list <http://projects.scipy.org/mailman/listinfo/ipython-user>`_.
 
-
-------------------------------------------------------------
- Q. Running IPython against multiple versions of Python 
-------------------------------------------------------------
+---------------------------------------------------
+Running IPython against multiple versions of Python 
+---------------------------------------------------
     I would like to know if there is an easy way to install parallel versions of ipython ? Actually, I would like to be able to use ipython with python 2.4 which is the default on my machine, and with python2.5 (compiled by hand); is changing the python interpreter in the ipython script the only required change ? (I was thinking about having ipython with the default interpreter and ipython2.5 using the python2.5 interpreter) ?
 **Answer:** You can install IPython against various interpreters by using the following call::
 
@@ -24,7 +23,7 @@ In this case, the second call will overwrite the startup script of the first in 
 or you can just have two copies of the ipython startup script named differently and with their first line changed to point to the actual interpreter.
 
 --------------------------------
- Q. IPython crashes under OS X when using the arrow keys
+IPython crashes under OS X when using the arrow keys
 --------------------------------
 Under some circumstances, using the arrow keys to navigate your input history can cause a complete crash of the Python interpreter.
 
@@ -32,32 +31,32 @@ Under some circumstances, using the arrow keys to navigate your input history ca
 
  1. Use a different Python version from Apple's default (MacPython or Fink have been reported to work)
 
- 1. You can disable in your ipythonrc file the following lines by commenting them out::
+ 2. You can disable in your ipythonrc file the following lines by commenting them out::
 
-    readline_parse_and_bind "\e[A": history-search-backward
-    readline_parse_and_bind "\e[B": history-search-forward
+      readline_parse_and_bind "\e[A": history-search-backward
+      readline_parse_and_bind "\e[B": history-search-forward
 
 You will lose searching in your history with the arrow keys, but at least Python won't crash.
 
 ------------------------------
- Q. Does IPython play well with Windows? 
+Does IPython play well with Windows? 
 ------------------------------
-Yes, it most definitely does! See IpythonOnWindows for some things that should be noted, though.
+Yes, it most definitely does! There are some things that should be noted: `see the wiki <http://ipython.scipy.org/moin/IpythonOnWindows>`_.
 
 ---------------------------
- Q. What is the best way to install IPython? 
+What is the best way to install IPython? 
 ---------------------------
- * The classic "python setup.py install" still works, of course, and is recommended for Linux boxes where you have root privileges.
+ * The classic ``python setup.py install`` still works, of course, and is recommended for Linux boxes where you have root privileges.
  * On windows you'll probably want to run the .exe installer to get the shortcuts and ipython.py in \python25\scripts.
- * "easy_install ipython==dev" is the easiest way to install the SVN trunk version.
- * "easy_install ipython" is a quick way to get ipython without downloading or unzipping anything manually, but you'll miss windows shortcuts, and documentation (man pages, pdf...) will not be where it normally is.
+ * ``easy_install ipython==dev`` is the easiest way to install the SVN trunk version.
+ * ``easy_install ipython`` is a quick way to get ipython without downloading or unzipping anything manually, but you'll miss windows shortcuts, and documentation (man pages, pdf...) will not be where it normally is.
  * If you want to run the latest ipython instead of an older version provided with your linux distro, and don't want to remove/mess with the already existing version, don't have root privileges to install ipython, or just want to run multiple ipython versions for some reason, just untar the source distribution somewhere and launch ipython.py.
 
 --------------------------
- Q. Why do I get garbage characters when long information is displayed by the pager? 
+Why do I get garbage characters when long information is displayed by the pager? 
 --------------------------
 
-**Answer:** The color escapes used by IPython are not correctly interpreted by default by many common pagers ('less' included). The manual describes `here <http://ipython.scipy.org/doc/stable/html/config/initial_config.html#object-details-types-docstrings-source-code-etc>`_ the problem and its solution in detail, but the short version is that your bashrc file should contain::
+The color escapes used by IPython are not correctly interpreted by default by many common pagers ('less' included). The manual describes `here <http://ipython.scipy.org/doc/stable/html/config/initial_config.html#object-details-types-docstrings-source-code-etc>`_ the problem and its solution in detail, but the short version is that your bashrc file should contain::
 
     export PAGER=less
     export LESS=-r
@@ -65,12 +64,12 @@ Yes, it most definitely does! See IpythonOnWindows for some things that should b
 
 
 ---------------------------
- Q. Am I doing something foolish, or is this a limitation of using ipython with doctest? 
+Why doesn't running doctests from within IPython work?
 ---------------------------
-**Answer:** The latter, I'm afraid, but there's a workaround.  The reason, deep
+This is a known problem, but there's a workaround. The reason, deep
 down, is a clash between ipython's modification of sys.displayhook so
 you get nice output prompts, and the fact that the exec builtin is
-internally hardcoded to run sys.displayhook.  So ipython collides with
+internally hardcoded to run sys.displayhook. So ipython collides with
 doctest (which uses 'exec') and all hell breaks loose. 
 
 Fernando Perez fperez.net at gmail.com 
@@ -78,7 +77,7 @@ Thu Jan 18 01:01:39 CST 2007
 
 --------------------------------------------------------------------------------
 
-Here's the workaround.  First, your error (I called your file 'dtest')::
+Here's the workaround. First, your error (I called your file 'dtest')::
 
     In [5]: doctest.testmod(dtest)
     Out[5]: 1
@@ -102,8 +101,8 @@ Now the workaround::
     In [7]: sys.displayhook = sys.__displayhook__
     In [8]: doctest.testmod(dtest)
 
-*** DocTestRunner.merge: 'dtest' in both testers; summing outcomes.
-(0, 3)
+    *** DocTestRunner.merge: 'dtest' in both testers; summing outcomes.
+    (0, 3)
 
 
 Now you can reactivate ipython's displayhook if you want::
@@ -114,15 +113,11 @@ Now you can reactivate ipython's displayhook if you want::
 You could wrap this little sys.displayhook dance in a utility function
 to ease things up.
 
-Cheers, f
-
-ps - brownie points for you if you contribute the above to the ipython wiki FAQ
-
 -----------
- Q. Can IPython run under IronPython? It would be great to have access to all of the .Net libraries via IPython. If not are there any plans to make this possible? =
+Can IPython run under IronPython? It would be great to have access to all of the .Net libraries via IPython. If not are there any plans to make this possible?
 -----------
 
-I (FPerez) don't know specifically, because I don't have a windows machine to test on.  The most likely problems would come from Readline and from having sys._getframe(). On Win32 we ship our own pyreadline, and that might be a valid solution under IronPython, the _getframe() issue would need to be answered by an IronPython expert.  
+I (FPerez) don't know specifically, because I don't have a windows machine to test on. The most likely problems would come from Readline and from having sys._getframe(). On Win32 we ship our own pyreadline, and that might be a valid solution under IronPython, the _getframe() issue would need to be answered by an IronPython expert.  
 
 Updates to this answer by anyone more knowledgeable are welcome!
 

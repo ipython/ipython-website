@@ -115,6 +115,11 @@ img {
   border: 0;
 }
 
+pre {
+  background-color: #EEE;
+  padding: 0.5em;
+}
+
 div.admonition {
   margin-top: 10px;
   margin-bottom: 10px;
