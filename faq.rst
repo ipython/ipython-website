@@ -114,10 +114,17 @@ You could wrap this little sys.displayhook dance in a utility function
 to ease things up.
 
 -----------
-Can IPython run under IronPython? It would be great to have access to all of the .Net libraries via IPython. If not are there any plans to make this possible?
+Can IPython run under IronPython/PyPy/Jython/other Python interpreters?
 -----------
 
-I (FPerez) don't know specifically, because I don't have a windows machine to test on. The most likely problems would come from Readline and from having sys._getframe(). On Win32 we ship our own pyreadline, and that might be a valid solution under IronPython, the _getframe() issue would need to be answered by an IronPython expert.  
+The terminal-based shell should run on any interpreter which complies with
+the necessary version of Python. For the 0.11 release, we will require Python 2.6
+or above, and as of June 2011, IronPython and PyPy both support this.
 
-Updates to this answer by anyone more knowledgeable are welcome!
+The most likely problems would come from Readline and from using the undocumented
+sys._getframe() function. On Windows we ship our own `pyreadline <pyreadline.html>`_,
+which might also work under IronPython.
+
+If IPython does not work under a supported interpreter, please
+`file a bug <https://github.com/ipython/ipython/issues>`_.
 
