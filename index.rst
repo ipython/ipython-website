@@ -14,7 +14,7 @@ used by a range of `other projects <http://ipython.scipy.org/moin/About/Projects
 Have a look at the `talks and presentations <presentation.html>`_ we have given
 about IPython.  
 
-IPython supports Python 2.5 and 2.6 officially. If you need to use Python 2.4,
+IPython supports Python 2.5 to 2.7 officially. If you need to use Python 2.4,
 the 0.10 series probably works OK but has not been extensively tested with 2.4.
 
 ~~~~~~~~~~~~~
