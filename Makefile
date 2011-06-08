@@ -11,8 +11,6 @@ SOURCEDIR     = .
 # Other variables for site management, css updating, etc.
 STATICDIR   = _static
 STATIC_CSS  = themes/agogo/static
-SITE        = $(BUILDDIR)/html
-WWW         = fdo_perez@fperez.org:fperez.org/www
 
 # Internal variables.
 ALLSPHINXOPTS   = -d $(BUILDDIR)/doctrees $(SPHINXOPTS) $(SOURCEDIR)
@@ -51,15 +49,9 @@ doctest:
 	      "results in $(BUILDDIR)/doctest/output.txt."
 
 # fperez - new targets I've added after sphinx-quickstart
-
-# Update target to push to live site
-upload: site
-	chmod -R uog+r $(SITE)
-	rsync -avrzH --copy-links --delete -e ssh  $(SITE)/ $(WWW)
-
-# Update only css files
-css:
-	rsync -av --exclude=~ $(STATIC_CSS)/ $(SITE)/$(STATICDIR)
-
 site: html
-	./copy_trees.py
+	python _scripts/copy_trees.py
+
+# Copy changes to the repo from which they are served
+gh-pages: site
+	python _scripts/gh-pages.py
