@@ -128,7 +128,7 @@ html_short_title = "Home"
 # The name of an image file (relative to this directory) to place at the top
 # of the sidebar.
 #html_logo = None
-html_logo = "logos/IPy-120.png"
+html_logo = "logos/logo.png"
 
 # The name of an image file (within the static path) to use as favicon of the
 # pixels large.
