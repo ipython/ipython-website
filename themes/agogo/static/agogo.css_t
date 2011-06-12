@@ -140,18 +140,22 @@ dt:target, .highlighted {
 
 div.header {
   padding-top: 10px;
-  padding-bottom: 10px;
 }
 
 div.header h1 {
-  font-family: {{ theme_headerfont }};
+  font-family: "Trebuchet MS", Helvetica, sans-serif;
   font-weight: normal;
   font-size: 180%;
   letter-spacing: .08em;
+  line-height: 70px;
 }
 
 div.header h1 a {
   color: white;
+}
+
+div.header h1 a:hover {
+  text-decoration: none;
 }
 
 div.header div.rel {
@@ -164,8 +168,10 @@ div.header div.rel a {
   text-transform: uppercase;
 }
 
-p.logo {
-    float: left;
+div.logo {
+  float: left;
+  padding-left: 10px;
+  padding-right: 30px;
 }
 
 img.logo {
