@@ -16,9 +16,8 @@
 
 
 div.header-wrapper {
-  background: {{ theme_headerbg }};
   border-top: 0px solid #babdb6;
-  padding-top: 0px;
+  padding: 1em 1em 0;
   min-height: 0px;
 }
 
@@ -39,7 +38,6 @@ div.header, div.content, div.footer {
 }
 
 div.header-wrapper {
-  background: {{ theme_headerbg }};
   border-bottom: 0px solid #2e3436;
 }
 
@@ -159,19 +157,17 @@ div.header h1 a:hover {
 
 div.header div.rel {
   margin-top: 1em;
+  border-top: 1px solid #AAA;
+  border-bottom: 1px solid #AAA;
+  padding: 3px 0;
 }
 
 div.header div.rel a {
-  color: {{ theme_headerlinkcolor }};
+  color: {{ theme_linkcolor }};
   letter-spacing: .1em;
-  text-transform: uppercase;
 }
 
-div.logo {
-  float: left;
-  /* Extra padding on the right*/
-  padding: 10px 30px 10px 10px;
-}
+div.logo {}
 
 img.logo {
     border: 0;
