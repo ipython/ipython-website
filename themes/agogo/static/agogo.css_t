@@ -339,22 +339,17 @@ div.sidebarblock {
 /* Footer */
 
 div.footer-wrapper {
-  background: {{ theme_footerbg }};
-  border-top: 4px solid #babdb6;
   padding-top: 10px;
   padding-bottom: 10px;
 }
 
-div.footer, div.footer a {
-  color: #888a85;
-}
-
-div.footer .right {
+div.footer {
+  border-top: 2px solid #aaa;
   text-align: right;
 }
 
-div.footer .left {
-  text-transform: uppercase;
+div.footer, div.footer a {
+  color: #888a85;
 }
 
 
