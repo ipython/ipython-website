@@ -254,7 +254,7 @@ div.document ol {
 
 div.sphinxsidebar {
   width: {{ theme_sidebarwidth }};
-  padding: 0 2em;
+  padding: 0 1em;
   float: right;
   font-size: .9em;
   background-color: white;
