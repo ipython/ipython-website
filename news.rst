@@ -114,7 +114,7 @@ The first alpha of the new version of IPython1, called Saw, is now out.  Please 
 
 Coding Sprint in Boulder (Coming April 28, 2007)
 ------------------------------------------------
-On April 28, we'll hold a coding sprint to push the saw branch and the integration of the trunk into it.  Details `here <:Developer Zone/Sprint:>`_.
+On April 28, we'll hold a coding sprint to push the saw branch and the integration of the trunk into it.  Details `here <http://ipython.scipy.org/moin/Developer_Zone/Sprint>`_.
 
 IPython 0.8.0 is released (April 10, 2007)
 ------------------------------------------
