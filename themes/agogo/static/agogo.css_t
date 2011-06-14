@@ -138,16 +138,15 @@ dt:target, .highlighted {
 
 /* Header */
 
-div.header {
-  padding-top: 10px;
-}
+div.header {}
 
 div.header h1 {
   font-family: "Trebuchet MS", Helvetica, sans-serif;
   font-weight: normal;
-  font-size: 180%;
+  font-size: 250%;
   letter-spacing: .08em;
   line-height: 70px;
+  margin-bottom: 0;
 }
 
 div.header h1 a {
@@ -170,8 +169,8 @@ div.header div.rel a {
 
 div.logo {
   float: left;
-  padding-left: 10px;
-  padding-right: 30px;
+  /* Extra padding on the right*/
+  padding: 10px 30px 10px 10px;
 }
 
 img.logo {
