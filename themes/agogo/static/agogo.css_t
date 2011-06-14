@@ -158,7 +158,7 @@ div.header div.rel {
   margin-top: 1em;
   border-top: 1px solid #AAA;
   border-bottom: 1px solid #AAA;
-  padding: 3px 0;
+  padding: 3px 1em;
 }
 
 div.header div.rel a {
