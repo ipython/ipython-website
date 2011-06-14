@@ -330,6 +330,12 @@ div.sphinxsidebar li.toctree-l1.current li.toctree-l2 a {
   border-right: none;
 }
 
+div.sidebarblock {
+  padding-bottom: .4em;
+  border-bottom: 1px solid #AAA;
+  margin-bottom: .8em;
+}
+
 
 /* Footer */
 

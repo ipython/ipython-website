@@ -1,4 +1,5 @@
 {%- block sidebarlinks %}
+<div class="sidebarblock">
 <h3>{{ _('Links') }}</h3>
 
   <ul class="simple">
@@ -18,9 +19,10 @@
             IRC channel</a><br/>
             <span style="font-size: 0.7em; padding-left: 1em;">(Freenode, #ipython)</span></li>
   </ul>
-  
-  {# Leaving these links here for now - should reorganise into TOC. #}
-  <br/>
+</div>
+
+<div class="sidebarblock">
+  <h3>{{ _('More Info') }}</h3>
   <ul class="simple">
     <li><a class="reference external"
     href="{{pathto('presentation')}}">Presentations</a></li>
@@ -31,5 +33,5 @@
     <li><a class="reference external"
     href="http://ipython.scipy.org/moin/About/Projects_Using_IPython">Projects using IPython</a></li>
   </ul>          
-
+</div>
 {%- endblock %}
