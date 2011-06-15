@@ -258,7 +258,7 @@ div.sphinxsidebar {
   width: {{ theme_sidebarwidth }};
   padding: 0 1em;
   float: right;
-  font-size: .9em;
+  font-size: .93em;
   background-color: white;
 }
 
