@@ -284,9 +284,9 @@ div.sphinxsidebar h4 {
 }
 
 div.sphinxsidebar .tile {
-  border: 1px solid #CCC;
+  border: 1px solid #D1DDE2;
   border-radius: 10px;
-  background-color: #DDD;
+  background-color: #E1E8EC;
   padding-left: 0.5em;
   margin: 1em 0;
 }
