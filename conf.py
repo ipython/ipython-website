@@ -43,8 +43,8 @@ source_suffix = '.rst'
 master_doc = 'index'
 
 # General information about the project.
-project = u''
-copyright = u''
+project = u'IPython'
+copyright = u'the IPython development team'
 
 # The version info for the project you're documenting, acts as replacement for
 # |version| and |release|, also used in various other places throughout the
@@ -128,7 +128,7 @@ html_short_title = "IPython"
 # The name of an image file (relative to this directory) to place at the top
 # of the sidebar.
 #html_logo = None
-html_logo = "logos/logo.png"
+html_logo = "logos/banner.png"
 
 # The name of an image file (within the static path) to use as favicon of the
 # pixels large.

@@ -16,9 +16,8 @@
 
 
 div.header-wrapper {
-  background: {{ theme_headerbg }};
   border-top: 0px solid #babdb6;
-  padding-top: 0px;
+  padding: 1em 1em 0;
   min-height: 0px;
 }
 
@@ -39,7 +38,6 @@ div.header, div.content, div.footer {
 }
 
 div.header-wrapper {
-  background: {{ theme_headerbg }};
   border-bottom: 0px solid #2e3436;
 }
 
@@ -78,7 +76,6 @@ div.bodywrapper a, div.footer a {
 }
 
 h1, h2, h3, h4 {
-  font-family: {{ theme_headerfont }};
   font-weight: normal;
   color: {{ theme_headercolor2 }};
   margin-bottom: .8em;
@@ -159,19 +156,19 @@ div.header h1 a:hover {
 
 div.header div.rel {
   margin-top: 1em;
+  border-top: 1px solid #AAA;
+  border-bottom: 1px solid #AAA;
+  border-radius: 5px;
+  padding: 3px 1em;
 }
 
 div.header div.rel a {
-  color: {{ theme_headerlinkcolor }};
-  letter-spacing: .1em;
-  text-transform: uppercase;
+  color: {{ theme_linkcolor }};
+  letter-spacing: .05em;
+  font-weight: bold;
 }
 
-div.logo {
-  float: left;
-  /* Extra padding on the right*/
-  padding: 10px 30px 10px 10px;
-}
+div.logo {}
 
 img.logo {
     border: 0;
@@ -259,9 +256,9 @@ div.document ol {
 
 div.sphinxsidebar {
   width: {{ theme_sidebarwidth }};
-  padding: 0 2em;
+  padding: 0 1em;
   float: right;
-  font-size: .9em;
+  font-size: .93em;
   background-color: white;
 }
 
@@ -287,9 +284,9 @@ div.sphinxsidebar h4 {
 }
 
 div.sphinxsidebar .tile {
-  border: 1px solid #CCC;
+  border: 1px solid #D1DDE2;
   border-radius: 10px;
-  background-color: #DDD;
+  background-color: #E1E8EC;
   padding-left: 0.5em;
   margin: 1em 0;
 }
@@ -334,26 +331,27 @@ div.sphinxsidebar li.toctree-l1.current li.toctree-l2 a {
   border-right: none;
 }
 
+div.sidebarblock {
+  padding-bottom: .4em;
+  border-bottom: 1px solid #AAA;
+  margin-bottom: .8em;
+}
+
 
 /* Footer */
 
 div.footer-wrapper {
-  background: {{ theme_footerbg }};
-  border-top: 4px solid #babdb6;
   padding-top: 10px;
   padding-bottom: 10px;
 }
 
-div.footer, div.footer a {
-  color: #888a85;
-}
-
-div.footer .right {
+div.footer {
+  border-top: 2px solid #aaa;
   text-align: right;
 }
 
-div.footer .left {
-  text-transform: uppercase;
+div.footer, div.footer a {
+  color: #888a85;
 }
 
 
