@@ -1,6 +1,6 @@
-====================
-Citing IPython
-====================
+================
+ Citing IPython
+================
 
 If IPython been significant to a project that leads to an academic publication,
 please acknowledge that fact by citing the project.  As of now, the canonical
