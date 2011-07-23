@@ -15,7 +15,10 @@ New features:
  * Pasting of multiline code removing empty lines
  * System bell is disabled by default, can be activated in config file.
 
-Note: UNC readline is not being developed further by Gary, and Py``Readline can be considered the continuation of that project.  This was done in full agreement with Gary, given his current development priorities.
+Note: UNC readline is not being developed further by Gary, and PyReadline can
+be considered the continuation of that project. This was done in full agreement
+with Gary, given his current development priorities.
+
 ----------------
  Mailing list 
 ----------------
@@ -24,7 +27,7 @@ Questions and bug reports can be directed to the `ipython-user <http://projects.
 ----------
  Status 
 ----------
-The latest release is 1.5. 
+The latest release is 1.7. 
 
 Development is hosted at `launchpad <https://launchpad.net/pyreadline>`_. The `bugtracker <https://bugs.launchpad.net/pyreadline>`_ has moved there as well.
 
