@@ -70,7 +70,7 @@ IPython 0.8.4 was released.
 
 IPython 0.8.3
 -------------
-IPython 0.8.3 was released. See See `WhatsNew083 <whatsnew083.html>`_ for a summary of changes.
+IPython 0.8.3 was released. See `what's new <whatsnew083.html>`_.
 
 IPython1 and the Scripps Institute's Vision
 ------------------------------------------- 
@@ -88,7 +88,7 @@ Noah Gift wrote a great `article <http://www.ibm.com/developerworks/aix/library/
 IPython 0.8.2 is released (Nov 30, 2007)
 ----------------------------------------
 
-Version 0.8.2 is out. See `WhatsNew082 <whatsnew082.html>`_ for a summary of changes, or read the gory details in the full `ChangeLog <http://ipython.scipy.org/ChangeLog>`_.
+Version 0.8.2 is out. See `a summary of the changes <whatsnew082.html>`_ , or read the gory details in the full `ChangeLog <http://ipython.scipy.org/ChangeLog>`_.
 
 First release of IpyKit (May 24, 2007)
 --------------------------------------

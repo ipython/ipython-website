@@ -35,6 +35,7 @@ This does not list bugfixes, enhanced internals or api additions.
  * %time allows IPython expressions (which includes system commands - e.g. try "%time !ls")
  * Callable aliases can be used to extend IPython (provide new commands) in a more elegant manner than magic commands. Also, no % is necessary/allowed. See ipy_fsops.py for examples.
  * Improved Leopard support for tab-completion, though a few issues remain.
+
 ----------------
  Known issues 
 ----------------
@@ -43,4 +44,3 @@ This does not list bugfixes, enhanced internals or api additions.
  * Unicode support is not yet perfect, so expect problems on Unicode input/output.
  * The manual is hopelessly out of date. This is something we will look into during 0.8.3 cycle; in the meantime, see the documentation page on the wiki [superseded], and the user-maintained `cookbook <http://ipython.scipy.org/moin/Cookbook>`_.
  * Under OSX Leopard, we are seeing some readline-related problems with history recall.  It is not clear yet whether the issue is with IPython or Leopard's readline support itself.  We're investigating the issue.
-

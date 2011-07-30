@@ -1,6 +1,3 @@
-=============
-WhatsNew083
-=============
 -------------------------
  New features in 0.8.3 
 -------------------------
@@ -22,8 +19,9 @@ This does not list bugfixes, enhanced internals or api additions.
  * %edit MyClass works also when MyClass was created in another %edit session.
 
  * New command line arguments:
-   * -pydb to tell ipython to use pydb as the default debugger (it is no longer assumed when pydb is installed)
-   * -twisted installs a twisted reactor in IPython process, where all entered commands are run in a deferred twisted call.
+ 
+   * ``-pydb`` to tell ipython to use pydb as the default debugger (it is no longer assumed when pydb is installed)
+   * ``-twisted`` installs a twisted reactor in IPython process, where all entered commands are run in a deferred twisted call.
      This ensures that everything, apart from input IPython line entry, occurs in same thread.
 
  * var = !cmd no longer prints the output in addition to storing it in variable

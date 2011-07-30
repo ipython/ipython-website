@@ -7,6 +7,7 @@ PyReadline: a ctypes-based readline for Windows
 -------------------------------------------------
 pyreadline is based on UNC readline by Gary Bishop.
 New features:
+
  * Support for international characters (if you have the correct codepage active)
  * Copy and paste using the clipboard
  * Smart paste for convenient use with ipython. Converting tab separated data 
@@ -49,6 +50,7 @@ You can also run the development version available from `trunk <https://code.lau
  4. The configuration file pyreadlineconfig.ini can be copied from PYTHON2x/lib/site-packages/pyreadline/configuration to your HOME directory (usually c:/documents and settings/YOURNAME).
  5. When using ipython pyreadline is automatically activated. If you want to use pyreadline from the interactive prompt of the python interpreter then you have to include the code in PYTHON2x/lib/site-packages/pyreadline/configuration/startup.py in your pythonstartup file or set the PYTHONSTARTUP environment variable to point to that file.
  6. Manual can be found in PYTHON2x/share/doc/pyreadline
+ 
 -----------------------
  Install from source 
 -----------------------
@@ -59,4 +61,3 @@ You can also run the development version available from `trunk <https://code.lau
  5. The configuration file pyreadlineconfig.ini can be copied from PYTHON2x/lib/site-packages/pyreadline/configuration to your HOME directory (usually c:/documents and settings/YOURNAME).
  6. When using ipython pyreadline is automatically activated. If you want to use pyreadline from the interactive prompt of the python interpreter then you have to include the code in PYTHON2x/lib/site-packages/pyreadline/configuration/startup.py in your pythonstartup file or set the PYTHONSTARTUP environment variable to point to that file.
  7. Manual can be found in PYTHON2x/share/doc/pyreadline
-
