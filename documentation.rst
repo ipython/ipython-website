@@ -26,7 +26,7 @@ Other useful documentation
   using IPython effectively.
 * IPython `screenshots <http://ipython.scipy.org/screenshots/index.html>`_.
 * `Frequently Asked Questions <faq.html>`_.
-* The user maintained IPython `Cookbook <http://ipython.scipy.org/moin/Cookbook>`_.
+* The user maintained IPython `Cookbook <http://wiki.ipython.org/Cookbook>`_.
 * An `article about IPython
   <http://fperez.org/papers/ipython07_pe-gr_cise.pdf>`_, written by Fernando
   Perez and Brian Granger, published in the `May/June 2007 issue
@@ -47,7 +47,7 @@ Videos and screencasts
   <http://channel9.msdn.com/shows/The+HPC+Show/Open-source-HPC-code-Episode-12-IPython-computes-150-million-digits-of-Pi-in-Parallel/>`_
   are also being hosted on Microsoft's channel 9.
 * The `ShowMeDo <http://showmedo.com>`_ site contains instructional videos on a
-  number of topics.  `This page <http://ipython.scipy.org/moin/ShowMeDo>`_
+  number of topics.  `This page <http://wiki.ipython.org/ShowMeDo>`_
   (from our own wiki) contains further information on ideas for new
   IPython-related videos.
 * Jose Unpingco has created a set of screencasts on using the Vision/IPython
@@ -126,7 +126,7 @@ know about it so we can post it here.
 Other projects using IPython
 ----------------------------
 
-`Here <http://ipython.scipy.org/moin/About/Projects_Using_IPython>`_ you can
+`Here <http://wiki.ipython.org/Projects_using_IPython>`_ you can
 find a list of projects that use IPython in one form or another. If you use
 IPython as part of a project, please do add your information to this page or
 email `Fernando.Perez@Berkeley.edu <mailto:Fernando.Perez@Berkeley.edu>`_ and

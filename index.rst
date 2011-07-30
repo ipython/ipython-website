@@ -10,7 +10,7 @@ has two main components:
 	- An architecture for interactive parallel computing.
 
 All of IPython is open source (released under the revised BSD license), and it is
-used by a range of `other projects <http://ipython.scipy.org/moin/About/Projects_Using_IPython>`_.
+used by a range of `other projects <http://wiki.ipython.org/Projects_using_IPython>`_.
 Have a look at the `talks and presentations <presentation.html>`_ we have given
 about IPython.  
 
