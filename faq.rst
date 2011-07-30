@@ -43,7 +43,7 @@ You will lose searching in your history with the arrow keys, but at least Python
 
 Does IPython play well with Windows? 
 ------------------------------------
-Yes, it most definitely does! There are some things that should be noted: `see the wiki <http://ipython.scipy.org/moin/IpythonOnWindows>`_.
+Yes, it most definitely does! There are some things that should be noted: `see the wiki <http://wiki.ipython.org/IPython_on_Windows>`_.
 
 What is the best way to install IPython? 
 ----------------------------------------
