@@ -6,6 +6,18 @@
 We have given a number of talks and presentations about IPython:
 
 ----------
+  2011
+----------
+
+* `Slides <http://fperez.org/talks/1107_ipython_scipy.pdf>`_ and `video
+  <http://www.archive.org/details/Wednesday-203-6-IpythonANewArchitectureForInteractiveAndParallel>`_
+  of a presentation about the new features in IPython 0.11 at the Scipy 2011
+  conference.
+
+* A `tutorial <http://minrk.github.com/scipy-tutorial-2011>`_ on using IPython
+  for parallel computing with our new ZeroMQ infrastructure.
+
+----------
   2010 
 ----------
  * `Slides <http://ipython.scipy.org/moin/About/Presentations?action=AttachFile&do=get&target=ipython_scipy10_india.pdf>`_ from a talk that Fernando Perez presented at the `SciPy India 2010 conference <http://scipy.in/scipyin/2010>`_.
