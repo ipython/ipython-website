@@ -14,9 +14,9 @@ is used by a range of `other projects
 <http://wiki.ipython.org/Projects_using_IPython>`_.  Have a look at the `talks
 and presentations <presentation.html>`_ we have given about IPython.
 
-IPython supports Python 2.6 to 2.7 officially.  Our 0.10 series supports Python
-2.5, and probably works well with 2.4, though we haven't tested it extensively
-with that version.
+IPython supports Python 2.6 to 2.7, and 3.1 to 3.2 (via a separate download, for
+now).  Our 0.10 series supports Python 2.5, and probably works well with 2.4,
+though we haven't tested it extensively with that version.
 
 
 ~~~~~~~~~~~~~
