@@ -22,7 +22,7 @@ Announcements
 ~~~~~~~~~~~~~
 
 - **IPython 0.11**: We're pleased to announce the immediate release of IPython
-  0.11, a major new version and the result of nearly two years of changes.
+  0.11, a major new version and the result of over two years of changes.
   `Download <download.html>`_ it now, or look at `what's new
   http://ipython.org/ipython-doc/dev/whatsnew/version0.11.html>`_.
   
