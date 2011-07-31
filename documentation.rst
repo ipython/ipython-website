@@ -11,6 +11,9 @@ IPython Manual
 * `Current Stable Version (0.11) <http://ipython.org/ipython-doc/stable/index.html>`_ (`PDF <http://ipython.org/ipython-doc/stable/ipython.pdf>`_)
 * `Current Development Version (0.12) <http://ipython.org/ipython-doc/dev/index.html>`_ (`PDF <http://ipython.org/ipython-doc/dev/ipython.pdf>`_)
 
+`This introduction to some key features <http://ipython.org/ipython-doc/stable/interactive/tutorial.html>`_
+is a good place to start if you haven't used IPython before.
+
 The manuals for all releases by number are here (note that we only have the
 recent ones from the Sphinx build system):
 
@@ -24,8 +27,6 @@ recent ones from the Sphinx build system):
 Other useful documentation
 --------------------------
 
-* `Tips <http://ipython.org/ipython-doc/dev/interactive/tutorial.html>`_ for
-  using IPython effectively.
 * IPython `screenshots <http://ipython.scipy.org/screenshots/index.html>`_.
 * `Frequently Asked Questions <faq.html>`_.
 * The user maintained IPython `Cookbook <http://wiki.ipython.org/Cookbook>`_.
