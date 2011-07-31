@@ -4,7 +4,7 @@ News
 
 IPython 0.11
 ------------
-We're pleased to announce the immediate release of IPython 0.11, on 23 July 2011.
+We're pleased to announce the immediate release of IPython 0.11, on 31 July 2011.
 Despite the small shift in the version number, this brings a lot of changes,
 including a new Qt frontend and a rewritten parallel computing framework.
 `Download <download.html>`_ it now, or look at `what's new
