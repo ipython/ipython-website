@@ -2,17 +2,17 @@
 IPython: An Interactive Computing Environment
 =============================================
 
-The goal of IPython is to create a comprehensive environment for
-interactive and exploratory computing.  To support, this goal, IPython
-has two main components:
+The goal of IPython is to create a comprehensive environment for interactive
+and exploratory computing.  To support, this goal, IPython has two main
+components:
 
-	- An enhanced interactive Python shell.
+	- An set of powerful interactive Python shells (terminal and Qt).
 	- An architecture for interactive parallel computing.
 
-All of IPython is open source (released under the revised BSD license), and it is
-used by a range of `other projects <http://wiki.ipython.org/Projects_using_IPython>`_.
-Have a look at the `talks and presentations <presentation.html>`_ we have given
-about IPython.  
+All of IPython is open source (released under the revised BSD license), and it
+is used by a range of `other projects
+<http://wiki.ipython.org/Projects_using_IPython>`_.  Have a look at the `talks
+and presentations <presentation.html>`_ we have given about IPython.
 
 IPython supports Python 2.6 to 2.7 officially.  Our 0.10 series supports Python
 2.5, and probably works well with 2.4, though we haven't tested it extensively
