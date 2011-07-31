@@ -21,17 +21,13 @@ the 0.10 series probably works OK but has not been extensively tested with 2.4.
 Announcements
 ~~~~~~~~~~~~~
 
-- **Testing:** We aim to release 0.11 soon, but there are a lot of changes, so
-  we're looking for users to test it. If you're interested, please download or
-  check out the code `from Github <https://github.com/ipython/ipython>`_, and
-  let us know of any problems on the `mailing list <http://projects.scipy.org/mailman/listinfo/ipython-dev>`_
-  or `bug tracker <https://github.com/ipython/ipython/issues>`_.
-- **Python 3:** An *experimental* Python 3 port has been started recently. The
-  code is currently only available 
-  `in source form from github <http://github.com/ipython/ipython-py3k>`_ but we
-  welcome testing, contributions and improvements. Please join the 
-  `developers list <http://mail.scipy.org/mailman/listinfo/ipython-dev>`_
-  to participate!
+- **IPython 0.11**: We're pleased to announce the immediate release of IPython
+  0.11, a major new version and the result of over two years of changes.
+  `Download <download.html>`_ it now, or look at `what's new
+  <http://ipython.org/ipython-doc/dev/whatsnew/version0.11.html>`_.
+  
+  .. image:: _static/ipy_0.11.png
+  
 - **User survey:** We'd like to know a bit about who uses IPython. Please
   `fill in <https://spreadsheets.google.com/viewform?formkey=dDMzREtNSk9pX282N3lxaXhiTmxyN0E6MQ>`_
   a short, anonymous survey. The `results <https://spreadsheets.google.com/spreadsheet/ccc?key=0AqIElKUDQl8tdDMzREtNSk9pX282N3lxaXhiTmxyN0E&hl=en_GB&authkey=CNOmu-QC#gid=0>`_

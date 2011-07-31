@@ -5,15 +5,15 @@ Download
 Stable Releases
 ---------------
 
-Our `downloads <http://ipython.scipy.org/dist>`_ directory for source distributions
+Our `downloads <http://archive.ipython.org/>`_ directory for source distributions
 for Linux, Unix, Mac OS X and binaries for Windows.
 
-The current stable release, version 0.10.2, can be downloaded directly as:
+The current stable release, version 0.11, can be downloaded directly as:
 
-* A `compressed source archive in .tar.gz <http://ipython.scipy.org/dist/0.10.2/ipython-0.10.2.tar.gz>`_ format.
-* A `compressed source archive in .zip <http://ipython.scipy.org/dist/0.10.2/ipython-0.10.2.zip>`_ format.
-* An `egg for Python 2.6 <http://ipython.scipy.org/dist/0.10.2/ipython-0.10.2-py2.6.egg>`_.
-* A `binary Windows installer <http://ipython.scipy.org/dist/0.10.2/ipython-0.10.2.win32-setup.exe>`_ (an executable setup file).
+* A `compressed source archive in .tar.gz <http://archive.ipython.org/release/0.11/ipython-0.11.tar.gz>`_ format.
+* A `compressed source archive in .zip <http://archive.ipython.org/release/0.11/ipython-0.11.tar.gz>`_ format.
+* An `egg for Python 2.6 <http://archive.ipython.org/release/0.11/ipython-0.11-py2.6.egg>`_.
+* A `binary Windows installer <http://archive.ipython.org/release/0.11/ipython-0.11.win32-setup.exe>`_ (an executable setup file).
 
 
 Note that most major Unix distributions now include IPython in their package
@@ -21,7 +21,7 @@ systems (Ubuntu, Debian, Fedora, SUSE, fink, FreeBSD, OpenBSD,...). It is also
 available `on PyPI <http://pypi.python.org/pypi/ipython>`_, so it can be installed
 with tools such as ``easy_install`` and ``pip``.
 
-The same `downloads <http://ipython.scipy.org/dist>`_ directory contains links to older versions.
+The same `downloads <http://archive.ipython.org/>`_ directory contains links to older versions.
 
 Installation instructions
 -------------------------
