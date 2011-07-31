@@ -60,6 +60,10 @@ please acknowledge this fact by citing the project. You can use this
 ~~~~~~~
 Hosting
 ~~~~~~~
-IPython has been generously hosted by `Enthought <http://enthought.com/>`_ almost since its inception.  We also use `GitHub <http://github.com/>`_ and `Git <http://git-scm.com/>`_ for code hosting and distributed version control.
+
+IPython's mailing lists are hosted by `Enthought <http://enthought.com/>`_ (who
+also hosted much of the project for many years).  We also use `GitHub
+<http://github.com/>`_ and `Git <http://git-scm.com/>`_ for code,
+documentation, and distributed version control.
 
 
