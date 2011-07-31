@@ -17,9 +17,9 @@ The current stable release, version 0.11, can be downloaded directly as:
 
 Version 0.11 is also available for Python 3, as:
 
-* A `compressed source archive in .tar.gz <http://archive.ipython.org/release/0.11/ipython-0.11-py3.tar.gz>`_ format.
-* A `compressed source archive in .zip <http://archive.ipython.org/release/0.11/ipython-0.11-py3.zip>`_ format.
-* An `egg for Python 3.2 <http://archive.ipython.org/release/0.11/ipython-0.11-py3.2.egg>`_.
+* A `compressed source archive in .tar.gz <http://archive.ipython.org/release/0.11/py3/ipython-0.11-py3.tar.gz>`_ format.
+* A `compressed source archive in .zip <http://archive.ipython.org/release/0.11/py3/ipython-0.11-py3.zip>`_ format.
+* An `egg for Python 3.2 <http://archive.ipython.org/release/0.11/py3/ipython-0.11-py3.2.egg>`_.
 
 Note that most major Unix distributions now include IPython in their package
 systems (Ubuntu, Debian, Fedora, SUSE, fink, FreeBSD, OpenBSD,...). It is also
