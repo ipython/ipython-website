@@ -27,9 +27,9 @@ Announcements
   0.11, a major new version and the result of over two years of changes.
   `Download <download.html>`_ it now, or look at `what's new
   <http://ipython.org/ipython-doc/dev/whatsnew/version0.11.html>`_.  At the
-  recent SciPy 2011 conference we presented a pre-release version of IPython,
-  you can `download the slides`_ or `watch the talk`_; afterwards Chris
-  Fonnesbeck wrote an excellent post with a `visual tour of the new features`_.
+  recent SciPy 2011 conference we gave a talk about this version, you can
+  `download the slides`_ or `watch the talk`_; afterwards Chris Fonnesbeck
+  wrote an excellent post with a `visual tour of the new features`_.
   
 .. _download the slides: http://fperez.org/talks/1107_ipython_scipy.pdf
 .. _watch the talk: http://www.archive.org/details/Wednesday-203-6-IpythonANewArchitectureForInteractiveAndParallel
