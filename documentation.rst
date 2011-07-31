@@ -8,8 +8,8 @@ IPython Manual
 
 .. release
 
-* `Current Development Version (0.11) <http://ipython.org/ipython-doc/dev/index.html>`_ (`PDF <http://ipython.org/ipython-doc/dev/ipython.pdf>`_)
-* `Current Stable Version (0.10.2) <http://ipython.org/ipython-doc/stable/html/index.html>`_ (`PDF <http://ipython.org/ipython-doc/stable/ipython.pdf>`_)
+* `Current Development Version (0.12) <http://ipython.org/ipython-doc/dev/index.html>`_ (`PDF <http://ipython.org/ipython-doc/dev/ipython.pdf>`_)
+* `Current Stable Version (0.11) <http://ipython.org/ipython-doc/stable/index.html>`_ (`PDF <http://ipython.org/ipython-doc/stable/ipython.pdf>`_)
 
 The manuals for all releases by number are here (note that we only have the
 recent ones from the Sphinx build system):
