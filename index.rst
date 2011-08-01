@@ -79,12 +79,19 @@ We gratefully acknowledge the support we've received over the years:
   <http://pytools.codeplex.com>`_ developed the integraton of IPython into the
   Python plugin for Visual Studio 2010.
 
-- `Tech-X Corporation <http://txcorp.com>`__ supported the development of our
-  parallel computing tools.
+- `Tech-X Corporation <http://txcorp.com>`__ supported in 2008 the development
+  of our parallel computing tools.
 
 - Google Summer of Code: in 2005 and 2010 we've had GSoC support for prototypes
   in several areas of the project.
 
+- The Ohio Supercomputer Center and the Department of Defense High Performance
+  Computing Modernization Program (HPCMP), for sponsoring work in 2009 on our
+  parallel computing tools.
+  
+- `Bivio Software <http://www.bivio.biz>`_ hosted an IPython sprint in 2006, in
+  addition to their support of the Front Range Pythoneers group in Boulder, CO.
+  
 - `GitHub <http://github.com/>`_ hosts our development workflow and
   documentation.
 
