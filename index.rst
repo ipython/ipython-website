@@ -1,6 +1,6 @@
-=====================================================
- IPython: Tools for Productive Interactive Computing
-=====================================================
+===========================================
+ IPython: Productive Interactive Computing
+===========================================
 
 IPython provides a rich toolkit to help you make the most out of using Python
 interactively.  Its main components are:
