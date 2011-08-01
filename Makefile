@@ -49,7 +49,7 @@ doctest:
 	      "results in $(BUILDDIR)/doctest/output.txt."
 
 # fperez - new targets I've added after sphinx-quickstart
-site: html
+site: clean html
 	python _scripts/copy_trees.py
 
 # Copy changes to the repo from which they are served
