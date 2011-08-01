@@ -104,7 +104,7 @@ if __name__ == '__main__':
                                                                  branch)
             raise RuntimeError(e)
 
-        sh('git add .')
+        sh('git add -A')
         sh('git commit -m"Updated website (automated commit)"')
         print
         print 'Most recent 3 commits:'
