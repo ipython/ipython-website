@@ -5,8 +5,8 @@ Download
 Stable Releases
 ---------------
 
-Our `downloads <http://archive.ipython.org/>`_ directory for source distributions
-for Linux, Unix, Mac OS X and binaries for Windows.
+Our `downloads <http://archive.ipython.org/release>`_ site contains source
+distributions for Linux, Unix, Mac OS X and binaries for Windows.
 
 The current stable release, version 0.11, can be downloaded directly as:
 
@@ -23,10 +23,11 @@ Version 0.11 is also available for Python 3, as:
 
 Note that most major Unix distributions now include IPython in their package
 systems (Ubuntu, Debian, Fedora, SUSE, fink, FreeBSD, OpenBSD,...). It is also
-available `on PyPI <http://pypi.python.org/pypi/ipython>`_, so it can be installed
-with tools such as ``easy_install`` and ``pip``.
+available `on PyPI <http://pypi.python.org/pypi/ipython>`_, so it can be
+installed with tools such as ``easy_install`` and ``pip``.
 
-The same `downloads <http://archive.ipython.org/>`_ directory contains links to older versions.
+The same `downloads <http://archive.ipython.org/release>`_ directory contains
+links to older versions.
 
 Installation instructions
 -------------------------
@@ -38,10 +39,14 @@ Like most Python packages, IPython can be installed from source with the command
 Readline
 --------
 
-IPython relies on the readline library for features like tab completion.
+In the text terminal, IPython relies on the readline library for features like
+tab completion.
 
 * Most Linux distributions will have readline already.
-* For Mac OS X, readline can be installed `from PyPI <http://pypi.python.org/pypi/readline>`_.
-  The alternative (libedit) shipped with OS X is known to cause problems in IPython.
-* Under Windows, the functionality is provided by the `PyReadline <pyreadline.html>`_
-  project, also hosted on this site.
+
+* For Mac OS X, readline can be installed `from PyPI
+  <http://pypi.python.org/pypi/readline>`_.  The alternative (libedit) shipped
+  with OS X is known to cause problems in IPython.
+  
+* Under Windows, the functionality is provided by the `PyReadline
+  <pyreadline.html>`_ project, also hosted on this site.
