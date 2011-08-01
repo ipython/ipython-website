@@ -34,7 +34,7 @@ Installation instructions
 
 Like most Python packages, IPython can be installed from source with the command
 ``python setup.py install``. Full installation instructions can be found in our official 
-`documentation <http://ipython.github.com/ipython-doc/stable/html/install/install.html>`_. 
+`documentation <http://ipython.org/ipython-doc/stable/install/install.html>`_. 
 
 Readline
 --------
