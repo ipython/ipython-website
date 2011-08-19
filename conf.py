@@ -44,7 +44,7 @@ master_doc = 'index'
 
 # General information about the project.
 project = u'Hyperspy'
-copyright = u'The Hyperespy development team'
+copyright = u'The Hyperspy development team'
 
 # The version info for the project you're documenting, acts as replacement for
 # |version| and |release|, also used in various other places throughout the
