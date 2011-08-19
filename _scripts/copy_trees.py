@@ -32,7 +32,7 @@ out_dir = '_build/html'
 
 # Prefix of directories to skip (set when sphinx-quickstart was run)
 skip_prefix = '_'
-skip_extensions = set(['.rst'])
+skip_extensions = set(['.rst','.py'])
 # Other directory trees to skip
 skip_trees = set(['.git','sphinxext', 'gh-pages', 'themes'])
 
@@ -40,7 +40,7 @@ skip_trees = set(['.git','sphinxext', 'gh-pages', 'themes'])
 skip_extensions.add(sphinx_conf.get('source_suffix','.rst'))
 
 # Any top-level files that may need to be copied as well
-top_files = []
+top_files = ['Makefile', ]
 
 #-----------------------------------------------------------------------------
 # Functions
