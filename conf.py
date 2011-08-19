@@ -128,7 +128,7 @@ html_short_title = "Hyperspy"
 # The name of an image file (relative to this directory) to place at the top
 # of the sidebar.
 #html_logo = None
-html_logo = "hyperspy_logo.png"
+html_logo = "hyperspy_banner.png"
 
 # The name of an image file (within the static path) to use as favicon of the
 # pixels large.
