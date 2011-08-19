@@ -1,6 +1,6 @@
 # -*- coding: utf-8 -*-
 #
-# ipythonscipy.org documentation build configuration file, created by
+# Hyperspy documentation build configuration file, created by
 # sphinx-quickstart on Sat Dec 18 17:03 2010.
 #
 # This file is execfile()d with the current directory set to its containing dir.
@@ -43,8 +43,8 @@ source_suffix = '.rst'
 master_doc = 'index'
 
 # General information about the project.
-project = u'IPython'
-copyright = u'the IPython development team'
+project = u'Hyperspy'
+copyright = u'The Hyperespy development team'
 
 # The version info for the project you're documenting, acts as replacement for
 # |version| and |release|, also used in various other places throughout the
@@ -120,19 +120,19 @@ html_theme_path = ['themes']
 
 # The name for this set of Sphinx documents.  If None, it defaults to
 # "<project> v<release> documentation".ke
-html_title = u"IPython"
+html_title = u"Hyperspy"
 
 # A shorter title for the navigation bar.  Default is the same as html_title.
-html_short_title = "IPython"
+html_short_title = "Hyperspy"
 
 # The name of an image file (relative to this directory) to place at the top
 # of the sidebar.
 #html_logo = None
-html_logo = "logos/IPy_header.png"
+html_logo = "hyperspy_logo.png"
 
 # The name of an image file (within the static path) to use as favicon of the
 # pixels large.
-html_favicon = "favicon.ico"
+html_favicon = "hyperspy_logo.ico"
 
 # Add any paths that contain custom static files (such as style sheets) here,
 # relative to this directory. They are copied after the builtin static files,

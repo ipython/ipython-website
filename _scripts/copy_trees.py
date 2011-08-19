@@ -34,13 +34,13 @@ out_dir = '_build/html'
 skip_prefix = '_'
 skip_extensions = set(['.rst'])
 # Other directory trees to skip
-skip_trees = set(['.git','sphinxext', 'gh-pages', 'logos', 'themes'])
+skip_trees = set(['.git','sphinxext', 'gh-pages', 'themes'])
 
 # Always skip source files, since shpinx already copies those
 skip_extensions.add(sphinx_conf.get('source_suffix','.rst'))
 
 # Any top-level files that may need to be copied as well
-top_files = ['links.txt']
+top_files = []
 
 #-----------------------------------------------------------------------------
 # Functions

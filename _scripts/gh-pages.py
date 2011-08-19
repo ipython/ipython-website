@@ -29,7 +29,7 @@ from subprocess import Popen, PIPE, CalledProcessError, check_call
 
 pages_dir = 'gh-pages'
 html_dir = '_build/html'
-pages_repo = 'git@github.com:ipython/ipython.github.com.git'
+pages_repo = 'git@github.com:hyperspy/hyperspy.github.com.git'
 
 #-----------------------------------------------------------------------------
 # Functions
@@ -109,7 +109,7 @@ if __name__ == '__main__':
         print
         print 'Most recent 3 commits:'
         sys.stdout.flush()
-        sh('git --no-pager log --oneline HEAD~3..')
+#        sh('git --no-pager log --oneline HEAD~3..')
     finally:
         cd(startdir)
 
