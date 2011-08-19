@@ -40,7 +40,11 @@ skip_trees = set(['.git','sphinxext', 'gh-pages', 'themes'])
 skip_extensions.add(sphinx_conf.get('source_suffix','.rst'))
 
 # Any top-level files that may need to be copied as well
-top_files = ['Makefile', ]
+top_files = []
+
+# Files to skip
+
+skip_files = ['Makefile',]
 
 #-----------------------------------------------------------------------------
 # Functions
@@ -52,12 +56,12 @@ def print(*args, **kw):
         __builtin__.print(*args, **kw)
 
 
-def keep_filename(f, skip_ext=skip_extensions):
+def keep_filename(f, skip_ext=skip_extensions, skip_f = skip_files):
     """Return whether to keep a file based on a list of extensions.
 
     Note that filenames ending in ~ are always excluded."""
 
-    if f.endswith('~'):
+    if f.endswith('~') or f in skip_files:
         return False
 
     return os.path.splitext(f)[1] not in skip_ext
