@@ -30,6 +30,6 @@ with raw or bin extension it is opened directly without prompting
 
 ImportRPL was written by Luiz Fernando Zagonel.
 
-:download:`Download ImportRPL <http://hyperspy.org/hyperspy-doc/current/_static/importRPL.s>`
+`Download ImportRPL <http://hyperspy.org/hyperspy-doc/current/_static/importRPL.s>`_
 
 
