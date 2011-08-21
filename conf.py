@@ -186,5 +186,5 @@ html_show_sourcelink = False
 
 # Setting intersphinx to resolve the links to the project's docs.
 
-intersphinx_mapping = {'hyperspy': ('http://hyperspy.org/hyperspy-doc/current/', None)}
+intersphinx_mapping = {'hyperspy': ('http://hyperspy.org/hyperspy-doc/dev/', None)}
 

@@ -9,7 +9,7 @@ Hyperpsy documentation
 .. release
 
 
-* `Development Version <http://hyperspy.org/hyperspy-doc/current/index.html>`_ 
+* `Development Version <http://hyperspy.org/hyperspy-doc/dev/index.html>`_ 
 
 
 

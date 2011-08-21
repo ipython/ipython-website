@@ -47,5 +47,5 @@ We have a `mailing list <hyperspy-devel@googlegroups.com>`_ for discussions abou
  External Dependencies 
 =======================
 
-See the `install section of the User Guide <http://hyperspy.org/hyperspy-doc/current/user_guide/install.html>`_.
+See the `install section of the User Guide <http://hyperspy.org/hyperspy-doc/dev/user_guide/install.html>`_.
 
