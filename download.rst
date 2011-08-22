@@ -9,7 +9,7 @@ Stable Releases
 
 Currently there are not stable releases of Hyperspy. For instructions on how to 
 install the develoment version check the `installation chapter in the User Guide 
-<http://hyperspy.org/hyperspy-doc/current/user_guide/install.html>`_
+<http://hyperspy.org/hyperspy-doc/dev/user_guide/install.html>`_
 
 Other related software
 ======================
@@ -31,6 +31,6 @@ with raw or bin extension it is opened directly without prompting
 
 ImportRPL was written by Luiz Fernando Zagonel.
 
-`Download ImportRPL <http://hyperspy.org/hyperspy-doc/current/_static/importRPL.s>`_
+`Download ImportRPL <http://hyperspy.org/hyperspy-doc/dev/_static/importRPL.s>`_
 
 
