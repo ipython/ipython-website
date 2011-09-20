@@ -7,14 +7,14 @@ We run trainings several times a year. If you want to participate in any of the 
 
 Forthcoming trainings
 ---------------------
- 
-* **Cambridge University**, Autumn 2011
+
+* **Cambridge University**, 28th October 2011. If you want to attend, `contact the organizers <fjd29@cam.ac.uk>`_
 * **University of Barcelone**, Spring 2012
- 
- 
+
+
 Past trainings
 --------------
- 
+
 * **University of Barcelone**, 28-29 May 2011
 * **CEA Grenoble**, 14-15 March 2011
 * **Oxford University**, 20-21 October 2010
