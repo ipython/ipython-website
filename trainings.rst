@@ -10,7 +10,7 @@ We run trainings several times a year. If you want to participate in any of the 
 Forthcoming trainings
 ---------------------
 
-* **Cambridge University**, 24th October 2011. If you want to attend, `contact the organizers <fjd29@cam.ac.uk>`_
+* **University of Cambridge**, 24th October 2011. If you want to attend, `contact the organizers <fjd29@cam.ac.uk>`_
 * **University of Barcelone**, Spring 2012
 
 
