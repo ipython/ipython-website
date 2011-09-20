@@ -29,6 +29,7 @@ The best way to run Hyperspy from Git development code is to install pip and run
 
 in your git checkout directory. This way, the development version will be available as your "system" Hyperspy, and this will also work for projects that embed Hyperspy.
 
+.. _reporting-bug:
 
 ==================================
  Bug Reports and Feature Requests 
@@ -41,7 +42,7 @@ We want Hyperspy to be as bug-free as possible, so we encourage our users to  `r
  Developer Mailing List 
 ========================
 
-We have a `mailing list <hyperspy-devel@googlegroups.com>`_ for discussions about the development of Hyperspy. It is hosted in Google Groups. If you want to join in without a Google account send an email to To subscribe to a group via email, send an email to hyperspy+subscribe@googlegroups.com.  There is also `a web-based version <http://groups.google.com/group/hyperspy-devel>`_ of this list but you need to have a Google account to use it.
+We have a `mailing list <hyperspy-devel@googlegroups.com>`_ for discussions about the development of Hyperspy. It is hosted in Google Groups. If you want to join in without a Google account send an email to hyperspy-devel+subscribe@googlegroups.com.  There is also `a web-based version <http://groups.google.com/group/hyperspy-devel>`_ of this list but you need to have a Google account to use it.
 
 =======================
  External Dependencies 

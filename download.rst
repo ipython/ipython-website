@@ -26,7 +26,7 @@ When executed it will ask for 2 files:
 #. The riple file with the data  format and calibrations 
 #. The data itself in raw format.
 
-Id a file with the same name and path as the riple file exits
+If a file with the same name and path as the riple file exits
 with raw or bin extension it is opened directly without prompting
 
 ImportRPL was written by Luiz Fernando Zagonel.

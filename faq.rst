@@ -4,7 +4,7 @@
 FAQ
 ===
 
-If your question isn't answered below, check `the docs <http://hyperspy.github.com/hyperspy-doc/>`_, then ask on the `user mailing list <hyperspy-devel@googlegroups.com>`_.
+If your question isn't answered below, check `the docs <http://hyperspy.org/hyperspy-doc/dev>`_, then ask on the `user mailing list <hyperspy-devel@googlegroups.com>`_.
 
 .. contents::
   :local:
