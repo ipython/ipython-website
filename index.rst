@@ -38,10 +38,8 @@ Announcements
 
 .. image:: _static/ipy_0.11.png
   
-- **User survey:** We'd like to know a bit about who uses IPython. Please
-  `fill in <https://spreadsheets.google.com/viewform?formkey=dDMzREtNSk9pX282N3lxaXhiTmxyN0E6MQ>`_
-  a short, anonymous survey. The `results <https://spreadsheets.google.com/spreadsheet/ccc?key=0AqIElKUDQl8tdDMzREtNSk9pX282N3lxaXhiTmxyN0E&hl=en_GB&authkey=CNOmu-QC#gid=0>`_
-  are publically visible and automatically updated.
+- **User survey:** We've now closed the first IPython user survey. The 240
+  respondents have given us as interesting `overview of our user base <usersurvey2011.html>`_.
   
 `More news... <news.html>`_
 
