@@ -116,12 +116,13 @@ Can IPython run under IronPython/PyPy/Jython/other Python interpreters?
 -----------------------------------------------------------------------
 
 The terminal-based shell should run on any interpreter which complies with
-the necessary version of Python. For the 0.11 release, we will require Python 2.6
+the necessary version of Python. IPython 0.11 requires Python 2.6
 or above, and as of June 2011, IronPython and PyPy both support this.
 
 The most likely problems would come from Readline and from using the undocumented
 sys._getframe() function. On Windows we ship our own `pyreadline <pyreadline.html>`_,
-which might also work under IronPython.
+which might also work under IronPython. PyPy ships its own readline module,
+which IPython 0.11 doesn't use properly; this is fixed in trunk.
 
 If IPython does not work under a supported interpreter, please
 `file a bug <https://github.com/ipython/ipython/issues>`_.
