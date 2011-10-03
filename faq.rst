@@ -48,7 +48,7 @@ Yes, it most definitely does! There are some things that should be noted: `see t
 What is the best way to install IPython? 
 ----------------------------------------
  * The classic ``python setup.py install`` still works, of course, and is recommended for Linux boxes where you have root privileges.
- * On windows you'll probably want to run the .exe installer to get the shortcuts and ipython.py in \python25\scripts.
+ * On windows you'll probably want to run the .exe installer to get the shortcuts and ipython.py in \python27\scripts.
  * ``easy_install ipython==dev`` is the easiest way to install the SVN trunk version.
  * ``easy_install ipython`` is a quick way to get ipython without downloading or unzipping anything manually, but you'll miss windows shortcuts, and documentation (man pages, pdf...) will not be where it normally is.
  * If you want to run the latest ipython instead of an older version provided with your linux distro, and don't want to remove/mess with the already existing version, don't have root privileges to install ipython, or just want to run multiple ipython versions for some reason, just untar the source distribution somewhere and launch ipython.py.
@@ -56,7 +56,7 @@ What is the best way to install IPython?
 Why do I get garbage characters when long information is displayed by the pager? 
 --------------------------------------------------------------------------------
 
-The color escapes used by IPython are not correctly interpreted by default by many common pagers ('less' included). The manual describes `here <http://ipython.scipy.org/doc/stable/html/config/initial_config.html#object-details-types-docstrings-source-code-etc>`_ the problem and its solution in detail, but the short version is that your bashrc file should contain::
+The color escapes used by IPython are not correctly interpreted by default by many common pagers ('less' included). The manual describes `here <http://ipython.org/ipython-doc/stable/config/old.html#object-details-types-docstrings-source-code-etc>`_ the problem and its solution in detail, but the short version is that your bashrc file should contain::
 
     export PAGER=less
     export LESS=-r
