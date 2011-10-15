@@ -2,6 +2,16 @@
 News
 ====
 
+Try IPython online
+------------------
+As of Autumn 2011, you can `try IPython online <http://www.pythonanywhere.com/try-ipython/>`_
+in your browser. New users can explore the features before installing it, or you
+can do some quick calculations from any computer with web access.
+
+Thanks to the guys at `PythonAnywhere <http://www.pythonanywhere.com/>`_ for
+providing this. If you sign up for an account there (it's in beta at the moment),
+you also get persistent consoles, disk space, and more.
+
 IPython 0.11
 ------------
 We're pleased to announce the immediate release of IPython 0.11, on 31 July 2011.

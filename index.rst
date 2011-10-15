@@ -24,6 +24,11 @@ older 0.10 series supports Python 2.5, and probably works well with 2.4.
 Announcements
 =============
 
+- **Try IPython online**: If you want to check out IPython before installing it,
+  you can now `test drive it <http://www.pythonanywhere.com/try-ipython/>`_ in
+  a web browser. Thanks to `PythonAnywhere <http://www.pythonanywhere.com/>`_
+  for providing this.
+
 - **IPython 0.11**: We're pleased to announce the immediate release of IPython
   0.11, a major new version and the result of over two years of work.
   `Download <download.html>`_ it now, or look at `what's new
