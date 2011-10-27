@@ -16,7 +16,7 @@ We have released a first preview version on the 27th of October 2011.
 `download Hyperspy-0.3.preview-1 for Microsoft Windows 
 <https://github.com/downloads/hyperspy/hyperspy/hyperspy-0.3.preview-1.win32.exe>`_
 
-Remember that to install it you must first :ref:`install-dependencies`
+Remember that before installing you must :ref:`install the required libraries <install-dependencies>`
 
 Development version
 ===================
