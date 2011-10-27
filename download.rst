@@ -7,9 +7,19 @@ Download
 Stable Releases
 ===============
 
-Currently there are not stable releases of Hyperspy. For instructions on how to 
-install the develoment version check the `installation chapter in the User Guide 
-<http://hyperspy.org/hyperspy-doc/dev/user_guide/install.html>`_
+Currently there are not stable releases of Hyperspy. 
+
+Preview Releases
+================
+
+We have released a first preview version on the 27th of October 2011. 
+`download Hyperspy-0.3.preview-1 for Microsoft Windows 
+<https://github.com/downloads/hyperspy/hyperspy/hyperspy-0.3.preview-1.win32.exe>`_
+
+Remember that to install it you must first :ref:`install-dependencies`
+
+Development version
+===================
 
 Other related software
 ======================
