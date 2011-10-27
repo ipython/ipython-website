@@ -31,6 +31,22 @@ The Windows installer for the current beta 1 release, version 0.3.0b1 can be dow
 .. WARNING::
     before installing Hyperspy the :ref:`the required libraries must be installed <install-dependencies>`
 
+.. NOTE::
+    To get the handy "Hyperspy here" functionality in the context menu Hyperspy must be installed with administrator rights.
+    
+    If you do not install with administrator rights and you want to get this functionality later on open an administrator windows console and execute:
+    
+    .. code-block:: bash
+    
+        $ install_hyperspy_here
+        
+    In Windows Vista/7 there is a bug in the Python libraries and Hyperspy Here must be uninstalled manually before uninstalling Hyperspy by executing the following in an administrator Windows console:
+    
+    .. code-block:: bash
+    
+        $ uninstall_hyperspy_here
+    
+
 Linux
 ------
 
