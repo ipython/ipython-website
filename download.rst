@@ -20,13 +20,13 @@ Beta Releases
 Windows
 -------
 
-The Windows installer for the current beta 1 release, version 0.3.0b1 can be downloaded using the following links:
+The Windows installer for the current beta 2 release, can be downloaded using the following links:
 
-`Hyperspy-0.3.0 beta 1 for Windows 32-bits 
-<https://github.com/downloads/hyperspy/hyperspy/hyperspy-0.3.0b1.win32.exe>`_
+`Hyperspy-0.3.0 beta 2 for Windows 32-bits 
+<https://github.com/downloads/hyperspy/hyperspy/hyperspy-0.3.0beta2.win32.exe>`_
 
-`Hyperspy-0.3.0 beta 1 for Windows 64-bits 
-<https://github.com/downloads/hyperspy/hyperspy/hyperspy-0.3.0b1.win-amd64.exe>`_
+`Hyperspy-0.3.0 beta 2 for Windows 64-bits 
+<https://github.com/downloads/hyperspy/hyperspy/hyperspy-0.3.0beta2.win-amd64.exe>`_
 
 .. WARNING::
     before installing Hyperspy the :ref:`the required libraries must be installed <install-dependencies>`
@@ -50,7 +50,7 @@ The Windows installer for the current beta 1 release, version 0.3.0b1 can be dow
 Linux
 ------
 
-A Debian/Ubuntu package `can be downloaded here <https://github.com/downloads/hyperspy/hyperspy/python-hyperspy_0.3.0b1-1_all.deb>`_.
+A Debian/Ubuntu package `can be downloaded here <https://github.com/downloads/hyperspy/hyperspy/python-hyperspy_0.3.0beta2-1_all.deb>`_.
 
 Please note that the latest version of Ubuntu and Debian, Oneiric and Wheezy respectively, are required.
 
