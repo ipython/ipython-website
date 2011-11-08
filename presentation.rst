@@ -9,6 +9,9 @@ We have given a number of talks and presentations about IPython:
   2011
 ----------
 
+* `Slides <_static/sheff_python_presentation.pdf>`_ from a talk about IPython
+  for the Sheffield Python user group.
+
 * `Slides <http://fperez.org/talks/1107_ipython_scipy.pdf>`_ and `video
   <http://www.archive.org/details/Wednesday-203-6-IpythonANewArchitectureForInteractiveAndParallel>`_
   of a presentation about the new features in IPython 0.11 at the Scipy 2011
