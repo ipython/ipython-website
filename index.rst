@@ -39,13 +39,16 @@ Announcements
   wrote an excellent post with a `visual tour of the new features`_.
 
 .. _download the slides: http://fperez.org/talks/1107_ipython_scipy.pdf
-.. _watch the talk: http://www.archive.org/details/Wednesday-203-6-IpythonANewArchitectureForInteractiveAndParallel
-.. _visual tour of the new features: http://stronginference.com/weblog/2011/7/15/innovations-in-ipython.html
+.. _watch the talk:
+   http://www.archive.org/details/Wednesday-203-6-IpythonANewArchitectureForInteractiveAndParallel
+.. _visual tour of the new features:
+   http://stronginference.com/weblog/2011/7/15/innovations-in-ipython.html
 
 .. image:: _static/ipy_0.11.png
   
 - **User survey:** We've now closed the first IPython user survey. The 240
-  respondents have given us as interesting `overview of our user base <usersurvey2011.html>`_.
+  respondents have given us as interesting `overview of our user base
+  <usersurvey2011.html>`_.
   
 `More news... <news.html>`_
 
@@ -103,3 +106,19 @@ We gratefully acknowledge the support we've received over the years:
 .. _Enthought Python Distribution: http://www.enthought.com/products/epd.php
 .. _nipy: http://nipy.org
 .. _sage: http://saegemath.org
+
+.. toctree::
+   :hidden:
+
+   citing
+   developer
+   documentation
+   download
+   faq
+   news
+   presentation
+   pyreadline
+   showmedo
+   usersurvey2011
+   whatsnew082
+   whatsnew083
