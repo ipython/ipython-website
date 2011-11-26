@@ -7,8 +7,15 @@
 
     :copyright: Copyright 2007-2010 by the Sphinx team, see AUTHORS.
     :license: BSD, see LICENSE for details.
+
+    NOTE: carries modifications for IPython.
 #}
 {% extends "basic/layout.html" %}
+
+{# IPython-specific block #}
+{% block extrahead %}
+<link rel="stylesheet" href="_static/ipython.css" type="text/css" />
+{% endblock %}
 
 
 {% block header %}

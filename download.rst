@@ -10,16 +10,16 @@ distributions for Linux, Unix, Mac OS X and binaries for Windows.
 
 The current stable release, version 0.11, can be downloaded directly as:
 
-* A `compressed source archive in .tar.gz <http://archive.ipython.org/release/0.11/ipython-0.11.tar.gz>`_ format.
-* A `compressed source archive in .zip <http://archive.ipython.org/release/0.11/ipython-0.11.zip>`_ format.
-* An `egg for Python 2.6 <http://archive.ipython.org/release/0.11/ipython-0.11-py2.6.egg>`_.
-* A `binary Windows installer <http://archive.ipython.org/release/0.11/ipython-0.11.win32-setup.exe>`_ (an executable setup file).
+* A `compressed source archive in .tar.gz <http://archive.ipython.org/release/0.11/ipython-0.11.tar.gz>`__ format.
+* A `compressed source archive in .zip <http://archive.ipython.org/release/0.11/ipython-0.11.zip>`__ format.
+* An `egg for Python 2.6 <http://archive.ipython.org/release/0.11/ipython-0.11-py2.6.egg>`__.
+* A `binary Windows installer <http://archive.ipython.org/release/0.11/ipython-0.11.win32-setup.exe>`__ (an executable setup file).
 
 Version 0.11 is also available for Python 3, as:
 
-* A `compressed source archive in .tar.gz <http://archive.ipython.org/release/0.11/py3/ipython-0.11-py3.tar.gz>`_ format.
-* A `compressed source archive in .zip <http://archive.ipython.org/release/0.11/py3/ipython-0.11-py3.zip>`_ format.
-* An `egg for Python 3.2 <http://archive.ipython.org/release/0.11/py3/ipython-0.11-py3.2.egg>`_.
+* A `compressed source archive in .tar.gz <http://archive.ipython.org/release/0.11/py3/ipython-0.11-py3.tar.gz>`__ format.
+* A `compressed source archive in .zip <http://archive.ipython.org/release/0.11/py3/ipython-0.11-py3.zip>`__ format.
+* An `egg for Python 3.2 <http://archive.ipython.org/release/0.11/py3/ipython-0.11-py3.2.egg>`__.
 
 Note that most major Unix distributions now include IPython in their package
 systems (Ubuntu, Debian, Fedora, SUSE, fink, FreeBSD, OpenBSD,...). It is also

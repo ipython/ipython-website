@@ -5,7 +5,7 @@
 IPython provides a rich toolkit to help you make the most out of using Python
 interactively.  Its main components are:
 
-- Powerful interactive Python shells (terminal- and Qt-based).
+- Powerful Python shells (terminal- and Qt-based).
 - Support for interactive data visualization and use of GUI toolkits.
 - Flexible, embeddable interpreters to load into your own projects.
 - Tools for high level and interactive parallel computing.

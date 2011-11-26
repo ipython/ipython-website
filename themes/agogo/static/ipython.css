@@ -1,0 +1,27 @@
+/* Extra styles for the IPython website
+   */
+
+/* Used to make a box with side-by-side Ohloh.net buttons */
+#ohloh {
+   padding: 0;
+}
+
+#ohloh-use {
+   float: left;
+}
+
+#ohloh-stats {
+   float: right;
+   margin: 3px 0px 0px 0px;
+}
+
+/* A simple div to flush previously-set attributes that may mess up layout further   down if they are kept unmodified.
+ */
+.clear {
+   height: 0;
+   font-size: 1px;
+   margin: 0;
+   padding: 0;
+   line-height: 0;
+   clear: both;
+}

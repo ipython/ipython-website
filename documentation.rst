@@ -17,12 +17,12 @@ is a good place to start if you haven't used IPython before.
 The manuals for all releases by number are here (note that we only have the
 recent ones from the Sphinx build system):
 
-* 0.11: `HTML <http://ipython.org/ipython-doc/stable/index.html>`_ and `PDF <http://ipython.org/ipython-doc/stable/ipython.pdf>`_.
-* 0.10.2: `HTML <http://ipython.org/ipython-doc/rel-0.10.2/html>`_ and `PDF <http://ipython.org/ipython-doc/rel-0.10.2/ipython.pdf>`_.
-* 0.10.1: `HTML <http://ipython.org/ipython-doc/rel-0.10.1/html>`_ and `PDF <http://ipython.org/ipython-doc/rel-0.10.1/ipython.pdf>`_.
-* 0.10: `HTML <http://ipython.org/ipython-doc/rel-0.10/html>`_ and `PDF <http://ipython.org/ipython-doc/rel-0.10/ipython.pdf>`_.
-* 0.9.1: `HTML <http://ipython.org/ipython-doc/rel-0.9.1/html>`_ and `PDF <http://ipython.org/ipython-doc/rel-0.9.1/ipython.pdf>`_.
-* 0.9: `HTML <http://ipython.org/ipython-doc/rel-0.9/html>`_ and `PDF <http://ipython.org/ipython-doc/rel-0.9/ipython.pdf>`_.
+* 0.11: `HTML <http://ipython.org/ipython-doc/stable/index.html>`__ and `PDF <http://ipython.org/ipython-doc/stable/ipython.pdf>`__.
+* 0.10.2: `HTML <http://ipython.org/ipython-doc/rel-0.10.2/html>`__ and `PDF <http://ipython.org/ipython-doc/rel-0.10.2/ipython.pdf>`__.
+* 0.10.1: `HTML <http://ipython.org/ipython-doc/rel-0.10.1/html>`__ and `PDF <http://ipython.org/ipython-doc/rel-0.10.1/ipython.pdf>`__.
+* 0.10: `HTML <http://ipython.org/ipython-doc/rel-0.10/html>`__ and `PDF <http://ipython.org/ipython-doc/rel-0.10/ipython.pdf>`__.
+* 0.9.1: `HTML <http://ipython.org/ipython-doc/rel-0.9.1/html>`__ and `PDF <http://ipython.org/ipython-doc/rel-0.9.1/ipython.pdf>`__.
+* 0.9: `HTML <http://ipython.org/ipython-doc/rel-0.9/html>`__ and `PDF <http://ipython.org/ipython-doc/rel-0.9/ipython.pdf>`__.
 
 Other useful documentation
 --------------------------
@@ -49,7 +49,7 @@ Videos and screencasts
   getting started with IPython and Windows HPC Server 2008. Two of `these
   <http://channel9.msdn.com/shows/The+HPC+Show/Open-source-HPC-code-Episode-11-IPython-Grid-Engine-running-on-Windows-HPC-Server-2008/>`_
   `videos
-  <http://channel9.msdn.com/shows/The+HPC+Show/Open-source-HPC-code-Episode-12-IPython-computes-150-million-digits-of-Pi-in-Parallel/>`_
+  <http://channel9.msdn.com/shows/The+HPC+Show/Open-source-HPC-code-Episode-12-IPython-computes-150-million-digits-of-Pi-in-Parallel/>`__
   are also being hosted on Microsoft's channel 9.
 * The `ShowMeDo <http://showmedo.com>`_ site contains instructional videos on a
   number of topics.  `This page <http://wiki.ipython.org/ShowMeDo>`_
@@ -58,12 +58,12 @@ Videos and screencasts
 * Jose Unpingco has created a set of screencasts on using the Vision/IPython
   combo for parallel computing. They are available both at the `Ohio
   Supercomputer Center's user site <https://www.osc.edu/cms/sip/node/17>`_ and
-  at `ShowMeDo <http://showmedo.com/videotutorials/series?name=XCsI4bsup>`_.
+  at `ShowMeDo <http://showmedo.com/videotutorials/series?name=XCsI4bsup>`__.
 * Another series by Jose Unpingco makes up a tutorial on IPython with a focus
   on scientific computing, which also include a lot of useful tips on Windows
   setup and configuration. This series is also available both at the `OSC user
   site <https://www.osc.edu/cms/sip/>`_ and at `ShowMeDo
-  <http://showmedo.com/videotutorials/series?name=N49qyIFOh>`_.
+  <http://showmedo.com/videotutorials/series?name=N49qyIFOh>`__.
 * A new `5-part series <http://showmedo.com/videos/series?name=CnluURUTV>`_ by
   Jeff Rush, approximately 1 hour long. Jeff uses a working IPython to show
   many features. Created 2007.
@@ -101,11 +101,11 @@ know about it so we can post it here.
   <http://www.scripps.edu/~sanner>`_ team at the Scripps Institute in La Jolla,
   CA.
 * An `article
-  <http://www.redhatmagazine.com/2008/02/07/python-for-bash-scripters-a-well-kept-secret>`_
+  <http://www.redhatmagazine.com/2008/02/07/python-for-bash-scripters-a-well-kept-secret>`__
   by Noah Gift on RedHat Magazine that covers using Python, and IPython, as a
   better Bash.
 * An `article
-  <http://www.ibm.com/developerworks/aix/library/au-netsnmpnipython>`_ by Noah
+  <http://www.ibm.com/developerworks/aix/library/au-netsnmpnipython>`__ by Noah
   Gift at the IBM Developer Works site, on using the Net-SNMP library to
   interactively explore and manage a network (the interactive part courtesy of
   IPython, of course).
@@ -118,9 +118,9 @@ know about it so we can post it here.
   introducing IPython and summarizing its features. A good introduction for the
   newcomer, and even experienced users may find things there they didn't know
   about.
-* An `article <http://www.linux.com/archive/feature/47635>`_ at Linux.com about
+* An `article <http://www.linux.com/archive/feature/47635>`__ at Linux.com about
   IPython, by Conrad Koziol.
-* An `article <http://www.onlamp.com/pub/a/python/2005/01/27/ipython.html>`_ by
+* An `article <http://www.onlamp.com/pub/a/python/2005/01/27/ipython.html>`__ by
   Jeremy Jones at ONLamp.com, introducing IPython to new users and giving a
   tour of its features as a replacement for the default Python shell.
 * The O'Reilly book `"Python for Unix and Linux System Administration"

@@ -3,17 +3,20 @@
 ~~~~~~~~~~~~~~~~~~~~
 
 
-Welcome to IPython's Developer Zone.  This page has information about IPython's development.  IPython is developed by a distributed team of developers using
+Welcome to IPython's Developer Zone.  This page has information about IPython's
+development.  IPython is developed by a distributed team of developers using
 tools like `Git <http://git-scm.com>`_ and `GitHub <http://github.com>`_.
 
 ==================
  Git Repositories 
 ==================
 
-IPython development has been moved to `GitHub <http://github.com/ipython>`_, using the  `Git <http://git-scm.com>`_ distributed version control system.
+IPython development has been moved to `GitHub <http://github.com/ipython>`__,
+using the `Git <http://git-scm.com>`_ distributed version control system.
 
 
-The development version of IPython can be downloaded from our GitHub repository by doing::
+The development version of IPython can be downloaded from our GitHub repository
+by doing::
 
     git clone git://github.com/ipython/ipython.git
 
