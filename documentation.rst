@@ -38,6 +38,8 @@ Other useful documentation
 * `Presentations <presentation.html>`_ we've
   given at various venues regarding IPython over the years.
 
+.. _videos:
+
 Videos and screencasts
 ----------------------
 

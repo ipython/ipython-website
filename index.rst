@@ -13,7 +13,8 @@ interactively.  Its main components are:
 IPython is open source (released under the revised BSD license), and is used by
 a range of `other projects <http://wiki.ipython.org/Projects_using_IPython>`_.
 The `talks and presentations <presentation.html>`_ we have given about IPython
-provide a good overview of its capabilities.
+provide a good overview of its capabilities, and our documentation page also
+contains a list of :ref:`videos and screencasts <videos>`.
 
 IPython supports Python 2.6 to 2.7 and 3.1 to 3.2.  Using it with Python 3
 requires a separate download, described in our `Python 3 wiki page`__.  Our
