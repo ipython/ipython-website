@@ -1,6 +1,34 @@
+<div id="google-search-box" style="float: right; width: 25%;">
+  <div id="cse-search-form" style="width: 100%;">Loading</div>
+</div>
+
 <a href="{{pathto('index')}}">Home</a> · 
 <a href="{{pathto('download')}}">Download</a> · 
 <a href="{{pathto('documentation')}}">Documentation</a> · 
 <a href="http://wiki.ipython.org">Wiki</a> · 
 <a href="{{pathto('news')}}">News</a> · 
 <a href="{{pathto('citing')}}">Citation</a>
+
+
+<script src="http://www.google.co.uk/jsapi" type="text/javascript"></script>
+<script type="text/javascript"> 
+  google.load('search', '1', {language : 'en'});
+  google.setOnLoadCallback(function() {
+    var customSearchControl = new google.search.CustomSearchControl(
+      '017950022472296044740:wfr9nyfshwo');
+
+    customSearchControl.setResultSetSize(google.search.Search.FILTERED_CSE_RESULTSET);
+    var options = new google.search.DrawOptions();
+    options.enableSearchboxOnly("http://ipython.org/searchresults.html");
+    customSearchControl.draw('cse-search-form', options);
+  }, true);
+</script>
+<link rel="stylesheet" href="http://www.google.com/cse/style/look/default.css" type="text/css" /> <style type="text/css">
+  input.gsc-input {
+    border-color: #BCCDF0;
+  }
+  input.gsc-search-button {
+    border-color: #666666;
+    background-color: #CECECE;
+  }
+</style>
