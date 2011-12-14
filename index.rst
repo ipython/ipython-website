@@ -25,6 +25,15 @@ older 0.10 series supports Python 2.5, and probably works well with 2.4.
 Announcements
 =============
 
+- **IPython 0.12rc ready for testing**: We're almost ready to release the new
+  IPython 0.12, that will include the first cut of our `web-based notebook
+  <ipython-doc/dev/interactive/htmlnotebook.html>`_.  Our release candidate is
+  available for testing `in our download area
+  <http://archive.ipython.org/testing/0.12.rc1>`_; we'd appreciate any reports
+  of problems you encounter so we can make the final release as polished as
+  possible. To report a bug you can use our `issue tracker on github
+  <https://github.com/ipython/ipython/issues>`_.
+
 - **Try IPython online**: If you want to check out IPython before installing it,
   you can now `test drive it <http://www.pythonanywhere.com/try-ipython/>`_ in
   a web browser. Thanks to `PythonAnywhere <http://www.pythonanywhere.com/>`_
@@ -122,3 +131,4 @@ We gratefully acknowledge the support we've received over the years:
    usersurvey2011
    whatsnew082
    whatsnew083
+   searchresults

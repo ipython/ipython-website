@@ -2,6 +2,18 @@
 News
 ====
 
+IPython 0.12rc ready for testing
+--------------------------------
+
+We're almost ready to release the new IPython 0.12, that will include the first
+cut of our `web-based notebook
+<ipython-doc/dev/interactive/htmlnotebook.html>`_.  Our release candidate is
+available for testing `in our download area
+<http://archive.ipython.org/testing/0.12.rc1>`_; we'd appreciate any reports of
+problems you encounter so we can make the final release as polished as
+possible. To report a bug you can use our `issue tracker on github
+<https://github.com/ipython/ipython/issues>`_.
+
 Try IPython online
 ------------------
 
