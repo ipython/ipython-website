@@ -51,7 +51,7 @@ Announcements
 .. _watch the talk:
    http://www.archive.org/details/Wednesday-203-6-IpythonANewArchitectureForInteractiveAndParallel
 .. _visual tour of the new features:
-   http://stronginference.com/weblog/2011/7/15/innovations-in-ipython.html
+   http://stronginference.com/innovations-in-ipython.html
 
 .. image:: _static/ipy_0.11.png
   
