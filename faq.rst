@@ -26,6 +26,39 @@ In this case, the second call will overwrite the startup script of the first in 
 
 or you can just have two copies of the ipython startup script named differently and with their first line changed to point to the actual interpreter.
 
+Can IPython run under IronPython/PyPy/Jython/other Python interpreters?
+-----------------------------------------------------------------------
+
+The terminal-based shell should run on any interpreter which complies with
+the necessary version of Python. IPython 0.11 requires Python 2.6
+or above, and as of June 2011, IronPython and PyPy both support this.
+
+The most likely problems would come from Readline and from using the undocumented
+sys._getframe() function. On Windows we ship our own `pyreadline <pyreadline.html>`_,
+which might also work under IronPython. PyPy ships its own readline module,
+which IPython 0.11 doesn't use properly; this is fixed in trunk.
+
+If IPython does not work under a supported interpreter, please
+`file a bug <https://github.com/ipython/ipython/issues>`_.
+
+How do I make IPython recognise my virtualenvs?
+---------------------------------------------------------
+
+On Linux and OS X, find the ipython script (``which ipython``) and ensure that
+the first line is::
+
+    #!/usr/bin/env python
+
+Unfortunately, we can't pre-set it like that, because that line is written by the
+setup process. For most executable Python scripts, it makes sense to always use
+the system version of Python.
+
+For Windows, shebang lines won't work. You'll need to use config to run `code
+like this <https://gist.github.com/1176035>`_ when IPython starts. For IPython
+0.12, put a file in ``$IPYTHONDIR/profile_default/startup``. For IPython 0.11,
+add the location of the file to ``c.InteractiveShellApp.exec_files`` in your
+:file:`ipython_config.py` file.
+
 IPython crashes under OS X when using the arrow keys
 ----------------------------------------------------
 Under some circumstances, using the arrow keys to navigate your input history can cause a complete crash of the Python interpreter.
@@ -43,7 +76,7 @@ You will lose searching in your history with the arrow keys, but at least Python
 
 Does IPython play well with Windows? 
 ------------------------------------
-Yes, it most definitely does! There are some things that should be noted: `see the wiki <http://wiki.ipython.org/IPython_on_Windows>`_.
+Yes, it most definitely does! There are some things that should be noted: `seethe wiki <http://wiki.ipython.org/IPython_on_Windows>`_.
 
 What is the best way to install IPython? 
 ----------------------------------------
@@ -111,19 +144,3 @@ Now you can reactivate ipython's displayhook if you want::
 
 You could wrap this little sys.displayhook dance in a utility function
 to ease things up.
-
-Can IPython run under IronPython/PyPy/Jython/other Python interpreters?
------------------------------------------------------------------------
-
-The terminal-based shell should run on any interpreter which complies with
-the necessary version of Python. IPython 0.11 requires Python 2.6
-or above, and as of June 2011, IronPython and PyPy both support this.
-
-The most likely problems would come from Readline and from using the undocumented
-sys._getframe() function. On Windows we ship our own `pyreadline <pyreadline.html>`_,
-which might also work under IronPython. PyPy ships its own readline module,
-which IPython 0.11 doesn't use properly; this is fixed in trunk.
-
-If IPython does not work under a supported interpreter, please
-`file a bug <https://github.com/ipython/ipython/issues>`_.
-
