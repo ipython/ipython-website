@@ -2,17 +2,16 @@
 News
 ====
 
-IPython 0.12rc ready for testing
---------------------------------
+IPython 0.12
+------------
 
-We're almost ready to release the new IPython 0.12, that will include the first
-cut of our `web-based notebook
-<ipython-doc/dev/interactive/htmlnotebook.html>`_.  Our release candidate is
-available for testing `in our download area
-<http://archive.ipython.org/testing/0.12.rc1>`_; we'd appreciate any reports of
-problems you encounter so we can make the final release as polished as
-possible. To report a bug you can use our `issue tracker on github
-<https://github.com/ipython/ipython/issues>`_.
+IPython 0.12 was released on 18 December 2011. The major new feature with this
+release is the `IPython Notebook <ipython-doc/dev/interactive/htmlnotebook.html>`_,
+an interactive Python interface running in the browser. `Download <download.html>`_
+it now, or read more about `what's new
+<http://ipython.org/ipython-doc/rel-0.11/whatsnew/version0.12.html>`_.
+
+.. image:: _static/ipy_0.12.png
 
 Try IPython online
 ------------------
