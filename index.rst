@@ -25,39 +25,18 @@ older 0.10 series supports Python 2.5, and probably works well with 2.4.
 Announcements
 =============
 
-- **IPython 0.12rc ready for testing**: We're almost ready to release the new
-  IPython 0.12, that will include the first cut of our `web-based notebook
-  <ipython-doc/dev/interactive/htmlnotebook.html>`_.  Our release candidate is
-  available for testing `in our download area
-  <http://archive.ipython.org/testing/0.12.rc1>`_; we'd appreciate any reports
-  of problems you encounter so we can make the final release as polished as
-  possible. To report a bug you can use our `issue tracker on github
-  <https://github.com/ipython/ipython/issues>`_.
+- **IPython 0.12**: We're pleased to announce the release of IPython 0.12, a
+  major new version. The highlight of this release is the `IPython Notebook
+  <ipython-doc/dev/interactive/htmlnotebook.html>`_, an interactive Python
+  interface running in the browser. `Download <download.html>`_ it now, or read
+  more about `what's new <http://ipython.org/ipython-doc/rel-0.11/whatsnew/version0.12.html>`_.
+  
+.. image:: _static/ipy_0.12.png
 
 - **Try IPython online**: If you want to check out IPython before installing it,
   you can now `test drive it <http://www.pythonanywhere.com/try-ipython/>`_ in
   a web browser. Thanks to `PythonAnywhere <http://www.pythonanywhere.com/>`_
   for providing this.
-
-- **IPython 0.11**: We're pleased to announce the immediate release of IPython
-  0.11, a major new version and the result of over two years of work.
-  `Download <download.html>`_ it now, or look at `what's new
-  <http://ipython.org/ipython-doc/rel-0.11/whatsnew/version0.11.html>`_.  At
-  the recent SciPy 2011 conference we gave a talk about this version, you can
-  `download the slides`_ or `watch the talk`_; afterwards Chris Fonnesbeck
-  wrote an excellent post with a `visual tour of the new features`_.
-
-.. _download the slides: http://fperez.org/talks/1107_ipython_scipy.pdf
-.. _watch the talk:
-   http://www.archive.org/details/Wednesday-203-6-IpythonANewArchitectureForInteractiveAndParallel
-.. _visual tour of the new features:
-   http://stronginference.com/innovations-in-ipython.html
-
-.. image:: _static/ipy_0.11.png
-  
-- **User survey:** We've now closed the first IPython user survey. The 240
-  respondents have given us as interesting `overview of our user base
-  <usersurvey2011.html>`_.
   
 `More news... <news.html>`_
 
