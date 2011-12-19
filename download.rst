@@ -8,27 +8,19 @@ Stable Releases
 Our `downloads <http://archive.ipython.org/release>`_ site contains source
 distributions for Linux, Unix, Mac OS X and binaries for Windows.
 
-The current stable release, version 0.11, can be downloaded directly as:
+The current stable release, version 0.12, can be downloaded directly as:
 
 * A `compressed source archive in .tar.gz
-  <http://archive.ipython.org/release/0.11/ipython-0.11.tar.gz>`__ format.
+  <http://archive.ipython.org/release/0.12/ipython-0.12.tar.gz>`__ format.
 * A `compressed source archive in .zip
-  <http://archive.ipython.org/release/0.11/ipython-0.11.zip>`__ format.
-* An `egg for Python 2.6
-  <http://archive.ipython.org/release/0.11/ipython-0.11-py2.6.egg>`__.
+  <http://archive.ipython.org/release/0.12/ipython-0.12.zip>`__ format.
+* An `egg for Python 2.7
+  <http://archive.ipython.org/release/0.12/ipython-0.12-py2.7.egg>`__.
 * A `binary Windows installer
-  <http://archive.ipython.org/release/0.11/ipython-0.11.win32-setup.exe>`__ (an
+  <http://archive.ipython.org/release/0.12/ipython-0.12.win32-setup.exe>`__ (an
   executable setup file).
 
-Version 0.11 is also available for Python 3, as:
-
-* A `compressed source archive in .tar.gz
-  <http://archive.ipython.org/release/0.11/py3/ipython-0.11-py3.tar.gz>`__
-  format.
-* A `compressed source archive in .zip
-  <http://archive.ipython.org/release/0.11/py3/ipython-0.11-py3.zip>`__ format.
-* An `egg for Python 3.2
-  <http://archive.ipython.org/release/0.11/py3/ipython-0.11-py3.2.egg>`__.
+This release of IPython can be installed in Python 2.6, 2.7, 3.1 and above.
 
 Note that most major Unix distributions now include IPython in their package
 systems (Ubuntu, Debian, Fedora, SUSE, fink, FreeBSD, OpenBSD,...). It is also
