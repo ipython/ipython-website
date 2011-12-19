@@ -6,6 +6,8 @@ IPython provides a rich toolkit to help you make the most out of using Python
 interactively.  Its main components are:
 
 - Powerful Python shells (terminal- and Qt-based).
+- A web-based notebook with the same core features but support for
+  rich media, text, code, mathematical expressions and inline plots.
 - Support for interactive data visualization and use of GUI toolkits.
 - Flexible, embeddable interpreters to load into your own projects.
 - Tools for high level and interactive parallel computing.
@@ -16,9 +18,8 @@ The `talks and presentations <presentation.html>`_ we have given about IPython
 provide a good overview of its capabilities, and our documentation page also
 contains a list of :ref:`videos and screencasts <videos>`.
 
-IPython supports Python 2.6 to 2.7 and 3.1 to 3.2.  Using it with Python 3
-requires a separate download, described in our `Python 3 wiki page`__.  Our
-older 0.10 series supports Python 2.5, and probably works well with 2.4.
+IPython supports Python 2.6 to 2.7 and 3.1 to 3.2. Our older 0.10 series
+supports Python 2.5, and probably works well with 2.4.
 
 .. __: http://wiki.ipython.org/Python_3
 
@@ -27,9 +28,9 @@ Announcements
 
 - **IPython 0.12**: We're pleased to announce the release of IPython 0.12, a
   major new version. The highlight of this release is the `IPython Notebook
-  <ipython-doc/dev/interactive/htmlnotebook.html>`_, an interactive Python
+  <ipython-doc/stable/interactive/htmlnotebook.html>`_, an interactive Python
   interface running in the browser. `Download <download.html>`_ it now, or read
-  more about `what's new <http://ipython.org/ipython-doc/rel-0.11/whatsnew/version0.12.html>`_.
+  more about `what's new <http://ipython.org/ipython-doc/rel-0.12/whatsnew/version0.12.html>`_.
   
 .. image:: _static/ipy_0.12.png
 

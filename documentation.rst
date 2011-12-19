@@ -8,8 +8,8 @@ IPython Manual
 
 .. release
 
-* `Current Stable Version (0.11) <http://ipython.org/ipython-doc/stable/index.html>`_ (`PDF <http://ipython.org/ipython-doc/stable/ipython.pdf>`_)
-* `Current Development Version (0.12) <http://ipython.org/ipython-doc/dev/index.html>`_
+* `Current Stable Version (0.12) <http://ipython.org/ipython-doc/stable/index.html>`_
+* `Current Development Version (0.13) <http://ipython.org/ipython-doc/dev/index.html>`_
 
 `This introduction to some key features <http://ipython.org/ipython-doc/stable/interactive/tutorial.html>`_
 is a good place to start if you haven't used IPython before.
@@ -17,7 +17,8 @@ is a good place to start if you haven't used IPython before.
 The manuals for all releases by number are here (note that we only have the
 recent ones from the Sphinx build system):
 
-* 0.11: `HTML <http://ipython.org/ipython-doc/stable/index.html>`__ and `PDF <http://ipython.org/ipython-doc/stable/ipython.pdf>`__.
+* 0.12: `HTML <http://ipython.org/ipython-doc/rel-0.12/index.html>`__.
+* 0.11: `HTML <http://ipython.org/ipython-doc/rel-0.11/index.html>`__ and `PDF <http://ipython.org/ipython-doc/rel-0.11/ipython.pdf>`__.
 * 0.10.2: `HTML <http://ipython.org/ipython-doc/rel-0.10.2/html>`__ and `PDF <http://ipython.org/ipython-doc/rel-0.10.2/ipython.pdf>`__.
 * 0.10.1: `HTML <http://ipython.org/ipython-doc/rel-0.10.1/html>`__ and `PDF <http://ipython.org/ipython-doc/rel-0.10.1/ipython.pdf>`__.
 * 0.10: `HTML <http://ipython.org/ipython-doc/rel-0.10/html>`__ and `PDF <http://ipython.org/ipython-doc/rel-0.10/ipython.pdf>`__.
