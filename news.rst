@@ -9,7 +9,7 @@ IPython 0.12 was released on 18 December 2011. The major new feature with this
 release is the `IPython Notebook <ipython-doc/dev/interactive/htmlnotebook.html>`_,
 an interactive Python interface running in the browser. `Download <download.html>`_
 it now, or read more about `what's new
-<http://ipython.org/ipython-doc/rel-0.11/whatsnew/version0.12.html>`_.
+<http://ipython.org/ipython-doc/rel-0.12/whatsnew/version0.12.html>`_.
 
 .. image:: _static/ipy_0.12.png
 
