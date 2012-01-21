@@ -91,6 +91,9 @@ We gratefully acknowledge the support we've received over the years:
 - `GitHub <http://github.com/>`_ hosts our development workflow and
   documentation.
 
+- `ShiningPanda <https://www.shiningpanda.com/>`_ gives us a free `continuous
+  integration service <https://jenkins.shiningpanda.com/ipython/>`_.
+
 .. _Enthought inc: http://enthought.com
 .. _Enthought Python Distribution: http://www.enthought.com/products/epd.php
 .. _nipy: http://nipy.org
