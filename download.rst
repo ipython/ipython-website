@@ -14,11 +14,13 @@ The current stable release, version 0.12, can be downloaded directly as:
   <http://archive.ipython.org/release/0.12/ipython-0.12.tar.gz>`__ format.
 * A `compressed source archive in .zip
   <http://archive.ipython.org/release/0.12/ipython-0.12.zip>`__ format.
-* An `egg for Python 2.7
-  <http://archive.ipython.org/release/0.12/ipython-0.12-py2.7.egg>`__.
-* A `binary Windows installer
-  <http://archive.ipython.org/release/0.12/ipython-0.12.win32-setup.exe>`__ (an
-  executable setup file).
+* An egg `for Python 2.7
+  <http://archive.ipython.org/release/0.12/ipython-0.12-py2.7.egg>`__ or `for Python 3.2
+  <http://archive.ipython.org/release/0.12/ipython-0.12-py3.2.egg>`__.
+* A binary Windows installer `for Python 2
+  <http://archive.ipython.org/release/0.12/ipython-0.12.win32-setup.exe>`__ or `Python 3 
+  <http://archive.ipython.org/release/0.12/ipython-0.12.win32-py3.exe>`__
+  (an executable setup file).
 
 This release of IPython can be installed in Python 2.6, 2.7, 3.1 and above.
 
