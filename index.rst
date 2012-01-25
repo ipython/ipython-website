@@ -26,6 +26,13 @@ supports Python 2.5, and probably works well with 2.4.
 Announcements
 =============
 
+- **IPython tutorial at PyCon 2012**: Fernando Perez, Brian Granger and Min
+  Ragan-Kelley will present an `in-depth tutorial about IPython
+  <https://us.pycon.org/2012/schedule/presentation/121/>`_.  Join us for a tour
+  of IPython's architecture and hands-on examples on customization, embedding,
+  effective uses of the various applications, the architecture of the web
+  notebook and how to use IPython for parallel and distributed computing.
+
 - **IPython 0.12**: We're pleased to announce the release of IPython 0.12, a
   major new version. The highlight of this release is the `IPython Notebook
   <ipython-doc/stable/interactive/htmlnotebook.html>`_, an interactive Python
