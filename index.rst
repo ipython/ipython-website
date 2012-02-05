@@ -104,7 +104,7 @@ We gratefully acknowledge the support we've received over the years:
 .. _Enthought inc: http://enthought.com
 .. _Enthought Python Distribution: http://www.enthought.com/products/epd.php
 .. _nipy: http://nipy.org
-.. _sage: http://saegemath.org
+.. _sage: http://sagemath.org
 
 .. toctree::
    :hidden:
