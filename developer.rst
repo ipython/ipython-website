@@ -68,6 +68,12 @@ Our old `Trac site <http://projects.scipy.org/ipython/ipython>`_ contains a numb
 ========================
 
 We have a `mailing list <http://projects.scipy.org/mailman/listinfo/ipython-dev>`_ for discussions about the development of IPython.  There is also a web-based `gmane mirror <http://news.gmane.org/thread.php?group=gmane.comp.python.ipython.devel>`_ of this list.
+Additionally, as of 2012-02-22, there is now a `build mailing list
+<http://lists.ipython.org/listinfo.cgi/ipython-build-ipython.org>`_ which gets
+automatically generated messages from the IPython
+`continuous integration server <https://jenkins.shiningpanda.com/ipython/>`_
+whenever the tests fail, and with the first successful build after tests have
+been failing.
 
 =======================
  External Dependencies 
