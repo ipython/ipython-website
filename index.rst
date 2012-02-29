@@ -5,18 +5,17 @@
 Hyperspy provides a rich toolbox to help you make the most out of your 
 hyperspectral data. Some features:
 
-* Reads and writes multiple popular hyperspectral formats.
+* Reads and writes several popular hyperspectral formats.
+* Explore multidimensional datasets.
+* Easily edits multidimensional datasets e.g. crop, align, smooth, remove backgrounds...
 * Performs curve fitting on multidimensional datasets.
-* Principal Components Analysis.
-* Independent components analysis.
+* Easy access to machine learning such as Principal Components Analysis (PCA), Indepedent Components Analysis (ICA)
 * Easy to use and customise.
-* Special functions for EELS data analysis. Other signals coming soon.
+* Very complete set of functions for Electron Energy Loss Spectroscopy (EELS) data analysis and other spectroscopies.
 
-Hyperspy is open source (released under the revised GPL v3 license), and has 
-been already used to obtain results that are published in research articles (see 
+Hyperspy is open source (released under the revised GPL v3 license), and is actively used in research (see 
 `the Bibliography section of the User Guide 
 <http://hyperspy.org/hyperspy-doc/current/user_guide/bibliography.html>`_)
-
 
 Hyperspy supports Python 2.6 to 2.7 but it does not support Python 3 yet.
 
