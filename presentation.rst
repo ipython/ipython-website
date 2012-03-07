@@ -5,9 +5,22 @@
 
 We have given a number of talks and presentations about IPython:
 
-----------
+------
+ 2012
+------
+
+* From our `IPython in-depth PyCon 2012 tutorial`__, we have PDF slides both
+  for the `introduction
+  <http://archive.ipython.org/media/PyCon2012-IPythonTutorial-Intro.pdf>`_ and
+  for the `notebook
+  <http://archive.ipython.org/media/PyCon2012-IPythonTutorial-Notebook.pdf>`_.
+  Videos of the tutorial will be posted shortly.
+
+.. __: https://us.pycon.org/2012/schedule/presentation/121/
+  
+--------
   2011
-----------
+--------
 
 * `Slides <http://archive.ipython.org/media/sheff_python_presentation.pdf>`__
   from a talk about IPython for the Sheffield Python user group.
