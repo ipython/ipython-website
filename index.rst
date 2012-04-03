@@ -119,6 +119,7 @@ We gratefully acknowledge the support we've received over the years:
    pyreadline
    showmedo
    usersurvey2011
+   video
    whatsnew082
    whatsnew083
    searchresults
