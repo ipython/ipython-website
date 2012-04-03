@@ -9,15 +9,22 @@ We have given a number of talks and presentations about IPython:
  2012
 ------
 
+* Fernando's talk *IPython: Python at your fingertips* is available in `PDF
+  <http://fperez.org/talks/1203_ipython_pycon.pdf>`_ and PyVideos.org also
+  posted the `full video <https://www.youtube.com/watch?v=26wgEsg9Mcc>`_.
+
 * From our `IPython in-depth PyCon 2012 tutorial`__, we have PDF slides both
   for the `introduction
   <http://archive.ipython.org/media/PyCon2012-IPythonTutorial-Intro.pdf>`_ and
   for the `notebook
   <http://archive.ipython.org/media/PyCon2012-IPythonTutorial-Notebook.pdf>`_.
-  Videos of the tutorial will be posted shortly.
+  The full 3+ hour tutorial video is also `available on YouTube
+  <https://www.youtube.com/watch?v=2G5YTlheCbw>`_.  Note that *all* PyCon 2012
+  videos are online at the incredible `PyVideo.org site`_.
 
 .. __: https://us.pycon.org/2012/schedule/presentation/121/
-  
+.. _pyvideo.org site: http://pyvideo.org/category/17/pycon-us-2012
+
 --------
   2011
 --------
