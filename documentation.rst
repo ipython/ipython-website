@@ -37,7 +37,7 @@ Other useful documentation
   the journal *Computing in Science and Engineering*.
 * `Presentations <presentation.html>`_ we've
   given at various venues regarding IPython over the years.
-* `Videos and screencasts <video.html>`_.
+* `Videos and screencasts <videos.html>`_.
 
 External Documentation, Related Presentations and Tutorials
 -----------------------------------------------------------
