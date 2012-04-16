@@ -22,11 +22,11 @@ Windows
 
 The Windows installer for the current 0.4 beta release, can be downloaded using the following links:
 
-`Hyperspy-0.4 beta for Windows 32-bits 
-<https://github.com/downloads/hyperspy/hyperspy/hyperspy-0.4.win32.exe>`_
+`Hyperspy-0.4.1 beta for Windows 32-bits 
+<http://pypi.python.org/packages/any/h/hyperspy/hyperspy-0.4.1.win32.exe#md5=c68619d0887883a4ef6ab6db095dc15f>`_
 
-`Hyperspy-0.4 beta for Windows 64-bits 
-<https://github.com/downloads/hyperspy/hyperspy/hyperspy-0.4.win-amd64.exe>`_
+`Hyperspy-0.4.1 beta for Windows 64-bits 
+<http://pypi.python.org/packages/any/h/hyperspy/hyperspy-0.4.1.win-amd64.exe#md5=010b6ba3ed3b0efd328b467eabf6f20b>`_
 
 .. WARNING::
     before installing Hyperspy the :ref:`the required libraries must be installed <install-dependencies>`
@@ -47,12 +47,11 @@ The Windows installer for the current 0.4 beta release, can be downloaded using 
         $ uninstall_hyperspy_here
     
 
-Linux
+Ubuntu
 ------
 
-A Debian/Ubuntu package `can be downloaded here <https://github.com/downloads/hyperspy/hyperspy/python-hyperspy_0.4-1_all.deb>`_.
+An Ubuntu package `can be downloaded here <https://github.com/downloads/hyperspy/hyperspy/python-hyperspy_0.4-1_all.deb>`_. It is compatible with Ubuntu Oneiric or newer.
 
-Please note that the latest version of Ubuntu is required to install this deb file.
 
 Development version
 ===================
