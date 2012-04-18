@@ -13,7 +13,7 @@ Hyperspy provides a rich toolbox for hyperspectral data analysis:
 Hyperspy is open source (released under the revised GPL v3 license) and it is actively
 developed and used in research (see 
 `the Bibliography section of the User Guide 
-<http://hyperspy.org/hyperspy-doc/dev/user-guide/bibliography.html>`_)
+<http://hyperspy.org/hyperspy-doc/current/user_guide/bibliography.html>`_)
 
 Hyperspy supports Python 2.6 to 2.7 but it does not support Python 3 yet.
 
