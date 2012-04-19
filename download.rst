@@ -50,7 +50,7 @@ The Windows installer for the current 0.4 beta release, can be downloaded using 
 Ubuntu
 ------
 
-An Ubuntu package `can be downloaded here <https://github.com/downloads/hyperspy/hyperspy/python-hyperspy_0.4-1_all.deb>`_. It is compatible with Ubuntu Oneiric or newer.
+An Ubuntu package `can be downloaded here <https://github.com/downloads/hyperspy/hyperspy/python-hyperspy_0.4.1-1_all.deb>`_. It is compatible with Ubuntu Oneiric or newer.
 
 
 Development version
