@@ -2,21 +2,23 @@
  IPython: Productive Interactive Computing
 ===========================================
 
-IPython provides a rich toolkit to help you make the most out of using Python
-interactively, with:
+IPython provides a rich toolkit to help you make the most out of using Python,
+with:
 
-- Powerful Python shells (terminal- and Qt-based).
+- Powerful Python shells (terminal and Qt-based).
 - A web-based notebook with the same core features but support for
   rich media, text, code, mathematical expressions and inline plots.
 - Support for interactive data visualization and use of GUI toolkits.
 - Flexible, embeddable interpreters to load into your own projects.
-- High-performance and easy to use tools for (interactive) parallel computing.
+- High-performance and easy to use tools for parallel computing.
 
-IPython is open source (released under the revised BSD license), and is used by
-a range of `other projects <http://wiki.ipython.org/Projects_using_IPython>`_.
-We have :ref:`videos and screencasts <videos>`, you can download our `talks and
-presentations <presentation.html>`_, or read our `extensive documentation
-<documentation.html>`_.
+To learn more about IPython, you can watch our :ref:`videos and screencasts
+<videos>`, download our `talks and presentations <presentation.html>`_, or read
+our `extensive documentation <documentation.html>`_.  IPython is open source
+(BSD license), and is used by a range of `other projects
+<http://wiki.ipython.org/Projects_using_IPython>`_; add your project to that
+list if it uses IPython as a library, and please don't forget to :ref:`cite us
+<citing>`.
 
 IPython supports Python 2.6 to 2.7 and 3.1 or newer. Our older 0.10 series
 supports Python 2.5, and can be used with Python 2.4.
@@ -50,12 +52,14 @@ Announcements
   
 `More news... <news.html>`_
 
-
+.. _citing:
+   
 Citing IPython
 ==============
+
 Several of the authors of IPython are connected with academic and scientific
-research, so it is important to us to be able to show the impact of our work in
-other projects and fields.
+research, so it is important for us to be able to show the impact of our work
+in other projects and fields.
 
 If IPython contributes to a project that leads to a scientific publication,
 please acknowledge this fact by citing the project. You can use this
@@ -65,7 +69,8 @@ please acknowledge this fact by citing the project. You can use this
 Support
 =======
 
-We gratefully acknowledge the support we've received over the years:
+We gratefully acknowledge the support we've received over the years from the
+following sources:
 
 - `Enthought Inc`_ has supported IPython since its beginning in multiple forms,
   including --but not limited to-- the funding of our Qt console, hosting our
