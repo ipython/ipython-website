@@ -3,28 +3,32 @@
 ===========================================
 
 IPython provides a rich toolkit to help you make the most out of using Python
-interactively.  Its main components are:
+interactively, with:
 
 - Powerful Python shells (terminal- and Qt-based).
 - A web-based notebook with the same core features but support for
   rich media, text, code, mathematical expressions and inline plots.
 - Support for interactive data visualization and use of GUI toolkits.
 - Flexible, embeddable interpreters to load into your own projects.
-- Tools for high level and interactive parallel computing.
+- High-performance and easy to use tools for (interactive) parallel computing.
 
 IPython is open source (released under the revised BSD license), and is used by
 a range of `other projects <http://wiki.ipython.org/Projects_using_IPython>`_.
-The `talks and presentations <presentation.html>`_ we have given about IPython
-provide a good overview of its capabilities, and our documentation page also
-contains a list of :ref:`videos and screencasts <videos>`.
+We have :ref:`videos and screencasts <videos>`, you can download our `talks and
+presentations <presentation.html>`_, or read our `extensive documentation
+<documentation.html>`_.
 
-IPython supports Python 2.6 to 2.7 and 3.1 to 3.2. Our older 0.10 series
-supports Python 2.5, and probably works well with 2.4.
+IPython supports Python 2.6 to 2.7 and 3.1 or newer. Our older 0.10 series
+supports Python 2.5, and can be used with Python 2.4.
 
-.. __: http://wiki.ipython.org/Python_3
+.. image:: _static/ipy_0.12.png
 
 Announcements
 =============
+
+- **IPython 0.12.1**: A bugfix-only release, that fixes over 70 issues, has
+  been released on April 21, 2012.  All users of IPython 0.12 are encouraged to
+  upgrade to this version.
 
 - **IPython tutorial at PyCon 2012**: Fernando Perez, Brian Granger and Min
   Ragan-Kelley will present an `in-depth tutorial about IPython
@@ -39,8 +43,6 @@ Announcements
   interface running in the browser. `Download <download.html>`_ it now, or read
   more about `what's new <http://ipython.org/ipython-doc/rel-0.12/whatsnew/version0.12.html>`_.
   
-.. image:: _static/ipy_0.12.png
-
 - **Try IPython online**: If you want to check out IPython before installing it,
   you can now `test drive it <http://www.pythonanywhere.com/try-ipython/>`_ in
   a web browser. Thanks to `PythonAnywhere <http://www.pythonanywhere.com/>`_

@@ -2,6 +2,16 @@
 News
 ====
 
+IPython 0.12.1
+--------------
+
+IPython 0.12.1 was released on April 21, 2012.  This is a bugfix-only release;
+no new features have been introduced but `over 70 issues`_ have been fixed.
+All users of IPython 0.12 are encouraged to upgrade to this release.
+
+.. _over 70 issues: http://ipython.org/ipython-doc/stable/whatsnew/github-stats-0.12.html#issues-list-012
+
+
 IPython 0.12
 ------------
 
