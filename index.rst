@@ -1,24 +1,20 @@
-===========================================
- IPython: Productive Interactive Computing
-===========================================
-
 IPython provides a rich toolkit to help you make the most out of using Python,
 with:
 
 - Powerful Python shells (terminal and Qt-based).
-- A web-based notebook with the same core features but support for
-  rich media, text, code, mathematical expressions and inline plots.
+- A web-based notebook with the same core features but support for code, text,
+  mathematical expressions, inline plots and other rich media.
 - Support for interactive data visualization and use of GUI toolkits.
 - Flexible, embeddable interpreters to load into your own projects.
-- High-performance and easy to use tools for parallel computing.
+- Easy to use, high performance tools for parallel computing.
 
 To learn more about IPython, you can watch our :ref:`videos and screencasts
 <videos>`, download our `talks and presentations <presentation.html>`_, or read
 our `extensive documentation <documentation.html>`_.  IPython is open source
 (BSD license), and is used by a range of `other projects
 <http://wiki.ipython.org/Projects_using_IPython>`_; add your project to that
-list if it uses IPython as a library, and please don't forget to :ref:`cite us
-<citing>`.
+list if it uses IPython as a library, and please don't forget to :ref:`cite the
+project <citing>`.
 
 IPython supports Python 2.6 to 2.7 and 3.1 or newer. Our older 0.10 series
 supports Python 2.5, and can be used with Python 2.4.
