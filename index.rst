@@ -113,7 +113,6 @@ following sources:
    :hidden:
 
    citing
-   developer
    documentation
    download
    faq
