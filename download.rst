@@ -15,8 +15,8 @@ The current stable release, version 0.12.1, can be downloaded directly as:
   <http://archive.ipython.org/release/0.12.1/ipython-0.12.1.tar.gz>`__ or `.zip
   <http://archive.ipython.org/release/0.12.1/ipython-0.12.1.zip>`__ format.
 * An egg `for Python 2.6
-  <http://archive.ipython.org/release/0.12.1/ipython-0.12.1-py2.7.egg>`__ or `for Python 2.7
-  <http://archive.ipython.org/release/0.12.1/ipython-0.12.1-py3.2.egg>`__.
+  <http://archive.ipython.org/release/0.12.1/ipython-0.12.1-py2.6.egg>`__ or `for Python 2.7
+  <http://archive.ipython.org/release/0.12.1/ipython-0.12.1-py2.7.egg>`__.
 * A binary Windows installer `for 32-bit Python
   <http://archive.ipython.org/release/0.12.1/ipython-0.12.1.win32.exe>`__ or
   `64-bit Python
