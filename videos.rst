@@ -56,6 +56,14 @@ for the `notebook
 More videos and screencasts
 ===========================
 
+* Kurt Schwehr has an `excellent set of videos up on YouTube
+  <http://www.youtube.com/playlist?list=PL7E11B34616530F5E&feature=plcp>`__
+  that describe the use of Python as a research tool.  These were made as part
+  of a `course at the University of New Hampshire
+  <http://vislab-ccom.unh.edu/~schwehr/Classes/2011/esci895-res­earchtools>`__.
+  The topics covered go beyond IPython, and it's a very cohesive set of
+  lectures around the kinds of workflows that IPython was built for.
+
 * Brian Granger has a number of screencasts on his `YouTube channel
   <http://www.youtube.com/user/ellisonbg>`_ about using IPython's parallel
   computing capabilities.  These include a number of examples and a guide to
