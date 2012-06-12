@@ -29,9 +29,4 @@ Hyperspy is very cool, but I want to export the data to analyse it with X that i
 Digital Micrograph raises an error when attempting to use the SI tool in a spectrum image created by Hyperspy and imported using the ImportRPL plugin
 -----------------------------------------------------------------------------------------------------------------------------------------------------
 
-**Answer:** At least some versions of Digital Micrograph cannot use the SI tool on spectrum images of Real8 data type (this is equivalent to float64 in Python/Hyperspy).To exchange data with digital micrograph probably the best is to convert it to float32 before saving, e.g.:
-
-.. code-block:: python
-    
-    >>> s.change_dtype('float32') # Assuming that s contains the file that you want to export
-    >>> s.save('happy_exporting.rpl')
+**Answer:** You are using an old version of ImportRPL. Please download the latest version of the :ref:`import-rpl`
