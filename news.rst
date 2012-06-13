@@ -2,6 +2,15 @@
 News
 ====
 
+IPython 0.13
+------------
+IPython 0.13 was released on ????, 2012. This release sees a substantial
+redesign of the IPython Notebook, the introduction of 'cell magic functions',
+as well as numerous other improvements. `Download <download.html>`__ it now, or
+see the `release notes
+<http://ipython.org/ipython-doc/rel-0.13/whatsnew/version0.13.html>`__ for more
+details.
+
 IPython 0.12.1
 --------------
 

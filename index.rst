@@ -24,6 +24,11 @@ supports Python 2.5, and can be used with Python 2.4.
 Announcements
 =============
 
+- **IPython 0.13**: We're pleased to announce a major new release, IPython 0.13.
+  Key changes include a redesigned IPython Notebook and the introduction of cell
+  magic functions. `Download <download.html>`_ it now, or read more about
+  `what's new <http://ipython.org/ipython-doc/rel-0.13/whatsnew/version0.13.html>`_.
+
 - **IPython 0.12.1**: A bugfix-only release, that fixes over 70 issues, has
   been released on April 21, 2012.  All users of IPython 0.12 are encouraged to
   upgrade to this version.
@@ -34,17 +39,6 @@ Announcements
   of IPython's architecture and hands-on examples on customization, embedding,
   effective uses of the various applications, the architecture of the web
   notebook and how to use IPython for parallel and distributed computing.
-
-- **IPython 0.12**: We're pleased to announce the release of IPython 0.12, a
-  major new version. The highlight of this release is the `IPython Notebook
-  <ipython-doc/stable/interactive/htmlnotebook.html>`_, an interactive Python
-  interface running in the browser. `Download <download.html>`_ it now, or read
-  more about `what's new <http://ipython.org/ipython-doc/rel-0.12/whatsnew/version0.12.html>`_.
-  
-- **Try IPython online**: If you want to check out IPython before installing it,
-  you can now `test drive it <http://www.pythonanywhere.com/try-ipython/>`_ in
-  a web browser. Thanks to `PythonAnywhere <http://www.pythonanywhere.com/>`_
-  for providing this.
   
 `More news... <news.html>`_
 
