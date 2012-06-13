@@ -2,7 +2,7 @@
 Documentation
 =============
 
-IPython Manual
+IPython manual
 --------------
 
 .. release
@@ -36,7 +36,7 @@ Other useful documentation
   given at various venues regarding IPython over the years.
 * `Videos and screencasts <videos.html>`_.
 
-External Documentation, Related Presentations and Tutorials
+External documentation, related presentations and tutorials
 -----------------------------------------------------------
 
 This is a collection of presentations, often by authors outside of the core

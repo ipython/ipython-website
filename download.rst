@@ -2,7 +2,7 @@
 Download
 ~~~~~~~~
 
-Stable Releases
+Stable releases
 ---------------
 
 Our `downloads site <http://archive.ipython.org/release>`_ contains source
