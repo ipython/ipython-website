@@ -68,6 +68,11 @@ Support
 We gratefully acknowledge the support we've received over the years from the
 following sources:
 
+- Since 2011, we have had support from the US DoD High Performance Computing
+  Modernization Program (HPCMP_), which funds several IPython developers in
+  collaboration with the US Army Engineer Research and Development Center
+  (ERDC_) that provides computing resources and support from the staff.
+
 - `Enthought Inc`_ has supported IPython since its beginning in multiple forms,
   including --but not limited to-- the funding of our Qt console, hosting our
   website for many years, the continued hosting of our mailing lists, and the
@@ -104,6 +109,8 @@ following sources:
 - `ShiningPanda <https://www.shiningpanda.com/>`_ gives us a free `continuous
   integration service <https://jenkins.shiningpanda.com/ipython/>`_.
 
+.. _HPCMP: http://www.hpcmo.hpc.mil
+.. _ERDC: http://www.erdc.usace.army.mil
 .. _Enthought inc: http://enthought.com
 .. _Enthought Python Distribution: http://www.enthought.com/products/epd.php
 .. _nipy: http://nipy.org
