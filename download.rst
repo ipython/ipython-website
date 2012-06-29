@@ -2,25 +2,25 @@
 Download
 ~~~~~~~~
 
-Stable Releases
+Stable releases
 ---------------
 
 Our `downloads site <http://archive.ipython.org/release>`_ contains source
 distributions for Linux, Unix, Mac OS X and binaries for Windows.  Alternately,
 you can download IPython `from PyPI <http://pypi.python.org/pypi/ipython>`_.
 
-The current stable release, version 0.12.1, can be downloaded directly as:
+The current stable release, version 0.13, can be downloaded directly as:
 
 * A compressed source archive in `.tar.gz
-  <http://archive.ipython.org/release/0.12.1/ipython-0.12.1.tar.gz>`__ or `.zip
-  <http://archive.ipython.org/release/0.12.1/ipython-0.12.1.zip>`__ format.
+  <http://archive.ipython.org/release/0.13/ipython-0.13.tar.gz>`__ or `.zip
+  <http://archive.ipython.org/release/0.13/ipython-0.13.zip>`__ format.
 * An egg `for Python 2.6
-  <http://archive.ipython.org/release/0.12.1/ipython-0.12.1-py2.6.egg>`__ or `for Python 2.7
-  <http://archive.ipython.org/release/0.12.1/ipython-0.12.1-py2.7.egg>`__.
+  <http://archive.ipython.org/release/0.13/ipython-0.13-py2.6.egg>`__ or `for Python 2.7
+  <http://archive.ipython.org/release/0.13/ipython-0.13-py2.7.egg>`__.
 * A binary Windows installer `for 32-bit Python
-  <http://archive.ipython.org/release/0.12.1/ipython-0.12.1.win32.exe>`__ or
+  <http://archive.ipython.org/release/0.13/ipython-0.13.win32.exe>`__ or
   `64-bit Python
-  <http://archive.ipython.org/release/0.12.1/ipython-0.12.1.win-amd64.exe>`__.
+  <http://archive.ipython.org/release/0.13/ipython-0.13.win-amd64.exe>`__.
 
 This release of IPython can be installed in Python 2.6, 2.7, 3.1 and above.
 
