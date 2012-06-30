@@ -24,10 +24,11 @@ supports Python 2.5, and can be used with Python 2.4.
 Announcements
 =============
 
-- **IPython 0.13**: We're pleased to announce a major new release, IPython 0.13.
-  Key changes include a redesigned IPython Notebook and the introduction of cell
-  magic functions. `Download <download.html>`_ it now, or read more about
-  `what's new <http://ipython.org/ipython-doc/rel-0.13/whatsnew/version0.13.html>`_.
+- **IPython 0.13**: a major new release, made on June 30, 2012.  This release,
+  closed 1115 issues Github and comes with major improvements to the notebook
+  and parallel computing APIs, a new cell magic system, unified interactive and
+  parallel kernels, and `much, much more
+  <http://ipython.org/ipython-doc/rel-0.13/whatsnew/version0.13.html>`_.
 
 - **IPython 0.12.1**: A bugfix-only release, that fixes over 70 issues, has
   been released on April 21, 2012.  All users of IPython 0.12 are encouraged to
@@ -61,6 +62,11 @@ Support
 
 We gratefully acknowledge the support we've received over the years from the
 following sources:
+
+- Since 2011, we have had support from the US DoD High Performance Computing
+  Modernization Program (HPCMP_), which funds several IPython developers in
+  collaboration with the US Army Engineer Research and Development Center
+  (ERDC_) that provides computing resources and support from the staff.
 
 - `Enthought Inc`_ has supported IPython since its beginning in multiple forms,
   including --but not limited to-- the funding of our Qt console, hosting our
@@ -98,6 +104,8 @@ following sources:
 - `ShiningPanda <https://www.shiningpanda.com/>`_ gives us a free `continuous
   integration service <https://jenkins.shiningpanda.com/ipython/>`_.
 
+.. _HPCMP: http://www.hpcmo.hpc.mil
+.. _ERDC: http://www.erdc.usace.army.mil
 .. _Enthought inc: http://enthought.com
 .. _Enthought Python Distribution: http://www.enthought.com/products/epd.php
 .. _nipy: http://nipy.org
