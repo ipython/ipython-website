@@ -2,6 +2,15 @@
 News
 ====
 
+IPython 0.13
+------------
+
+IPython 0.13 was released on June 30, 2012.  This is a major release, with 1115
+issues closed on Github, major improvements to the notebook and parallel
+computing APIs, a new cell magic system, unified interactive and parallel
+kernels, and `much, much more
+<http://ipython.org/ipython-doc/rel-0.13/whatsnew/version0.13.html>`_.
+
 IPython 0.12.1
 --------------
 
