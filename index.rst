@@ -19,7 +19,7 @@ project <citing>`.
 IPython supports Python 2.6 to 2.7 and 3.1 or newer. Our older 0.10 series
 supports Python 2.5, and can be used with Python 2.4.
 
-.. image:: _static/ipy_0.12.png
+.. image:: _static/ipy_0.13.png
 
 Announcements
 =============
@@ -40,12 +40,6 @@ Announcements
   of IPython's architecture and hands-on examples on customization, embedding,
   effective uses of the various applications, the architecture of the web
   notebook and how to use IPython for parallel and distributed computing.
-
-- **IPython 0.12**: We're pleased to announce the release of IPython 0.12, a
-  major new version. The highlight of this release is the `IPython Notebook
-  <ipython-doc/stable/interactive/htmlnotebook.html>`_, an interactive Python
-  interface running in the browser. `Download <download.html>`_ it now, or read
-  more about `what's new <http://ipython.org/ipython-doc/rel-0.12/whatsnew/version0.12.html>`_.
   
 `More news... <news.html>`_
 
