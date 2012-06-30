@@ -19,7 +19,7 @@ project <citing>`.
 IPython supports Python 2.6 to 2.7 and 3.1 or newer. Our older 0.10 series
 supports Python 2.5, and can be used with Python 2.4.
 
-.. image:: _static/ipy_0.12.png
+.. image:: _static/ipy_0.13.png
 
 Announcements
 =============
