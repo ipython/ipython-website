@@ -32,7 +32,9 @@ supports Python 2.5, and can be used with Python 2.4.
                 </td>
                 <td style="margin:1em;border-bottom-right-radius: 10px;border-top-right-radius: 10px;">
                     <p style="margin:2em">
-                    On August 28 2012 at 10am, John D. Hunter, creator of <a href="http://matplotlib.sourceforge.net/">matplotlib</a>, died from complications
+                    On August 28 2012 at 10am, John D. Hunter, creator of <a
+		    href="http://matplotlib.sourceforge.net/">matplotlib</a>
+		    and IPython contributor, died from complications
                     arising from cancer treatment, after a brief but intense battle with
                     this terrible illness.  John is survived by his wife Miriam, his
                     three daughters Rahel, Ava and Clara, his sisters Layne and Mary,
@@ -40,8 +42,7 @@ supports Python 2.5, and can be used with Python 2.4.
 
                     <p style="margin:2em">
                     If you have benefited from John's many contributions, please say
-                    thanks in the way that would matter most to him.  Please consider
-                    making a donation to
+                    thanks in the way that would matter most to him: by making a donation to
                     the <a href="http://numfocus.org/johnhunter/">John Hunter Memorial
                     Fund</a>.</p>
                 </td>
