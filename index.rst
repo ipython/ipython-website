@@ -21,6 +21,34 @@ supports Python 2.5, and can be used with Python 2.4.
 
 .. image:: _static/ipy_0.13.png
 
+.. raw:: html
+
+    <h1>John Hunter (1968-2012)</h1>
+    <table style="border-collapse: collapse; margin: 0 -0.5em 0 -0.5em;border-radius:10px">
+        <tbody>
+            <tr bgcolor="#E1E8EC">
+                <td style="border-bottom-left-radius: 10px;border-top-left-radius: 10px;">
+                    <img src="_static/John-hunter-crop-2.jpeg">
+                </td>
+                <td style="margin:1em;border-bottom-right-radius: 10px;border-top-right-radius: 10px;">
+                    <p style="margin:2em">
+                    On August 28 2012 at 10am, John D. Hunter, creator of <a href="http://matplotlib.sourceforge.net/">matplotlib</a>, died from complications
+                    arising from cancer treatment, after a brief but intense battle with
+                    this terrible illness.  John is survived by his wife Miriam, his
+                    three daughters Rahel, Ava and Clara, his sisters Layne and Mary,
+                    and his mother Sarah.</p>
+
+                    <p style="margin:2em">
+                    If you have benefited from John's many contributions, please say
+                    thanks in the way that would matter most to him.  Please consider
+                    making a donation to
+                    the <a href="http://numfocus.org/johnhunter/">John Hunter Memorial
+                    Fund</a>.</p>
+                </td>
+            </tr>
+        </tbody>
+    </table> 
+
 Announcements
 =============
 
