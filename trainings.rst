@@ -10,14 +10,13 @@ We run trainings several times a year. If you want to participate in any of the 
 Forthcoming trainings
 ---------------------
 
-
-* **University of Barcelone**, Spring 2012
-
+* **Advances in data acquisition and processing in electron microscopy**, Poitiers (France) 3rd October 2012
 
 Past trainings
 --------------
-* **University of Cambridge**, 24th October 2011
-* **University of Barcelone**, 28-29 May 2011
-* **CEA Grenoble**, 14-15 March 2011
-* **Oxford University**, 20-21 October 2010
-* **Université Paris-Sud**,  28 June 2010
+* **EMC 2012**, Manchester (UK), 16th September 2012
+* **University of Cambridge**, Cambridge (UK)- 24th October 2011
+* **University of Barcelone**, Spain, 28-29 May 2011
+* **CEA Grenoble**, France, 14-15 March 2011
+* **Oxford University**, UK, 20-21 October 2010
+* **Université Paris-Sud**,  France, 28 June 2010
