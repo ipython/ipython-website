@@ -20,13 +20,13 @@ Beta Releases
 Windows
 -------
 
-The Windows installer for the current 0.5 beta release, can be downloaded using the following links:
+The Windows installer for the current 0.5.1 beta release, can be downloaded using the following links:
 
 `Hyperspy-0.5 beta for Windows 32-bits 
-<http://pypi.python.org/packages/2.7/h/hyperspy/hyperspy-0.5.win32.exe#md5=78a17b48e8a4563a1129ac685b7524e5>`_
+<http://pypi.python.org/packages/2.7/h/hyperspy/hyperspy-0.5.1.win32.exe#md5=778707c6110ffb2bb58ebd58b663f726>`_
 
 `Hyperspy-0.5 beta for Windows 64-bits 
-<http://pypi.python.org/packages/2.7/h/hyperspy/hyperspy-0.5.win-amd64.exe#md5=0f5a4363f532fbe80fabf357d043e2e1>`_
+<http://pypi.python.org/packages/2.7/h/hyperspy/hyperspy-0.5.1.win-amd64.exe#md5=08bbd7da3795856d57976a95df32170d>`_
 
 .. WARNING::
     before installing Hyperspy the :ref:`the required libraries must be installed <install-dependencies>`
@@ -50,7 +50,7 @@ The Windows installer for the current 0.5 beta release, can be downloaded using 
 Ubuntu
 ------
 
-An Ubuntu package `can be downloaded here <https://github.com/downloads/hyperspy/hyperspy/python-hyperspy_0.5-1_all.deb>`_. It is compatible with Ubuntu Precision Pangolin (12.04) or newer.
+An Ubuntu package `can be downloaded here <https://github.com/downloads/hyperspy/hyperspy/python-hyperspy_0.5.1-1_all.deb>`_. It is compatible with Ubuntu Precision Pangolin (12.04) or newer.
 
 
 Development version
