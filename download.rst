@@ -22,10 +22,10 @@ Windows
 
 The Windows installer for the current 0.5.1 beta release, can be downloaded using the following links:
 
-`Hyperspy-0.5 beta for Windows 32-bits 
+`Hyperspy-0.5.1 beta for Windows 32-bits 
 <http://pypi.python.org/packages/2.7/h/hyperspy/hyperspy-0.5.1.win32.exe#md5=778707c6110ffb2bb58ebd58b663f726>`_
 
-`Hyperspy-0.5 beta for Windows 64-bits 
+`Hyperspy-0.5.1 beta for Windows 64-bits 
 <http://pypi.python.org/packages/2.7/h/hyperspy/hyperspy-0.5.1.win-amd64.exe#md5=08bbd7da3795856d57976a95df32170d>`_
 
 .. WARNING::
