@@ -53,6 +53,11 @@ supports Python 2.5, and can be used with Python 2.4.
 Announcements
 =============
 
+- **IPython 0.13.1**: minor bugfix release for 0.13, on October 20, 2012.
+  This release includes 41 Pull Requests and closing 21 Issues backported from 0.14-dev,
+  including significant fixes for ipcluster and Python 3.3 compatibility
+  (`details <http://ipython.org/ipython-doc/rel-0.13/whatsnew/version0.13.html>`_).
+
 - **IPython 0.13**: a major new release, made on June 30, 2012.  This release,
   closed 1115 issues Github and comes with major improvements to the notebook
   and parallel computing APIs, a new cell magic system, unified interactive and
