@@ -13,10 +13,7 @@
 {% extends "basic/layout.html" %}
 
 {# IPython-specific block #}
-{% block extrahead %}
-<link rel="stylesheet" href="_static/ipython.css" type="text/css" />
-{% endblock %}
-
+{% set css_files = css_files + ["_static/ipython.css"] %}
 
 {% block header %}
     <div class="header-wrapper">
