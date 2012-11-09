@@ -24,7 +24,7 @@ The manuals for previous releases are here:
 Other useful documentation
 --------------------------
 
-* IPython `screenshots <http://ipython.org/screenshots/index.html>`_.
+* IPython `screenshots <screenshots/index.html>`_.
 * `Frequently Asked Questions <faq.html>`_.
 * The user maintained IPython `Cookbook <http://wiki.ipython.org/Cookbook>`_.
 * An `article about IPython

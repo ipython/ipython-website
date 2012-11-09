@@ -161,3 +161,4 @@ following sources:
    whatsnew082
    whatsnew083
    searchresults
+   donate
