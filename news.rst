@@ -2,6 +2,15 @@
 News
 ====
 
+Sloan Foundation Grant
+----------------------
+
+IPython has been awarded a $1.15 million grant from `the Alfred P. Sloan
+Foundation <http://www.sloan.org/>`_. This will support several core developers,
+who'll focus on building the IPython Notebook into a tool for open, collaborative,
+reproducible scientific computing. We'll also be bringing developers together
+for two sprints each year in California. `See more details. <sloan-grant.html>`_
+
 IPython 0.13
 ------------
 IPython 0.13 was released on June 30, 2012. This release sees a substantial
