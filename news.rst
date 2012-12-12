@@ -7,9 +7,9 @@ Sloan Foundation Grant
 
 IPython has been awarded a $1.15 million grant from `the Alfred P. Sloan
 Foundation <http://www.sloan.org/>`_. This will support several core developers,
-focussing on building the IPython Notebook into a tool for open, collaborative,
+who'll focus on building the IPython Notebook into a tool for open, collaborative,
 reproducible scientific computing. We'll also be bringing developers together
-for two sprints in California.
+for two sprints each year in California. `See more details. <sloan-grant.html>`_
 
 IPython 0.13
 ------------
