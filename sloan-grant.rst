@@ -5,10 +5,10 @@ Sloan Foundation Grant
 We are pleased to announce that the IPython project has received a $1.15M grant
 from `the Alfred P. Sloan foundation <http://sloan.org>`_, that will support
 IPython development for the next two years (1/1/2013-12/31/2014). The grant,
-which is being made to the University of California and California Polytechnic
-State University, San Luis Obispo, will enable the project to focus on
-developing the IPython Notebook as a general tool for scientific and technical
-computing that is open, collaborative and reproducible.
+which is being made to the University of California, Berkeley and California
+Polytechnic State University, San Luis Obispo, will enable the project to focus
+on developing the IPython Notebook as a general tool for scientific and
+technical computing that is open, collaborative and reproducible.
 
 The grant will fund the following project staff for two years:
 
