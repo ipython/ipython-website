@@ -35,12 +35,17 @@ The main objectives of the grant are:
   Jonathan Taylor, who will use these materials in his Applied Statistics
   course at Stanford (`STAT 191 <http://www.stanford.edu/class/stats191>`_)
 
-The grant will also provide resources for two annual development sprints at
-Berkeley, which will include all of the core IPython developers, funding for
-cloud computing resources (for things like CI hosting and nbviewer) and
-conference travel for project staff.
+The grant will also provide resources for two development sprints per year at
+UC Berkeley, which will include all of the core IPython developers, as well as
+funding for cloud computing resources (for things like CI hosting and nbviewer)
+and conference travel for project staff.
 
 We'd like to thank Josh Greenberg, our program director at the Sloan foundation,
 for the phenomenal guidance and support he provided during the grant proposal
 preparation and detailed review process. We look forward to working with him
 over the next few years!
+
+And last but not least, we want to thank the entire community of users and
+developers of IPython, without whom this would not have been possible: IPython
+is a project driven strictly by the real-world needs of its users, and therein
+lies its value.
