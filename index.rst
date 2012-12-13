@@ -53,6 +53,13 @@ supports Python 2.5, and can be used with Python 2.4.
 Announcements
 =============
 
+- **Sloan Foundation grant**: IPython has been awarded a $1.15 million grant
+  from `the Alfred P. Sloan Foundation <http://www.sloan.org/>`_. This will
+  support several core developers, who'll focus on building the IPython Notebook
+  into a tool for open, collaborative, reproducible scientific computing. We'll
+  also be bringing developers together for two sprints each year in California.
+  `See more details. <sloan-grant.html>`_
+
 - **IPython 0.13.1**: minor bugfix release for 0.13, on October 20, 2012.
   This release includes 41 Pull Requests and closing 21 Issues backported from 0.14-dev,
   including significant fixes for ipcluster and Python 3.3 compatibility
