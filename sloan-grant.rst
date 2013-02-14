@@ -10,7 +10,8 @@ Polytechnic State University, San Luis Obispo, will enable the project to focus
 on developing the IPython Notebook as a general tool for scientific and
 technical computing that is open, collaborative and reproducible.
 
-The grant will fund the following project staff for two years:
+The grant ( `html`_ | `pdf`_ ) will fund the following project staff for two
+years:
 
 * Fernando Perez, UC Berkeley, ¾ time project PI
 * Brian Granger, Cal Poly San Luis Obispo, ¾ time project co-PI
@@ -49,3 +50,9 @@ And last but not least, we want to thank the entire community of users and
 developers of IPython, without whom this would not have been possible: IPython
 is a project driven strictly by the real-world needs of its users, and therein
 lies its value.
+
+You can view the full grant here:  `html`_   `pdf`_.
+
+.. _html: _static/sloangrant/sloan-grant.html
+.. _pdf: _static/sloangrant/sloan-grant.pdf
+
