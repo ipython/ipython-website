@@ -8,6 +8,12 @@ with:
 - Flexible, embeddable interpreters to load into your own projects.
 - Easy to use, high performance tools for parallel computing.
 
+Our `notebook gallery`__ is an excellent way to see the many things you can do
+with IPython while learning about a variety of topics using Python tools, from
+basic programming to advanced statistics or quantum mechanics.
+
+.. __: https://github.com/ipython/ipython/wiki/A-gallery-of-interesting-IPython-Notebooks
+
 To learn more about IPython, you can watch our :ref:`videos and screencasts
 <videos>`, download our `talks and presentations <presentation.html>`_, or read
 our `extensive documentation <documentation.html>`_.  IPython is open source
@@ -103,6 +109,11 @@ Support
 
 We gratefully acknowledge the support we've received over the years from the
 following sources:
+
+- In December 2011, IPython was awarded a `$1.15 million grant
+  <sloan-grant.html>`_ from `the Alfred P. Sloan Foundation
+  <http://www.sloan.org>`_ that will fund the core team for the 2012-2013
+  period.
 
 - Since 2011, we have had support from the US DoD High Performance Computing
   Modernization Program (HPCMP_), which funds several IPython developers in
