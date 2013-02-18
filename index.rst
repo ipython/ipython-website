@@ -10,7 +10,8 @@ with:
 
 Our `notebook gallery`__ is an excellent way to see the many things you can do
 with IPython while learning about a variety of topics using Python tools, from
-basic programming to advanced statistics or quantum mechanics.
+basic programming to advanced statistics or quantum mechanics.  To get started
+with the IPython Notebook, see our `official example collection <https://github.com/ipython/ipython/tree/master/examples/notebooks#a-collection-of-notebooks-for-using-ipython-effectively>`_.
 
 .. __: https://github.com/ipython/ipython/wiki/A-gallery-of-interesting-IPython-Notebooks
 
