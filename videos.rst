@@ -4,6 +4,22 @@
  Videos and Screencasts
 ========================
 
+Science And Python: retrospective of a (mostly) successful decade
+=================================================================
+
+A historical view of the co-evolution of IPython and the scientific Python
+stack (1h), that has been very well received. Delivered by `Fernando Perez`_ as
+a keynote presentation at the PyCon Canada 2012 conference in Toronto, it
+contains multiple demos of the workflows that IPython enables (`PDF slides
+<https://speakerdeck.com/fperez/science-and-python-a-interactively-biased-retrospective-of-a-mostly-successful-decade>`_).
+
+.. raw:: html
+
+   <div align="center"> <iframe title="YouTube video player2" width="550"
+   height="350" src="http://www.youtube.com/embed/F4rFuIb1Ie4" frameborder="0"
+   allowfullscreen></iframe></div><br>
+
+
 IPython: Python at your fingertips
 ==================================
 
