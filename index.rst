@@ -13,7 +13,7 @@ IPython provides a rich architecture for interactive computing with:
     :target: _static/ipy_0.13.png
 	   
 While the focus of the project is Python, our architecture is designed in a
-lanugage-agnostic way to enable interactive computing in any language.  An
+language-agnostic way to enable interactive computing in any language.  An
 interactive kernel speaks to clients such as the terminal or web notebook via a
 well-specified protocol_, and all features of a kernel are available to all
 clients.  We ship the official IPython kernel, but kernels for other languages
