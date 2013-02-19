@@ -1,17 +1,53 @@
-IPython provides a rich toolkit to help you make the most out of using Python,
-with:
+IPython provides a rich architecture for interactive computing with:
 
-- Powerful Python shells (terminal and Qt-based).
-- A web-based notebook with the same core features but support for code, text,
-  mathematical expressions, inline plots and other rich media.
-- Support for interactive data visualization and use of GUI toolkits.
-- Flexible, embeddable interpreters to load into your own projects.
-- Easy to use, high performance tools for parallel computing.
+- Powerful interactive shells (terminal and `Qt-based`_).
+- A browser-based notebook_ with support for code, text, mathematical
+  expressions, inline plots and other rich media.
+- Support for interactive data visualization and use of `GUI toolkits`_.
+- Flexible, embeddable_ interpreters to load into your own projects.
+- Easy to use, high performance tools for `parallel computing`_.
 
-Our `notebook gallery`__ is an excellent way to see the many things you can do
-with IPython while learning about a variety of topics using Python tools, from
-basic programming to advanced statistics or quantum mechanics.  To get started
-with the IPython Notebook, see our `official example collection <https://github.com/ipython/ipython/tree/master/examples/notebooks#a-collection-of-notebooks-for-using-ipython-effectively>`_.
+.. image:: _static/ipy_0.13.png
+    :width: 400px
+    :alt: IPython clients
+    :target: _static/ipy_0.13.png
+	   
+While the focus of the project is Python, our architecture is designed in a
+lanugage-agnostic way to enable interactive computing in any language.  An
+interactive kernel speaks to clients such as the terminal or web notebook via a
+well-specified protocol_, and all features of a kernel are available to all
+clients.  We ship the official IPython kernel, but kernels for other languages
+are being currently developed, with prototypes in Ruby and JavaScript already
+existing.  Additionally, the IPython kernel supports multi-language
+integration, letting you for example mix Python code with Cython_, R_, Octave_,
+and scripting in `Bash, Perl or Ruby`_.
+
+.. _notebook: notebook.html
+
+.. _qt-based: http://ipython.org/ipython-doc/rel-0.13.1/interactive/qtconsole.html
+
+.. _gui toolkits: http://ipython.org/ipython-doc/rel-0.13.1/interactive/reference.html#gui-event-loop-support
+
+.. _embeddable: http://ipython.org/ipython-doc/rel-0.13.1/interactive/reference.html#embedding-ipython
+
+.. _protocol: http://ipython.org/ipython-doc/rel-0.13.1/development/messaging.html
+
+.. _parallel computing: http://ipython.org/ipython-doc/rel-0.13.1/parallel/parallel_intro.html
+
+.. _cython: http://nbviewer.ipython.org/url/github.com/ipython/ipython/raw/master/examples/notebooks/Cython%20Magics.ipynb
+
+.. _R: http://nbviewer.ipython.org/url/github.com/ipython/ipython/raw/master/examples/notebooks/R%20Magics.ipynb
+
+.. _Octave: http://nbviewer.ipython.org/url/github.com/ipython/ipython/raw/master/examples/notebooks/Octave%20Magic.ipynb
+
+.. _Bash, Perl or Ruby: http://nbviewer.ipython.org/url/github.com/ipython/ipython/raw/master/examples/notebooks/Script%20Magics.ipynb
+
+To get started with the IPython Notebook, see our `official example
+collection`_.  Our `notebook gallery`__ is an excellent way to see the many
+things you can do with IPython while learning about a variety of topics, from
+basic programming to advanced statistics or quantum mechanics.
+
+.. _official example collection: https://github.com/ipython/ipython/tree/master/examples/notebooks#a-collection-of-notebooks-for-using-ipython-effectively
 
 .. __: https://github.com/ipython/ipython/wiki/A-gallery-of-interesting-IPython-Notebooks
 
@@ -25,8 +61,6 @@ project <citing>`.
 
 IPython supports Python 2.6 to 2.7 and 3.1 or newer. Our older 0.10 series
 supports Python 2.5, and can be used with Python 2.4.
-
-.. image:: _static/ipy_0.13.png
 
 .. raw:: html
 
@@ -61,7 +95,7 @@ Announcements
 =============
 
 - **Sloan Foundation grant**: IPython has been awarded a $1.15 million grant
-  from `the Alfred P. Sloan Foundation <http://www.sloan.org/>`_. This will
+  from the `Alfred P. Sloan Foundation`_. This will
   support several core developers, allowing them to focus on building the
   IPython Notebook into a tool for open, collaborative, reproducible scientific
   computing. We'll also be bringing developers together for two sprints each
@@ -112,9 +146,8 @@ We gratefully acknowledge the support we've received over the years from the
 following sources:
 
 - In December 2011, IPython was awarded a `$1.15 million grant
-  <sloan-grant.html>`_ from `the Alfred P. Sloan Foundation
-  <http://www.sloan.org>`_ that will fund the core team for the 2012-2013
-  period.
+  <sloan-grant.html>`_ from the `Alfred P. Sloan Foundation`_ that will fund
+  the core team for the 2012-2013 period.
 
 - Since 2011, we have had support from the US DoD High Performance Computing
   Modernization Program (HPCMP_), which funds several IPython developers in
@@ -157,6 +190,7 @@ following sources:
 - `ShiningPanda <https://www.shiningpanda.com/>`_ gives us a free `continuous
   integration service <https://jenkins.shiningpanda.com/ipython/>`_.
 
+.. _Alfred P. Sloan Foundation: http://www.sloan.org
 .. _HPCMP: http://www.hpcmo.hpc.mil
 .. _ERDC: http://www.erdc.usace.army.mil
 .. _Enthought inc: http://enthought.com
@@ -171,6 +205,7 @@ following sources:
    documentation
    download
    faq
+   notebook
    news
    presentation
    pyreadline
@@ -180,4 +215,5 @@ following sources:
    whatsnew082
    whatsnew083
    searchresults
+   sloan-grant
    donate
