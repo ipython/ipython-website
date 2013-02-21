@@ -24,17 +24,15 @@ The manuals for previous releases are here:
 Other useful documentation
 --------------------------
 
+* `Presentations <presentation.html>`_ we've
+  given at various venues regarding IPython over the years.
+* `Videos and screencasts <videos.html>`_.
 * IPython `screenshots <screenshots/index.html>`_.
-* `Frequently Asked Questions <faq.html>`_.
-* The user maintained IPython `Cookbook <http://wiki.ipython.org/Cookbook>`_.
 * An `article about IPython
   <http://fperez.org/papers/ipython07_pe-gr_cise.pdf>`_, written by Fernando
   Perez and Brian Granger, published in the `May/June 2007 issue
   <http://cise.aip.org/dbt/dbt.jsp?KEY=CSENFA&amp;Volume=9&amp;Issue=3>`_ of
   the journal *Computing in Science and Engineering*.
-* `Presentations <presentation.html>`_ we've
-  given at various venues regarding IPython over the years.
-* `Videos and screencasts <videos.html>`_.
 
 External documentation, related presentations and tutorials
 -----------------------------------------------------------
