@@ -211,8 +211,8 @@ following sources:
 
    citing
    documentation
-   download
    faq
+   install
    notebook
    news
    presentation
