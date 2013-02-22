@@ -1,6 +1,6 @@
-~~~~~~~
-Install
-~~~~~~~
+~~~~~~~~~~~~~~~~~~
+Installing IPython
+~~~~~~~~~~~~~~~~~~
 
 There are multiple ways of installing IPython, and our official documentation
 contains `detailed instructions
