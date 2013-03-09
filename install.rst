@@ -12,11 +12,12 @@ you follow the instructions on this page, which provide a setup based on Python
 2.7.  This includes all the dependencies to run the notebook and optionally the
 basic libraries for scientific computing and data analysis.
 
-**Mac or Windows users**
+**Mac or Windows**
 
-Download and install the free edition of the `Enthought Python Distribution
-(EPD) <https://www.enthought.com/products/epd_free.php>`_.  You will also need
-to update the IPython notebook installation to the current version:
+1. Download and install the free edition of the `Enthought Python Distribution
+(EPD) <https://www.enthought.com/products/epd_free.php>`_.
+
+2. Update IPython to the current version:
 
 * On a Mac, using the Terminal application::
 
@@ -28,24 +29,30 @@ to update the IPython notebook installation to the current version:
     enpkg enstaller
     enpkg ipython
 
-**Linux users**
+**Linux**
 
 On Linux, most distributions have everything you need in their package
 managers.
 
-On Ubuntu or other Debian-based distributions, type at the shell::
+1. Install IPython and its dependencies:
+
+* On Ubuntu or other Debian-based distributions, type at the shell::
 
     sudo apt-get install ipython-notebook
 
-    # Only if you are interested in data analysis and scientific work
+* On Fedora 18 and newer related distributions, use::
+
+    sudo yum install python-ipython-notebook
+
+2. Optionally install additional tools for scientific computing:
+
+* On Ubuntu or other Debian-based distributions, type at the shell::
+
     sudo apt-get install python-matplotlib python-scipy \
                          python-pandas python-sympy python-nose
 
-On Fedora 18 and newer related distributions, use::
-  
-    sudo yum install python-ipython-notebook
+* On Fedora 18 and newer related distributions, use::
 
-    # Only if you are interested in data analysis and scientific work
     sudo yum install python-matplotlib scipy python-pandas sympy python-nose
 
 
