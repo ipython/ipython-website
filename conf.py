@@ -26,6 +26,7 @@ extensions = ['sphinx.ext.doctest',
               'sphinx.ext.todo',
               'sphinx.ext.pngmath',
               'sphinx.ext.ifconfig',
+              'googleanalytics',
               
               #'ipython_console_highlighting',
               ]
@@ -45,6 +46,9 @@ master_doc = 'index'
 # General information about the project.
 project = u'IPython'
 copyright = u'the IPython development team'
+
+# google analytics id
+googleanalytics_id = 'UA-38683231-1'
 
 # The version info for the project you're documenting, acts as replacement for
 # |version| and |release|, also used in various other places throughout the
