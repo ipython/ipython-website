@@ -160,7 +160,9 @@ html_sidebars = {
 
 # Additional templates that should be rendered to pages, maps page names to
 # template names.
-html_additional_pages = {'screenshots/index': 'screenshots.html'}
+html_additional_pages = {'screenshots/index': 'screenshots.html',
+                         'download': 'download.html',
+}
 
 # If false, no module index is generated.
 html_use_modindex = False
