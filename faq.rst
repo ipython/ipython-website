@@ -42,7 +42,7 @@ Does IPython play well with Windows?
 ------------------------------------
 
 Yes, it most definitely does! There are some things that should be noted: `see
-the wiki <http://wiki.ipython.org/IPython_on_Windows>`_.
+the installation documentation <http://ipython.org/ipython-doc/stable/install/install.html#windows>`_.
 
 What is the best way to install IPython?
 ----------------------------------------

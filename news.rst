@@ -94,8 +94,7 @@ Python 3 support in progress
 
 Work has started to get IPython running on Python 3. If you're interested in
 testing it, get `the code <https://github.com/ipython/ipython-py3k>`__ from
-GitHub, and read the `developer notes <http://wiki.ipython.org/Python_3>`__ on
-the wiki. We hope to release this along with IPython 0.11.
+GitHub. We hope to release this along with IPython 0.11.
 
 IPython 0.10.1 is out!
 ----------------------
@@ -234,7 +233,7 @@ read the gory details in the full `ChangeLog
 First release of IpyKit (May 24, 2007)
 --------------------------------------
 
-`IpyKit <http://wiki.ipython.org/IpyKit>`__ is a standalone IPython executable,
+`IpyKit <http://wiki.python.org/moin/IPyKit>`__ is a standalone IPython executable,
 created with py2exe and as such works on machines without python (or where you
 just don't have time to mess with installation). It includes pyreadline for
 full tab completion and color support. Get the first release (fully functional,

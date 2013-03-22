@@ -55,7 +55,7 @@ To learn more about IPython, you can watch our :ref:`videos and screencasts
 <videos>`, download our `talks and presentations <presentation.html>`_, or read
 our `extensive documentation <documentation.html>`_.  IPython is open source
 (BSD license), and is used by a range of `other projects
-<http://wiki.ipython.org/Projects_using_IPython>`_; add your project to that
+<https://github.com/ipython/ipython/wiki/Projects-using-IPython>`_; add your project to that
 list if it uses IPython as a library, and please don't forget to :ref:`cite the
 project <citing>`.
 

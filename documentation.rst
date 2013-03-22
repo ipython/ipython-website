@@ -87,7 +87,7 @@ know about it so we can post it here.
 Other projects using IPython
 ----------------------------
 
-`Here <http://wiki.ipython.org/Projects_using_IPython>`_ you can
+`Here <https://github.com/ipython/ipython/wiki/Projects-using-IPython>`_ you can
 find a list of projects that use IPython in one form or another. If you use
 IPython as part of a project, please do add your information to this page or
 email `Fernando.Perez@Berkeley.edu <mailto:Fernando.Perez@Berkeley.edu>`_ and

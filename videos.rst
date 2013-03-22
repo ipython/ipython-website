@@ -89,7 +89,7 @@ More videos and screencasts
   <http://channel9.msdn.com/shows/The+HPC+Show/Open-source-HPC-code-Episode-12-IPython-computes-150-million-digits-of-Pi-in-Parallel/>`__
   are also being hosted on Microsoft's channel 9.
 * The `ShowMeDo <http://showmedo.com>`_ site contains instructional videos on a
-  number of topics.  `This page <http://wiki.ipython.org/ShowMeDo>`_
+  number of topics.  `This page <https://github.com/ipython/ipython/wiki/ShowMeDo>`_
   (from our own wiki) contains further information on ideas for new
   IPython-related videos.
 * Jose Unpingco has created a set of screencasts on using the Vision/IPython
