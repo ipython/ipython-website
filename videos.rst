@@ -35,18 +35,20 @@ interface.
    height="350" src="http://www.youtube.com/embed/26wgEsg9Mcc" frameborder="0"
    allowfullscreen></iframe></div><br>
 
+
 The IPython Notebook
 ====================
 
-A quick introduction to the notebook running on Amazon with `StarCluster
-<http://web.mit.edu/star/cluster>`_ (8 min) by `Titus Brown
-<http://ivory.idyll.org/blog>`_.
-   
+A short (5 min) demonstration of the notebook's basic features by the team at
+the Pybonacci_ blog:
+
 .. raw:: html
 
    <div align="center"> <iframe title="YouTube video player2" width="550"
-   height="350" src="http://www.youtube.com/embed/HaS4NXxL5Qc" frameborder="0"
+   height="350" src="http://www.youtube.com/embed/H6dLGQw9yFQ" frameborder="0"
    allowfullscreen></iframe></div><br>
+
+.. _Pybonacci: http://pybonacci.wordpress.com.
 
 IPython in depth: high-productivity interactive and parallel python
 ===================================================================

@@ -27,6 +27,17 @@ use and configure the system. The `Notebook Gallery`_ showcases many
 interesting notebooks covering a variety of topics, from basic programming to
 advanced scientific computing.
 
+
+Here is a short demo of the notebook's basic features by the Pybonacci_ team:
+
+.. raw:: html
+
+   <div align="center"> <iframe title="YouTube video player2" width="550"
+   height="350" src="http://www.youtube.com/embed/H6dLGQw9yFQ" frameborder="0"
+   allowfullscreen></iframe></div><br>
+
+.. _Pybonacci: http://pybonacci.wordpress.com.
+
 .. _example collection: https://github.com/ipython/ipython/tree/master/examples/notebooks#a-collection-of-notebooks-for-using-ipython-effectively
 
 .. _documentation: http://ipython.org/ipython-doc/rel-0.13.1/interactive/htmlnotebook.html
