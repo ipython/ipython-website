@@ -2,6 +2,14 @@
 News
 ====
 
+IPython 0.13.2
+--------------
+
+IPython 0.13.2 was released on April 5, 2013. This is a bugfix-only release.
+`Download <download.html>`__ it now, or see the `release notes
+<http://ipython.org/ipython-doc/rel-0.13.2/whatsnew/version0.13.html>`__ for more
+details.  This will probably be the last release before 1.0.
+
 Roadmap to 1.0 and Beyond
 -------------------------
 

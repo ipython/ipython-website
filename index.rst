@@ -24,15 +24,15 @@ and scripting in `Bash, Perl or Ruby`_.
 
 .. _notebook: notebook.html
 
-.. _qt-based: http://ipython.org/ipython-doc/rel-0.13.1/interactive/qtconsole.html
+.. _qt-based: http://ipython.org/ipython-doc/stable/interactive/qtconsole.html
 
-.. _gui toolkits: http://ipython.org/ipython-doc/rel-0.13.1/interactive/reference.html#gui-event-loop-support
+.. _gui toolkits: http://ipython.org/ipython-doc/stable/interactive/reference.html#gui-event-loop-support
 
-.. _embeddable: http://ipython.org/ipython-doc/rel-0.13.1/interactive/reference.html#embedding-ipython
+.. _embeddable: http://ipython.org/ipython-doc/stable/interactive/reference.html#embedding-ipython
 
-.. _protocol: http://ipython.org/ipython-doc/rel-0.13.1/development/messaging.html
+.. _protocol: http://ipython.org/ipython-doc/stable/development/messaging.html
 
-.. _parallel computing: http://ipython.org/ipython-doc/rel-0.13.1/parallel/parallel_intro.html
+.. _parallel computing: http://ipython.org/ipython-doc/stable/parallel/parallel_intro.html
 
 .. _cython: http://nbviewer.ipython.org/url/github.com/ipython/ipython/raw/master/examples/notebooks/Cython%20Magics.ipynb
 

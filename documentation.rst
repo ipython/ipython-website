@@ -7,8 +7,8 @@ IPython manual
 
 .. release
 
-* `Current Stable Version (0.13.1) <http://ipython.org/ipython-doc/stable/index.html>`_
-* `Current Development Version (0.14) <http://ipython.org/ipython-doc/dev/index.html>`_
+* `Current Stable Version (0.13.2) <http://ipython.org/ipython-doc/stable/index.html>`_
+* `Current Development Version (1.0) <http://ipython.org/ipython-doc/dev/index.html>`_
 
 `This introduction to some key features <http://ipython.org/ipython-doc/stable/interactive/tutorial.html>`_
 is a good place to start if you haven't used IPython before.
