@@ -40,6 +40,6 @@ Here is a short demo of the notebook's basic features by the Pybonacci_ team:
 
 .. _example collection: https://github.com/ipython/ipython/tree/master/examples/notebooks#a-collection-of-notebooks-for-using-ipython-effectively
 
-.. _documentation: http://ipython.org/ipython-doc/rel-0.13.1/interactive/htmlnotebook.html
+.. _documentation: http://ipython.org/ipython-doc/stable/interactive/htmlnotebook.html
 
 .. _notebook gallery: https://github.com/ipython/ipython/wiki/A-gallery-of-interesting-IPython-Notebooks
