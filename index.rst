@@ -150,7 +150,7 @@ Support
 We gratefully acknowledge the support we've received over the years from the
 following sources:
 
-- In December 2011, IPython was awarded a `$1.15 million grant
+- In December 2012, IPython was awarded a `$1.15 million grant
   <sloan-grant.html>`_ from the `Alfred P. Sloan Foundation`_ that will fund
   the core team for the 2012-2013 period.
 
