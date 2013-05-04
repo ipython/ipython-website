@@ -65,6 +65,13 @@ supports Python 2.5, and can be used with Python 2.4.
 Announcements
 =============
 
+- **Book**: Cyrille Rossant has published the first IPython-focused book:
+  `Learning IPython for Interactive Computing and Data Visualization
+  <http://www.packtpub.com/learning-ipython-for-interactive-computing-and-data-visualization/book>`_,
+  for which `Matthias Bussonnier <https://github.com/Carreau>`_ was a technical
+  reviewer. We thank Packt Publishing for donating a portion of the proceeds
+  from this book to support IPython's development.
+
 - **FSF Award**: Fernando Perez was awarded the `2012 Award for the Advancement
   of Free Software
   <http://www.fsf.org/news/2012-free-software-award-winners-announced-2>`__ for

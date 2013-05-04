@@ -2,6 +2,16 @@
 News
 ====
 
+The first IPython book
+----------------------
+
+In May 2013, Cyrille Rossant published the first IPython-focused book:
+`Learning IPython for Interactive Computing and Data Visualization
+<http://www.packtpub.com/learning-ipython-for-interactive-computing-and-data-visualization/book>`_,
+for which `Matthias Bussonnier <https://github.com/Carreau>`_ was a technical
+reviewer. We thank Packt Publishing for donating a portion of the proceeds from
+this book to support IPython's development.
+
 FSF Award
 ---------
 
