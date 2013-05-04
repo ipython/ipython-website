@@ -4,7 +4,7 @@
  Videos and Screencasts
 ========================
 
-Science And Python: retrospective of a (mostly) successful decade
+Science and Python: retrospective of a (mostly) successful decade
 =================================================================
 
 A historical view of the co-evolution of IPython and the scientific Python
@@ -53,17 +53,14 @@ the Pybonacci_ blog:
 IPython in depth: high-productivity interactive and parallel python
 ===================================================================
 
-A long and detailed tutorial (3:14h) presented at PyCon 2012 by `Fernando
-Perez`_, `Brian Granger`_ and `Min Ragan-Kelley`_ (PDF slides for the
-`introduction
-<http://archive.ipython.org/media/PyCon2012-IPythonTutorial-Intro.pdf>`_ and
-for the `notebook
-<http://archive.ipython.org/media/PyCon2012-IPythonTutorial-Notebook.pdf>`_.
+A long and detailed tutorial (2:48h) presented at PyCon 2013 by `Fernando
+Perez`_, `Brian Granger`_ and `Min Ragan-Kelley`_ (all materials are `available
+on github <https://github.com/ipython/ipython-in-depth>`_).
    
 .. raw:: html
 
    <div align="center"> <iframe title="YouTube video player2" width="550"
-   height="350" src="http://www.youtube.com/embed/2G5YTlheCbw" frameborder="0"
+   height="350" src="http://www.youtube.com/embed/bP8ydKBCZiY" frameborder="0"
    allowfullscreen></iframe></div><br>
    
 .. _Fernando Perez: http://fperez.org
@@ -73,6 +70,13 @@ for the `notebook
 
 More videos and screencasts
 ===========================
+
+* The `Pycon 2012 edition
+  <http://pyvideo.org/video/640/ipython-python-at-your-fingertips>`_ of the
+  IPython in-depth tutorial (PDF slides for the `introduction
+  <http://archive.ipython.org/media/PyCon2012-IPythonTutorial-Intro.pdf>`_ and
+  for the `notebook
+  <http://archive.ipython.org/media/PyCon2012-IPythonTutorial-Notebook.pdf>`_).
 
 * Kurt Schwehr has an `excellent set of videos up on YouTube
   <http://www.youtube.com/playlist?list=PL7E11B34616530F5E&feature=plcp>`__
