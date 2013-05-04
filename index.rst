@@ -65,6 +65,21 @@ supports Python 2.5, and can be used with Python 2.4.
 Announcements
 =============
 
+- **FSF Award**: Fernando Perez was awarded the `2012 Award for the Advancement
+  of Free Software
+  <http://www.fsf.org/news/2012-free-software-award-winners-announced-2>`__ for
+  the creation of IPython and his work in the Scientific Python community.
+  `More
+  details <http://vcresearch.berkeley.edu/news/wresting-new-tricks-python-fernando-perez-wins-2012-award-advancement-free-software>`_.
+
+- **IPython tutorial at PyCon 2013**: Fernando Perez, Brian Granger and Min
+  Ragan-Kelley presented `in-depth tutorial about IPython
+  <http://pyvideo.org/video/1652/ipython-in-depth-high-productivity-interactive-a-0>`_.
+  It covers IPython's architecture and hands-on examples on customization,
+  embedding, effective uses of the various applications, the architecture of
+  the web notebook and how to use IPython for parallel and distributed
+  computing.
+  
 - **Roadmap to 1.0 and beyond**: IPython 1.0 is coming mid-July 2013. See the
   grant_ which is funding the bulk of the work, as well as our roadmap_ for
   achieving the grant's objectives.
@@ -76,28 +91,6 @@ Announcements
   IPython Notebook into a tool for open, collaborative, reproducible scientific
   computing. We'll also be bringing developers together for two sprints each
   year in California.  `See more details. <sloan-grant.html>`_
-
-- **IPython 0.13.1**: minor bugfix release for 0.13, on October 20, 2012.
-  This release includes 41 Pull Requests and closing 21 Issues backported from 0.14-dev,
-  including significant fixes for ipcluster and Python 3.3 compatibility
-  (`details <http://ipython.org/ipython-doc/rel-0.13/whatsnew/version0.13.html>`_).
-
-- **IPython 0.13**: a major new release, made on June 30, 2012.  This release,
-  closed 1115 issues Github and comes with major improvements to the notebook
-  and parallel computing APIs, a new cell magic system, unified interactive and
-  parallel kernels, and `much, much more
-  <http://ipython.org/ipython-doc/rel-0.13/whatsnew/version0.13.html>`_.
-
-- **IPython 0.12.1**: A bugfix-only release, that fixes over 70 issues, has
-  been released on April 21, 2012.  All users of IPython 0.12 are encouraged to
-  upgrade to this version.
-
-- **IPython tutorial at PyCon 2012**: Fernando Perez, Brian Granger and Min
-  Ragan-Kelley will present an `in-depth tutorial about IPython
-  <https://us.pycon.org/2012/schedule/presentation/121/>`_.  Join us for a tour
-  of IPython's architecture and hands-on examples on customization, embedding,
-  effective uses of the various applications, the architecture of the web
-  notebook and how to use IPython for parallel and distributed computing.
   
 `More news... <news.html>`_
 

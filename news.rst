@@ -2,6 +2,26 @@
 News
 ====
 
+FSF Award
+---------
+
+On March 23 2013, Fernando Perez was awarded the `2012 Award for the
+Advancement of Free Software
+<http://www.fsf.org/news/2012-free-software-award-winners-announced-2>`__ for
+the creation of IPython and his work in the Scientific Python community. More
+details are available in `this profile
+<http://vcresearch.berkeley.edu/news/wresting-new-tricks-python-fernando-perez-wins-2012-award-advancement-free-software>`_
+from UC Berkeley.
+
+PyCon 2013 Tutorial
+-------------------
+
+Fernando Perez, Brian Granger and Min Ragan-Kelley presented `in-depth tutorial
+about IPython
+<http://pyvideo.org/video/1652/ipython-in-depth-high-productivity-interactive-a-0>`_.  It covers IPython's architecture and hands-on examples on customization,
+embedding, effective uses of the various applications, the architecture of the
+web notebook and how to use IPython for parallel and distributed computing.
+  
 IPython 0.13.2
 --------------
 
