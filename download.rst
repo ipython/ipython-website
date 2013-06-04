@@ -28,6 +28,12 @@ The Windows installer for the current 0.6 beta release, can be downloaded using 
 `Hyperspy-0.6 beta for Windows 64-bits 
 <http://cook.msm.cam.ac.uk/~fjd29/Hyperspy0.6_64bit.exe>`_
 
+.. WARNING::
+   If Hyperspy fails to start you may also need to install the 
+   Microsoft Visual C++ 2008 redistributable packages 
+   (`64 bit <http://www.microsoft.com/download/en/details.aspx?id=15336>`_ or 
+   `32 bit <http://www.microsoft.com/download/en/details.aspx?id=29>`_).
+
 .. NOTE::
    The above links are for the Full version of the installer that contains all 
    the required libraries (actually it is a customized 
