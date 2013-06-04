@@ -59,9 +59,6 @@ Follow `this link
 for quick instructions on how to install Hyperspy in MacOS.
 
 
-Development version
-===================
-
 Other related software
 ======================
 
