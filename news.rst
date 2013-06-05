@@ -6,7 +6,7 @@ News
    :title: Hyperspy News
    :link: http://hyperspy.org/
 
-   news/news/release_0.6
+   news/release_0.6
    news/sfmu2013
    news/release_0.5.1
    news/release_0.5
