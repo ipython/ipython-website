@@ -23,10 +23,10 @@ Windows
 The Windows installer for the current 0.6 beta release, can be downloaded using the following links:
 
 `Hyperspy-0.6 beta for Windows 32-bits 
-<http://cook.msm.cam.ac.uk/~fjd29/Hyperspy0.6_32bit.exe>`_
+<http://cook.msm.cam.ac.uk/~hyperspy/Hyperspy0.6_32bit.exe>`_
 
 `Hyperspy-0.6 beta for Windows 64-bits 
-<http://cook.msm.cam.ac.uk/~fjd29/Hyperspy0.6_64bit.exe>`_
+<http://cook.msm.cam.ac.uk/~hyperspy/Hyperspy0.6_64bit.exe>`_
 
 .. WARNING::
    If Hyperspy fails to start you may also need to install the 
@@ -47,7 +47,7 @@ Ubuntu Linux
 ------------
 
 An Ubuntu package `can be downloaded here 
-<http://cook.msm.cam.ac.uk/~fjd29/python-hyperspy_0.6-1_all.deb>`_. 
+<http://cook.msm.cam.ac.uk/~hyperspy/python-hyperspy_0.6-1_all.deb>`_. 
 It is compatible with Ubuntu Raring Tale (13.04) or newer.
 
 
