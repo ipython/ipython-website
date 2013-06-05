@@ -27,9 +27,13 @@ extensions = ['sphinx.ext.doctest',
               'sphinx.ext.pngmath',
               'sphinx.ext.ifconfig',
               'sphinx.ext.intersphinx',
+              'sphinxcontrib.newsfeed',
               
               #'ipython_console_highlighting',
               ]
+
+# Add comments to news using diskus 
+disqus_shortname = 'hyperspy'
 
 # Add any paths that contain templates here, relative to this directory.
 templates_path = ['_templates']
