@@ -4,20 +4,31 @@
  The IPython Notebook
 ======================
 
-The IPython Notebook is a web-based interactive computational environment where
-you can combine code execution, text, mathematics, plots and rich media into a
-single document:
+The IPython Notebook is an interactive computational environment, in which
+you can combine code execution, rich text, mathematics, plots and rich media, and store the results in a persistent way. It aims to be an agile tool both for exploratory computation and data analysis, as well as reproducible research.
+
 
 .. image:: _static/sloangrant/9_home_fperez_prof_grants_1207-sloan-ipython_proposal_fig_ipython-notebook-specgram.png
     :width: 350px
-    :alt: The IPython notebook with embedded text, code, math and figures.
+    :alt: The IPython notebook with embedded rich text, code, math and figures.
     :target: _static/sloangrant/9_home_fperez_prof_grants_1207-sloan-ipython_proposal_fig_ipython-notebook-specgram.png
 
+The IPython Notebook combines together several pieces:
 
-These notebooks are normal files that can be shared with colleagues, converted
-to other formats such as HTML or PDF, etc.  You can share any publicly
+* The IPython Notebook web application
+	The dynamic IPython Notebook is a web application which runs in a web browser.
+
+
+* IPython notebook documents, which provide a persistent record of the calculations and results
+
+
+
+ Notebook documents, or notebooks,	 are standard text files that can be stored in version control systems and 
+ shared with colleagues. The results that they contain can be easily output to other static formats, such as HTML, PDF, and slide shows.
+
+You may share any publicly
 available notebook by using the `IPython Notebook Viewer
-<http://nbviewer.ipython.org>`_ service which will render it as a static web
+<http://nbviewer.ipython.org>`_ service, which will render it as a static web
 page. This makes it easy to give your colleagues a document they can read
 immediately without having to install anything.
 
