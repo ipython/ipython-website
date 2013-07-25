@@ -14,8 +14,9 @@ basic libraries for scientific computing and data analysis.
 
 **Mac or Windows**
 
-1. Download and install `Anaconda <http://continuum.io/downloads.html>`_ or the free edition of the `Enthought Python Distribution
-(EPD) <https://www.enthought.com/products/epd_free.php>`_.
+1. Download and install `Anaconda <http://continuum.io/downloads.html>`_ 
+or the free edition of the `Enthought Python Distribution (EPD) 
+<https://www.enthought.com/products/epd_free.php>`_.
 
 2. Update IPython to the current version:
 
