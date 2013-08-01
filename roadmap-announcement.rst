@@ -1,7 +1,7 @@
 Roadmap to 1.0 and Beyond
 -------------------------
 
-TL;DR summary: Hi! IPython 1.0 coming mid-July 2013. See the grant_ which is
+TL;DR summary: Hi! IPython 1.0 coming mid-August 2013. See the grant_ which is
 funding the bulk of the work, as well as our roadmap_ for achieving the
 grant's objectives.
 
@@ -35,8 +35,7 @@ You can see the  `full notes from those meetings`_.
 
 Our primary objective was to outline a plan of what work we want to accomplish
 in the next two years (broadly speaking) as well as to make concrete goals for
-our next (1.0!) release, which will land around Bastille Day (July 14th, 2013,
-for the uninitiated).
+our next (1.0!) release, which will land around mid-August 2013.
 
 It's kind of funny that there's a message from Fernando to [ipython-user] back
 in April of 2005 titled  `"Towards IPython 1.0, the famous big cleanup"`_. In
