@@ -66,13 +66,11 @@ Announcements
 =============
 
 
-.. _100alpha: http://archive.ipython.org/testing/1.0.0/
-
 - **IPython 1.0** We are getting ready to release IPython 1.0.
-  We have an alpha release `ready for testing <100alpha>`_, out on July 21, 2013,
-  and should have a release candidate around August 1.
-  The alpha has gone fairly smoothly, so assuming all goes well with the release candidate
-  IPython 1.0.0 should be released by around August 15, 2013.
+  We have a Release Candidate `ready for testing <http://archive.ipython.org/testing/1.0.0/>`_,
+  out on August 2, 2013.
+  The alpha went fairly smoothly, so assuming all goes well with the release candidate
+  IPython 1.0.0 should be released by around August 10, 2013.
   
 - **Book**: Cyrille Rossant has published the first IPython-focused book:
   `Learning IPython for Interactive Computing and Data Visualization
