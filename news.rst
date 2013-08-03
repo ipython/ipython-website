@@ -43,7 +43,7 @@ details.  This will probably be the last release before 1.0.
 Roadmap to 1.0 and Beyond
 -------------------------
 
-IPython 1.0 is coming mid-July 2013. See the grant_ which is funding the bulk
+IPython 1.0 is coming Summer 2013. See the grant_ which is funding the bulk
 of the work, as well as our roadmap_ for achieving the grant's objectives.
 `Read on for more details <roadmap-announcement.html>`_.
 
