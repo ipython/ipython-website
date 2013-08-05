@@ -8,11 +8,18 @@ The IPython Notebook is an interactive computational environment, in which you
 can combine code execution, rich text, mathematics, plots and rich media, as
 shown in this example session:
 
+.. raw:: html
+
+   <div align="center">
+
 .. image:: _static/sloangrant/9_home_fperez_prof_grants_1207-sloan-ipython_proposal_fig_ipython-notebook-specgram.png
 	 :width: 350px  
 	 :alt: The IPython notebook with embedded rich text, code, mathematics and figures. 
 	 :target: _static/sloangrant/9_home_fperez_prof_grants_1207-sloan-ipython_proposal_fig_ipython-notebook-specgram.png
 
+.. raw:: html
+
+   </div>
 
 It aims to be an agile tool for both exploratory computation and data analysis, 
 and provides a platform to support **reproducible research**, since all inputs 
