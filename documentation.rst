@@ -7,19 +7,18 @@ IPython manual
 
 .. release
 
-* `Current Stable Version (0.13.2) <http://ipython.org/ipython-doc/stable/index.html>`_
-* `Current Development Version (1.0) <http://ipython.org/ipython-doc/dev/index.html>`_
+* `Current Stable Version (1.0) <http://ipython.org/ipython-doc/stable/index.html>`_
+* `Current Development Version (2.0) <http://ipython.org/ipython-doc/dev/index.html>`_
 
 `This introduction to some key features <http://ipython.org/ipython-doc/stable/interactive/tutorial.html>`_
 is a good place to start if you haven't used IPython before.
 
 The manuals for previous releases are here:
 
-* 0.13.1: `HTML <http://ipython.org/ipython-doc/rel-0.13.1/index.html>`__.
+* 0.13.2: `HTML <http://ipython.org/ipython-doc/rel-0.13.2/index.html>`__.
 * 0.12.1: `HTML <http://ipython.org/ipython-doc/rel-0.12.1/index.html>`__.
 * 0.11: `HTML <http://ipython.org/ipython-doc/rel-0.11/index.html>`__ and `PDF <http://ipython.org/ipython-doc/rel-0.11/ipython.pdf>`__.
 * 0.10.2: `HTML <http://ipython.org/ipython-doc/rel-0.10.2/html>`__ and `PDF <http://ipython.org/ipython-doc/rel-0.10.2/ipython.pdf>`__.
-* 0.9.1: `HTML <http://ipython.org/ipython-doc/rel-0.9.1/html>`__ and `PDF <http://ipython.org/ipython-doc/rel-0.9.1/ipython.pdf>`__.
 
 Other useful documentation
 --------------------------
