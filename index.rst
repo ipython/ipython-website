@@ -69,7 +69,7 @@ Announcements
   1.0, nearly twelve years after the first release of IPython 0.0.1.
   `Install <install.html>`__ it now, or read about the changes in
   the `release notes
-  <http://ipython.org/ipython-doc/rel-1.0/whatsnew/version1.0.html>`__.
+  <http://ipython.org/ipython-doc/rel-1.0.0/whatsnew/version1.0.html>`__.
   
 - **Book**: Cyrille Rossant has published the first IPython-focused book:
   `Learning IPython for Interactive Computing and Data Visualization
