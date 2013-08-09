@@ -12,6 +12,12 @@ you follow the instructions on this page, which provide a setup based on Python
 2.7.  This includes all the dependencies to run the notebook and optionally the
 basic libraries for scientific computing and data analysis.
 
+.. note::
+
+   We have just made a new release, and it will take a few days to appear
+   in Anaconda, EPD and Linux distributions. To get the latest
+   version, see :ref:`downloads`.
+
 **Mac or Windows**
 
 1. Download and install `Anaconda <http://continuum.io/downloads.html>`_ or the free edition of the `Enthought Python Distribution
@@ -19,7 +25,7 @@ basic libraries for scientific computing and data analysis.
 
 2. Update IPython to the current version:
 
-* On a Mac, using the Terminal application::
+* On a Mac, using the Terminal application:
 
   Anaconda::
 
@@ -31,7 +37,7 @@ basic libraries for scientific computing and data analysis.
     sudo enpkg enstaller
     sudo enpkg ipython
 
-* On Windows, at the Command Prompt (``cmd.exe`` application)::
+* On Windows, at the Command Prompt (``cmd.exe`` application):
 
   Anaconda::
 
@@ -68,6 +74,9 @@ managers.
 * On Fedora 18 and newer related distributions, use::
 
     sudo yum install python-matplotlib scipy python-pandas sympy python-nose
+
+
+.. _downloads:
 
 
 Downloads
