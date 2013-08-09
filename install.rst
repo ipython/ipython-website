@@ -74,7 +74,7 @@ Downloads
 ---------
 
 You can manually download IPython from either `Github
-<http://github.com/ipython/ipython/downloads>`_ or `PyPI
+<http://github.com/ipython/ipython/releases>`_ or `PyPI
 <http://pypi.python.org/pypi/ipython>`_.  Those locations contain source
 distributions as well as binary Windows installers, which will be recognized by
 ``easy_install`` and ``pip`` (for the source ones).

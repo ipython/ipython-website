@@ -67,7 +67,7 @@ Announcements
 
 - **IPython 1.0** We are very pleased to announce the release of IPython
   1.0, nearly twelve years after the first release of IPython 0.0.1.
-  `Download <download.html>`__ it now, or read about the changes in
+  `Install <install.html>`__ it now, or read about the changes in
   the `release notes
   <http://ipython.org/ipython-doc/rel-1.0/whatsnew/version1.0.html>`__.
   
