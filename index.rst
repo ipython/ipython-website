@@ -65,12 +65,11 @@ supports Python 2.5, and can be used with Python 2.4.
 Announcements
 =============
 
-
-- **IPython 1.0** We are getting ready to release IPython 1.0.
-  We have a Release Candidate `ready for testing <http://archive.ipython.org/testing/1.0.0/>`_,
-  out on August 2, 2013.
-  The alpha went fairly smoothly, so assuming all goes well with the release candidate
-  IPython 1.0.0 should be released by around August 10, 2013.
+- **IPython 1.0** We are very pleased to announce the release of IPython
+  1.0, nearly twelve years after the first release of IPython 0.0.1.
+  `Install <install.html>`__ it now, or read about the changes in
+  the `release notes
+  <http://ipython.org/ipython-doc/rel-1.0/whatsnew/version1.0.html>`__.
   
 - **Book**: Cyrille Rossant has published the first IPython-focused book:
   `Learning IPython for Interactive Computing and Data Visualization
