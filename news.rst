@@ -8,7 +8,7 @@ IPython 1.0
 IPython 1.0 was released on August 8, 2013, after nearly twelve years of development.
 This release sees numerous improvements	from the 0.13 series, and some significant
 API reorganisations. `Install <install.html>`__ it now, or see the
-`release notes <http://ipython.org/ipython-doc/rel-1.0/whatsnew/version1.0.html>`__
+`release notes <http://ipython.org/ipython-doc/rel-1.0.0/whatsnew/version1.0.html>`__
 for more details.
 
 This is just the first part of an ambitious development schedule. We aim
