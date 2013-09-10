@@ -27,6 +27,7 @@ Other useful documentation
   given at various venues regarding IPython over the years.
 * `Videos and screencasts <videos.html>`_.
 * IPython `screenshots <screenshots/index.html>`_.
+* 'IPython quick referance card <http://damontallen.github.io/IPython-quick-ref-sheets/>`_.
 * An `article about IPython
   <http://fperez.org/papers/ipython07_pe-gr_cise.pdf>`_, written by Fernando
   Perez and Brian Granger, published in the `May/June 2007 issue
