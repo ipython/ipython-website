@@ -153,10 +153,11 @@ html_static_path = ['_static']
 
 # Custom sidebar templates, maps document names to template names.
 # TODO: split this up into several chunks
+
 html_sidebars = {
-   '**': ['gse.html', 'sidebar_john.html' ,'sidebar_versions.html', 'sidebar_links.html'],
-   'searchresults': ['sidebar_versions.html', 'sidebar_links.html'],
-}
+    '**': ['gse.html', 'sidebar_versions.html', 'sidebar_links.html'],
+    'searchresults': ['sidebar_versions.html', 'sidebar_links.html'],
+    }
 
 # Additional templates that should be rendered to pages, maps page names to
 # template names.
