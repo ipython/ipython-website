@@ -1,12 +1,17 @@
 {%- block sidebarlinks %}
 
 <div class="sidebarblock">
-<h3>{{ _('Book') }}</h3>
+<h3>{{ _('Notebook Viewer') }}</h3>
 
-<a href="http://www.packtpub.com/learning-ipython-for-interactive-computing-and-data-visualization/book"><img src="_static/ipython-book.jpg"
-title="Packt Publishing donates a portion of the proceeds from this book to
-support IPython's development." > </a>
+Share your notebooks
 
+<div class="nbviewer-thm-random">
+  <script src="_static/nbviewer_thm.js"></script>
+  <script type="text/javascript">
+    nbviewer_random_thumbnail();
+  </script>
+	       
+</div> 
 </div>
 
 <div class="sidebarblock">
@@ -36,6 +41,15 @@ support IPython's development." > </a>
 
 </div>
 
+
+<div class="sidebarblock">
+<h3>{{ _('Book') }}</h3>
+
+<a href="http://www.packtpub.com/learning-ipython-for-interactive-computing-and-data-visualization/book"><img src="_static/ipython-book.jpg"
+title="Packt Publishing donates a portion of the proceeds from this book to
+support IPython's development." > </a>
+
+</div>
 
 
 <div class="sidebarblock">
