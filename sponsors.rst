@@ -64,19 +64,9 @@ following sources:
 - `Bivio Software <http://www.bivio.biz>`_ hosted an IPython sprint in 2006, in
   addition to their support of the Front Range Pythoneers group in Boulder, CO.
   
-- `GitHub <http://github.com/>`_ hosts our development workflow and
-  documentation.
+- GitHub_ hosts our development workflow and documentation.
 
 - `ShiningPanda <https://www.shiningpanda.com/>`_ gives us a free `continuous
   integration service <https://jenkins.shiningpanda.com/ipython/>`_.
 
-.. _Alfred P. Sloan Foundation: http://www.sloan.org
-.. _HPCMP: http://www.hpcmo.hpc.mil
-.. _ERDC: http://www.erdc.usace.army.mil
-.. _Enthought inc: http://enthought.com
-.. _Enthought Python Distribution: http://www.enthought.com/products/epd.php
-.. _nipy: http://nipy.org
-.. _sage: http://sagemath.org
-.. _grant: http://ipython.org/sloan-grant.html
-.. _roadmap: https://github.com/ipython/ipython/wiki/Roadmap:-IPython
-.. _NumFOCUS: http://numfocus.org
+.. include:: links.txt
