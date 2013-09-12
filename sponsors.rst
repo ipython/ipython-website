@@ -18,8 +18,8 @@ If you would like to support the project by making a substantial or periodic
 contribution, please contact us directly (ipython@gmail.com).  All donations to
 IPython are handled by NumFOCUS_ and are tax-deductible in the USA.
 
-Individuals can also :ref:`donate to IPython <donate>`, and we are grateful for every
-contribution!
+Individuals can also `donate to IPython <donate.html>`_, and we are grateful
+for every contribution!
 
 
 Other support
