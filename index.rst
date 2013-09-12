@@ -94,9 +94,9 @@ Announcements
   computing.
   
 - **Roadmap to 1.0 and beyond**: IPython 1.0 is coming mid-July 2013. See the
-  grant_ which is funding the bulk of the work, as well as our roadmap_ for
-  achieving the grant's objectives.
-  `Read on for more details <roadmap-announcement.html>`_.
+  `grant <sloan-grant.html>`_ which is funding the bulk of the work, as well as
+  our roadmap_ for achieving the grant's objectives.  `Read on for more details
+  <roadmap-announcement.html>`_.
 
 - **Sloan Foundation grant**: IPython has been awarded a $1.15 million grant
   from the `Alfred P. Sloan Foundation`_. This will
@@ -104,7 +104,10 @@ Announcements
   IPython Notebook into a tool for open, collaborative, reproducible scientific
   computing. We'll also be bringing developers together for two sprints each
   year in California.  `See more details. <sloan-grant.html>`_
-  
+
+.. _roadmap: https://github.com/ipython/ipython/wiki/Roadmap:-IPython
+.. _Alfred P. Sloan Foundation: http://www.sloan.org/
+
 `More news... <news.html>`_
 
 .. _citing:
@@ -121,85 +124,24 @@ please acknowledge this fact by citing the project. You can use this
 `ready-made citation entry <citing.html>`_.
 
 
-Support
-=======
-
-We gratefully acknowledge the support we've received over the years from the
-following sources:
-
-- In December 2012, IPython was awarded a `$1.15 million grant
-  <sloan-grant.html>`_ from the `Alfred P. Sloan Foundation`_ that will fund
-  the core team for the 2012-2013 period.
-
-- Since 2011, we have had support from the US DoD High Performance Computing
-  Modernization Program (HPCMP_), which funds several IPython developers in
-  collaboration with the US Army Engineer Research and Development Center
-  (ERDC_) that provides computing resources and support from the staff.
-
-- `Enthought Inc`_ has supported IPython since its beginning in multiple forms,
-  including --but not limited to-- the funding of our Qt console, hosting our
-  website for many years, the continued hosting of our mailing lists, and the
-  inclusion of IPython in the `Enthought Python Distribution`_.
-
-- NiPy_/NIH: funding via the NiPy project (NIH grant 5R01MH081909-02) supported
-  our 2009 refactoring work.
-  
-- Sage_/NSF: funding via the grant `Sage: Unifying Mathematical Software for
-  Scientists, Engineers, and Mathematicians
-  <http://modular.math.washington.edu/grants/compmath09>`_ (NSF grant
-  DMS-1015114) supported our Seattle 2011 developer meeting.
-
-- Microsoft's team working on `Python Tools for Visual Studio
-  <http://pytools.codeplex.com>`_ developed the integraton of IPython into the
-  Python plugin for Visual Studio 2010.
-
-- `Tech-X Corporation <http://txcorp.com>`__ supported in 2008 the development
-  of our parallel computing tools.
-
-- Google Summer of Code: in 2005 and 2010 we've had GSoC support for prototypes
-  in several areas of the project.
-
-- The Ohio Supercomputer Center and the Department of Defense High Performance
-  Computing Modernization Program (HPCMP), for sponsoring work in 2009 on our
-  parallel computing tools.
-  
-- `Bivio Software <http://www.bivio.biz>`_ hosted an IPython sprint in 2006, in
-  addition to their support of the Front Range Pythoneers group in Boulder, CO.
-  
-- `GitHub <http://github.com/>`_ hosts our development workflow and
-  documentation.
-
-- `ShiningPanda <https://www.shiningpanda.com/>`_ gives us a free `continuous
-  integration service <https://jenkins.shiningpanda.com/ipython/>`_.
-
-.. _Alfred P. Sloan Foundation: http://www.sloan.org
-.. _HPCMP: http://www.hpcmo.hpc.mil
-.. _ERDC: http://www.erdc.usace.army.mil
-.. _Enthought inc: http://enthought.com
-.. _Enthought Python Distribution: http://www.enthought.com/products/epd.php
-.. _nipy: http://nipy.org
-.. _sage: http://sagemath.org
-.. _grant: http://ipython.org/sloan-grant.html
-.. _roadmap: https://github.com/ipython/ipython/wiki/Roadmap:-IPython
-
-
 .. toctree::
    :hidden:
 
    citing
    documentation
+   donate
    faq
    install
-   notebook
    news
+   notebook
    presentation
    pyreadline
+   roadmap-announcement
+   searchresults
    showmedo
+   sloan-grant
+   sponsors
    usersurvey2011
    videos
    whatsnew082
    whatsnew083
-   searchresults
-   sloan-grant
-   roadmap-announcement
-   donate

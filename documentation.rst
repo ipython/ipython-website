@@ -5,20 +5,17 @@ Documentation
 IPython manual
 --------------
 
-.. release
-
-* `Current Stable Version (1.0) <http://ipython.org/ipython-doc/stable/index.html>`_
+* `Current Stable Version (1.1.0) <http://ipython.org/ipython-doc/stable/index.html>`_
 * `Current Development Version (2.0) <http://ipython.org/ipython-doc/dev/index.html>`_
 
-`This introduction to some key features <http://ipython.org/ipython-doc/stable/interactive/tutorial.html>`_
-is a good place to start if you haven't used IPython before.
+`This introduction to some key features
+<http://ipython.org/ipython-doc/stable/interactive/tutorial.html>`_ is a good
+place to start if you haven't used IPython before.
 
-The manuals for previous releases are here:
+See below_ for links to all versions of the documentation.
 
-* 0.13.2: `HTML <http://ipython.org/ipython-doc/rel-0.13.2/index.html>`__.
-* 0.12.1: `HTML <http://ipython.org/ipython-doc/rel-0.12.1/index.html>`__.
-* 0.11: `HTML <http://ipython.org/ipython-doc/rel-0.11/index.html>`__ and `PDF <http://ipython.org/ipython-doc/rel-0.11/ipython.pdf>`__.
-* 0.10.2: `HTML <http://ipython.org/ipython-doc/rel-0.10.2/html>`__ and `PDF <http://ipython.org/ipython-doc/rel-0.10.2/ipython.pdf>`__.
+.. _below: docs_all_releases_
+
 
 Other useful documentation
 --------------------------
@@ -27,7 +24,8 @@ Other useful documentation
   given at various venues regarding IPython over the years.
 * `Videos and screencasts <videos.html>`_.
 * IPython `screenshots <screenshots/index.html>`_.
-* 'IPython quick referance card <http://damontallen.github.io/IPython-quick-ref-sheets/>`_.
+* `IPython quick reference card
+  <http://damontallen.github.io/IPython-quick-ref-sheets/>`_.
 * An `article about IPython
   <http://fperez.org/papers/ipython07_pe-gr_cise.pdf>`_, written by Fernando
   Perez and Brian Granger, published in the `May/June 2007 issue
@@ -99,3 +97,23 @@ please `provide a citation to IPython <citing.html>`_.
     These documents themselves are maintained as a `git repository
     <http://github.com/ipython/ipython-doc>`_ on GitHub, using the `GitHub
     project pages feature <http://pages.github.com/>`_.
+
+    
+.. _docs_all_releases:
+    
+Docs for all releases
+---------------------
+
+* `1.1.0 <http://ipython.org/ipython-doc/rel-1.1.0/index.html>`__
+* `1.0.0 <http://ipython.org/ipython-doc/rel-1.0.0/index.html>`__
+* `0.13.2 <http://ipython.org/ipython-doc/rel-0.13.2/index.html>`__
+* `0.13.1 <http://ipython.org/ipython-doc/rel-0.13.1/index.html>`__
+* `0.13 <http://ipython.org/ipython-doc/rel-0.13/index.html>`__
+* `0.12.1 <http://ipython.org/ipython-doc/rel-0.12.1/index.html>`__
+* `0.12 <http://ipython.org/ipython-doc/rel-0.12/index.html>`__
+* 0.11: `HTML <http://ipython.org/ipython-doc/rel-0.11/index.html>`__ and `PDF <http://ipython.org/ipython-doc/rel-0.11/ipython.pdf>`__.
+* 0.10.2: `HTML <http://ipython.org/ipython-doc/rel-0.10.2/html>`__ and `PDF <http://ipython.org/ipython-doc/rel-0.10.2/ipython.pdf>`__.
+* 0.10.1: `HTML <http://ipython.org/ipython-doc/rel-0.10.1/html>`__ and `PDF <http://ipython.org/ipython-doc/rel-0.10.1/ipython.pdf>`__.
+* 0.10: `HTML <http://ipython.org/ipython-doc/rel-0.10/html>`__ and `PDF <http://ipython.org/ipython-doc/rel-0.10/ipython.pdf>`__.
+* 0.9.1: `HTML <http://ipython.org/ipython-doc/rel-0.9.1/html>`__ and `PDF <http://ipython.org/ipython-doc/rel-0.9.1/ipython.pdf>`__.
+* 0.9: `HTML <http://ipython.org/ipython-doc/rel-0.9/html>`__ and `PDF <http://ipython.org/ipython-doc/rel-0.9/ipython.pdf>`__.

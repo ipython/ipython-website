@@ -1,3 +1,5 @@
+.. _sloan_grant:
+
 ======================
 Sloan Foundation Grant
 ======================
