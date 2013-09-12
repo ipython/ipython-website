@@ -14,14 +14,14 @@ basic libraries for scientific computing and data analysis.
 
 .. note::
 
-   We have just made a new release, and it will take a few days to appear
-   in Anaconda, EPD and Linux distributions. To get the latest
-   version, see :ref:`downloads`.
+   We have just made a new release, and it will take some time to appear in
+   Anaconda, Enthought Canopy and Linux distributions.
 
 **Mac or Windows**
 
-1. Download and install `Anaconda <http://continuum.io/downloads.html>`_ or the free edition of the `Enthought Python Distribution
-(EPD) <https://www.enthought.com/products/epd_free.php>`_.
+1. Download and install `Anaconda <http://continuum.io/downloads.html>`_ or the
+free edition of `Enthought Canopy
+<https://www.enthought.com/products/epd_free.php>`_.
 
 2. Update IPython to the current version:
 
@@ -32,7 +32,7 @@ basic libraries for scientific computing and data analysis.
     conda update conda
     conda update ipython
 
-  EPD::
+  Enthought Canopy::
 
     sudo enpkg enstaller
     sudo enpkg ipython
@@ -44,7 +44,7 @@ basic libraries for scientific computing and data analysis.
     conda update conda
     conda update ipython
 
-  EPD::
+  Enthought Canopy::
 
     enpkg enstaller
     enpkg ipython
