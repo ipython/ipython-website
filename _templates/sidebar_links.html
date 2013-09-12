@@ -1,12 +1,17 @@
 {%- block sidebarlinks %}
 
 <div class="sidebarblock">
-<h3>{{ _('Book') }}</h3>
+<h3>{{ _('Notebook Viewer') }}</h3>
 
-<a href="http://www.packtpub.com/learning-ipython-for-interactive-computing-and-data-visualization/book"><img src="_static/ipython-book.jpg"
-title="Packt Publishing donates a portion of the proceeds from this book to
-support IPython's development." > </a>
+Share your notebooks
 
+<div class="nbviewer-thm-random">
+  <script src="_static/nbviewer_thm.js"></script>
+  <script type="text/javascript">
+    nbviewer_random_thumbnail();
+  </script>
+	       
+</div> 
 </div>
 
 <div class="sidebarblock">
@@ -37,6 +42,15 @@ support IPython's development." > </a>
 </div>
 
 
+<div class="sidebarblock">
+<h3>{{ _('Book') }}</h3>
+
+<a href="http://www.packtpub.com/learning-ipython-for-interactive-computing-and-data-visualization/book"><img src="_static/ipython-book.jpg"
+title="Packt Publishing donates a portion of the proceeds from this book to
+support IPython's development." > </a>
+
+</div>
+
 
 <div class="sidebarblock">
   <h3>{{ _('For developers') }}</h3>
@@ -54,20 +68,14 @@ support IPython's development." > </a>
 
 <div class="sidebarblock">
 
-<div class="tile" id="donate">
-  <h4>Support IPython</h4>
- 
-<form action="https://www.paypal.com/cgi-bin/webscr" method="post">
-<input type="hidden" name="cmd" value="_s-xclick">
-<input type="hidden" name="hosted_button_id" value="SMCAHLP2ST42G">
-<input type="image" src="https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif"
-    border="0" name="submit" alt="PayPal - The safer, easier way to pay online!"
-    style="display:block; margin-left:auto; margin-right:auto;">
-<img alt="" border="0" src="https://www.paypalobjects.com/en_US/i/scr/pixel.gif" width="1" height="1">
+  <div class="tile" id="donate">
+    <h4>Support IPython</h4>
 
-<a href="{{pathto('donate')}}">Find out more...</a>
+    <center>
+    {% include "donate_button.html" %}
+    </center>
+    <a href="{{pathto('donate')}}">Find out more...</a>
 
-</form>
-</div>
+  </div>
 </div>
 {%- endblock %}
