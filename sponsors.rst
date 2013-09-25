@@ -18,6 +18,18 @@ In December 2012, IPython was awarded a `$1.15 million grant
 core team for the 2013-2014 period.
 
 
+<<<<<<< HEAD
+=======
+.. image:: _static/RS_PoweredBy_OCC_logo-2c.png
+    :target: http://www.rackspace.com
+    :width: 400px
+
+As of Summer 2013, `Rackspace <http://www.rackspace.com>`_ generously provides
+cloud hosting for the project. This is used for development and the hosting of
+IPython related services. We thank Jesse Noller at Rackspace for setting up
+this sponsorship.
+
+>>>>>>> Adding Rackspace sponsorship information.
 Contributing
 ============
 
