@@ -42,7 +42,17 @@ developed and used in research (see
 `the Bibliography section of the User Guide 
 <http://hyperspy.org/hyperspy-doc/current/user_guide/bibliography.html>`_)
 
-.. include:: news.rst
+News
+====
+
+.. feed::
+   :rss: news.rss
+   :title: Hyperspy News
+   :link: http://hyperspy.org/
+
+   news/release_0.6
+   news/sfmu2013
+   news/release_0.5.1
 
 Citing Hyperspy
 ===============
