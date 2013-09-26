@@ -4,12 +4,19 @@
 
 The following institutions support IPython with significant resources:
 
+.. image:: _static/microsoft-logo.png
+   :target: microsoft-donation-2013.html
+
+In the summer of 2013, Microsoft made a `$100,000 donation
+<microsoft-donation-2013.html>`_ to support all aspects of the IPython project.
+	    
 .. image:: _static/sloan-logo.png
    :target: sloan-grant.html
 
 In December 2012, IPython was awarded a `$1.15 million grant
 <sloan-grant.html>`_ from the `Alfred P. Sloan Foundation`_ that will fund the
 core team for the 2013-2014 period.
+
 
 Contributing
 ============
