@@ -2,6 +2,12 @@
 News
 ====
 
+Microsoft donation
+------------------
+
+In August 2013, Microsoft `contributed $100,000
+<microsoft-donation-2013.html>`_ to support the continued development of IPython.
+
 IPython 1.0
 -----------
 

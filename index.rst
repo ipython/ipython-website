@@ -65,6 +65,10 @@ supports Python 2.5, and can be used with Python 2.4.
 Announcements
 =============
 
+- **Microsoft donates $100,000 to IPython:** in August 2013, Microsoft
+  `contributed $100,000 <microsoft-donation-2013.html>`_ to support the
+  continued development of IPython.
+
 - **IPython 1.0** We are very pleased to announce the release of IPython
   1.0, nearly twelve years after the first release of IPython 0.0.1.
   `Install <install.html>`__ it now, or read about the changes in
@@ -145,3 +149,5 @@ please acknowledge this fact by citing the project. You can use this
    videos
    whatsnew082
    whatsnew083
+
+.. include:: links.txt
