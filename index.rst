@@ -13,8 +13,9 @@ providing easy access to analytical tools that exploit the multidimensionality
 of the dataset.
 
 Its modular structure makes it easy to add features to analyze different kinds
-of signals. Currently there are specialized tools to analyze electron
-energy-loss spectroscopy (EELS) and energy dispersive X-rays (EDX) data. 
+of signals. Currently there are specialized tools for electron
+energy-loss spectroscopy (EELS) and energy dispersive X-rays (EDX) data
+analysis. 
 
 Highlights
 ==========
@@ -25,7 +26,7 @@ provides, amongst others:
 
 * Named and scaled axes.
 * Axes indexing by name.
-* Distintion between  *signal* and *navigation* axes. 
+* Non-equivalent axes: Hyperspy distinguishes between  *signal* and *navigation* axes. 
 * Iteration over the navigation axes. 
 * Advanced data indexing capabilities including separate indexing for the
   *signal* and *navigation* axes and data indexing using using axis units.   
@@ -61,7 +62,7 @@ All of the authors of Hyperspy are connected with academic and scientific
 research, so it is important to us to be able to show the impact of our work in
 other projects and fields.
 
-If Hyperspy czaontributes to a project that leads to a scientific publication,
-please acknowledge this fact by citing the project. Please, read on 
-`how to cite Hyperspy here <http://hyperspy.org/hyperspy-doc/current/citing.html>`_
+If Hyperspy contributes to a project that leads to a scientific publication,
+please acknowledge this fact by citing the project. Please, read on `how to
+cite Hyperspy here <http://hyperspy.org/hyperspy-doc/current/citing.html>`_
 
