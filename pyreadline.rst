@@ -37,4 +37,4 @@ The current stable release is 1.7.
 
 Development is hosted at `github
 <https://github.com/pyreadline/pyreadline>`_. The `issue tracker
-<https://bugs.launchpad.net/pyreadline>`_ is hosted there as well.
+<https://github.com/pyreadline/pyreadline/issues>`_ is hosted there as well.
