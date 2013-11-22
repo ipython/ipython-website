@@ -12,11 +12,6 @@ you follow the instructions on this page, which provide a setup based on Python
 2.7.  This includes all the dependencies to run the notebook and optionally the
 basic libraries for scientific computing and data analysis.
 
-.. note::
-
-   We have just made a new release, and it will take some time to appear in
-   Anaconda, Enthought Canopy and Linux distributions.
-
 **Mac or Windows**
 
 1. Download and install `Anaconda <http://continuum.io/downloads.html>`_ or the
