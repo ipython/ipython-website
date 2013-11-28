@@ -26,7 +26,8 @@ provides, amongst others:
 
 * Named and scaled axes.
 * Axes indexing by name.
-* Non-equivalent axes: Hyperspy distinguishes between  *signal* and *navigation* axes. 
+* Non-equivalent axes: Hyperspy distinguishes between  *signal* and *navigation*
+  axes. 
 * Iteration over the navigation axes. 
 * Advanced data indexing capabilities including separate indexing for the
   *signal* and *navigation* axes and data indexing using using axis units.   
@@ -45,6 +46,17 @@ developed and used in research (see
 
 News
 ====
+
+.. WARNING::
+   
+   **Read this before uninstalling HyperSpy in Windows**. Uninstalling HyperSpy
+   in Windows can, in exceptional circumstances, delete unrelated files. This
+   issue `was reported
+   <https://groups.google.com/d/msg/hyperspy-users/xEkQXlY345I/HZ8-0v9kfNkJ>`_
+   on the 27th of November 2013. It only affects the full installers for
+   Windows of HyperSpy version 0.6 when installing in certain customized
+   locations. If you have installed this version of HyperSpy in Windows please
+   :ref:`read this <uninstallation_issue>` before uninstalling HyperSpy.
 
 .. feed::
    :rss: news.rss

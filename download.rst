@@ -20,7 +20,23 @@ Beta Releases
 Windows
 -------
 
-The Windows installer for the current 0.6 beta release, can be downloaded using the following links:
+The Windows installer for the current 0.6 beta release, can be downloaded using
+the following links:
+
+.. WARNING::
+   
+   **Read this before uninstalling HyperSpy in Windows**. Uninstalling HyperSpy
+   in Windows can, in exceptional circumstances, delete unrelated files. This
+   issue `was reported
+   <https://groups.google.com/d/msg/hyperspy-users/xEkQXlY345I/HZ8-0v9kfNkJ>`_
+   on the 27th of November 2013. It only affects the full installers for
+   Windows of HyperSpy version 0.6 when installing in certain customized
+   locations. If you have installed this version of HyperSpy in Windows please
+   :ref:`read this <uninstallation_issue>` before uninstalling HyperSpy.  If
+   you are about to install HyperSpy 0.6, you can avoid this issue by not
+   changing the default installation folder during the installation process. We
+   are currently working in fixing this bug and we will make available a new
+   installer for HyperSpy version 0.6 as soon as possible.
 
 `Hyperspy-0.6 beta for Windows 32-bits 
 <http://www-hrem.msm.cam.ac.uk/hyperspy/Hyperspy0.6_32bit.exe>`_
