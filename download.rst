@@ -20,8 +20,18 @@ Beta Releases
 Windows
 -------
 
-The Windows installer for the current 0.6 beta release, can be downloaded using
-the following links:
+There are two ways to install HyperSpy in Windows:
+
+1. Using the :ref:`"full installer" <full_installers>` that install all the
+   required libraries. This is the reccomended installation method.
+2. Using the :ref:`Python installers <python_installers>`. This method requires
+   installing Python and all the required libraries and is only reccomended
+   for advanced users.
+
+.. _full_installers:
+
+Full installers
+~~~~~~~~~~~~~~~
 
 .. NOTE::
    
@@ -40,19 +50,21 @@ the following links:
 
 .. NOTE::
 
-   If Hyperspy fails to start you may also need to install the 
-   Microsoft Visual C++ 2008 redistributable packages 
-   (`64 bit <http://www.microsoft.com/download/en/details.aspx?id=15336>`_ or 
-   `32 bit <http://www.microsoft.com/download/en/details.aspx?id=29>`_).
 
-.. NOTE::
-   The above links are for the Full version of the installer that contains all 
-   the required libraries (actually it is a customized 
-   `WinPython <http://code.google.com/p/winpython/>`_ distribution). The standard
-   Windows installers (without the dependencies) can be downloaded from
-   `pypi <https://pypi.python.org/pypi/hyperspy>`_.
-     
-    
+   If Hyperspy fails to start after installing using the full installer for
+   Windows you may also need to install the Microsoft Visual C++ 2008
+   redistributable packages (`64 bit
+   <http://www.microsoft.com/download/en/details.aspx?id=15336>`_ or `32 bit
+   <http://www.microsoft.com/download/en/details.aspx?id=29>`_).
+
+.. _python_installers:
+ 
+Python installers
+~~~~~~~~~~~~~~~~~
+
+Installing using the Python installers requires installing Python and other
+libraries. You can download the Python installers from `pypi
+<https://pypi.python.org/pypi/hyperspy>`_.
 
 Ubuntu Linux
 ------------
