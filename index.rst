@@ -47,25 +47,14 @@ developed and used in research (see
 News
 ====
 
-.. WARNING::
-   
-   **Read this before uninstalling HyperSpy in Windows**. Uninstalling HyperSpy
-   in Windows can, in exceptional circumstances, delete unrelated files. This
-   issue `was reported
-   <https://groups.google.com/d/msg/hyperspy-users/xEkQXlY345I/HZ8-0v9kfNkJ>`_
-   on the 27th of November 2013. It only affects the full installers for
-   Windows of HyperSpy version 0.6 when installing in certain customized
-   locations. If you have installed this version of HyperSpy in Windows please
-   :ref:`read this <uninstallation_issue>` before uninstalling HyperSpy.
-
 .. feed::
    :rss: news.rss
    :title: Hyperspy News
    :link: http://hyperspy.org/
 
+   news/uninstall_issue
    news/release_0.6
    news/sfmu2013
-   news/release_0.5.1
 
 Citing Hyperspy
 ===============
