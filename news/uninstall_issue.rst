@@ -8,8 +8,6 @@ Uninstalling HyperSpy in Windows can, in exceptional circumstances, delete
 unrelated files. If you have installed this version of HyperSpy in Windows
 please :ref:`read this <uninstallation_issue>` before uninstalling HyperSpy.
 
-.. cut::
-
 
 
 
