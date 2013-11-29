@@ -4,9 +4,10 @@ Uninstalling HyperSpy 0.6 in Windows
 ====================================
 
 The HyperSpy version 0.6 Windows *full installer*, i.e. the installer that does
-not require the installation of any other library, has a bug that **can cause
-the deletion of files unrelated to HyperSpy** in customized installations. If
-you have installed HyperSpy 0.6 using the *full installers* please read further
+not require the installation of any other library, has `a bug
+<https://github.com/hyperspy/hyperspy/issues/116>`_ that **can cause the
+deletion of files unrelated to HyperSpy** in customized installations. If you
+have installed HyperSpy 0.6 using the *full installers* please read further
 before uninstalling HyperSpy 0.6.
 
 If after reading this document you are still unsure about what to do, please do
@@ -79,14 +80,15 @@ use the uninstaller to uninstall HyperSpy 0.6.
 
 We are currently working in fixing this bug and making a new release. However,
 if after uninstalling HyperSpy 0.6 you want to carry on using it you can safely
-reinstall HyperSpy 0.6 *without changing the default installation folder*.
+reinstall HyperSpy 0.6 *as long as you don't change the default installation
+folder*.
 
 Manually uninstalling HyperSpy 0.6 in Windows
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 .. Note::
 
-   You only need to uninstall HyperSpy following this instructions if your 
+   You only need to uninstall HyperSpy following these instructions if your 
    installation is affected by this bug.
 
 Uninstall the context menu entries
