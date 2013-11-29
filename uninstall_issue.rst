@@ -10,9 +10,18 @@ deletion of files unrelated to HyperSpy** in customized installations. If you
 have installed HyperSpy 0.6 using the *full installers* please read further
 before uninstalling HyperSpy 0.6.
 
-If after reading this document you are still unsure about what to do, please do
-not heasitate to contact us through the `developers mailing list
-<http://groups.google.com/group/hyperspy-devel>`_ before taking any action.
+We are currently working on this issue and we will release a fix as soon as
+possible. Until we release a fix we strongly reccommend not to
+uninstall HyperSpy. Using HyperSpy is safe, only uninstalling it can trigger
+this problem in some rare circumstances.
+
+If you want to uninstall HyperSpy 0.6 before we release a fix for this issue
+you can read the rest of this document that explains how to determine if your
+installation is affected by this issue and how to manually uninstall HyperSpy
+0.6 if that is the case. If after reading this document you are
+still unsure about what to do, please do not heasitate to contact us through
+the `developers mailing list <http://groups.google.com/group/hyperspy-devel>`_
+before taking any action.
 
 How do I know if my installation is affected?
 ---------------------------------------------
@@ -73,15 +82,9 @@ the installation folder, not only the HyperSpy related ones.
 Uninstalling HyperSpy 0.6 if your installation is affected
 ----------------------------------------------------------
 
-If you are affected by this bug you need to uninstall HyperSpy manually. It is
-*strongly reccomended* uninstalling HyperSpy manually even if you plan to carry
-on using HyperSpy because, in the future, you may forget about this issue and
-use the uninstaller to uninstall HyperSpy 0.6.
-
-We are currently working in fixing this bug and making a new release. However,
-if after uninstalling HyperSpy 0.6 you want to carry on using it you can safely
-reinstall HyperSpy 0.6 *as long as you don't change the default installation
-folder*.
+If you are affected by this bug you need to uninstall HyperSpy manually until
+we release a fix (we are currently working on it). However, we reccomend that
+you wait until the fix is released.
 
 Manually uninstalling HyperSpy 0.6 in Windows
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
