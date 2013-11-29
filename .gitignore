@@ -5,6 +5,7 @@ sphinxext
 *.pdf
 *.ppt
 *.odp
+*.swp
 
 *~
 .build/*
