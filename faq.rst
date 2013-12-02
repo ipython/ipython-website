@@ -51,4 +51,4 @@ See `the installation documentation <http://ipython.org/ipython-doc/stable/insta
 
 The standard Python installation mechanisms (``setup.py``, ``pip`` or ``easy_install``) all work for installing IPython to use in a terminal. Windows users are best off installing `distribute <http://pypi.python.org/pypi/distribute>`_, then running the .exe installer, to create start menu shortcuts.
 
-To use the notebook or the Qt console, it's easiest to install through a package manager, or download a Python distribution such as `Anaconda <https://store.continuum.io/cshop/anaconda>`_ or `EPD <http://www.enthought.com/products/epd.php>`_. Otherwise, you will need to install pyzmq, along with tornado for the notebook, and PyQt4/PySide and pygments for the Qt console.
+To use the notebook or the Qt console, it's easiest to install through a package manager, or download a Python distribution such as `Anaconda <https://store.continuum.io/cshop/anaconda>`_ or `Enthought Canopy <https://www.enthought.com/downloads/>`_. Otherwise, you will need to install pyzmq, along with tornado for the notebook, and PyQt4/PySide and pygments for the Qt console.
