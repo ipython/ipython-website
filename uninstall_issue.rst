@@ -73,11 +73,11 @@ the HyperSpy installation folder as in the following image.
 Normally this folder contains only HyperSpy related files. However, if you have
 customized the installation folder during the installation process this folder
 can contain other files that you do not want to delete. In the worst scenarios
-this folder can be your "My Documents", "Program Files" or even your drive
-"C:/" folder (!). If that is your case *do not use the uninstaller* to
-uninstall HyperSpy and follow the following instructions instead to uninstall
-it. Failing to do this will cause the uninstaller to delete *all the files* in
-the installation folder, not only the HyperSpy related ones.
+this folder can be your "My Documents" or "Program Files". If that is your case
+*do not use the uninstaller* to uninstall HyperSpy and follow the following
+instructions instead to uninstall it. Failing to do this will cause the
+uninstaller to delete *all the files* in the installation folder, not only the
+HyperSpy related ones.
 
 Uninstalling HyperSpy 0.6 if your installation is affected
 ----------------------------------------------------------
