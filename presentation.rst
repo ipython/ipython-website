@@ -78,7 +78,7 @@ We have given a number of talks and presentations about IPython:
 ---------
 
 * A `talk <http://ipython.scipy.org/talks/0809_23andme_ipython.pdf>`__ at
-  `23andMe <http://23andme.com>`__ where I spoke about ipython in general, with
+  `23andMe <http://23andme.com>`__ where Fernando spoke about ipython in general, with
   some details about its facilities for distributed computing.
 
 ---------
@@ -135,18 +135,18 @@ We have given a number of talks and presentations about IPython:
 ---------
 
 * Two talks at SciPy'05: one about `parallel computing
-  <http://ipython.scipy.org/moin/About/Presentations?action=AttachFile&do=get&target=ipython_scipy05_parallel.pdf>`__
+  <http://ipython.scipy.org/misc/scipy05_parallel.pdf>`__
   and one about `interactive notebooks
-  <http://ipython.scipy.org/moin/About/Presentations?action=AttachFile&do=get&target=ipython_scipy05_notebook.pdf>`__.
+  <http://ipython.scipy.org/misc/ipython-notebooks-scipy05.pdf>`__.
 
 -----------
   2004 
 -----------
 
-* A `talk <http://ipython.scipy.org/moin/About/Presentations?action=AttachFile&do=get&target=ipython_scipy04.pdf>`__ at SciPy'04.
+* A `talk <http://ipython.scipy.org/misc/ipython_scipy04.pdf>`__ at SciPy'04.
 
 -------
  2003 
 -------
 
-* An `overview of IPython <http://ipython.scipy.org/moin/About/Presentations?action=AttachFile&do=get&target=ipython_scipy03.pdf>`__ at SciPy'03.
+* An `overview of IPython <http://ipython.scipy.org/misc/ipython_scipy03.pdf>`__ at SciPy'03.
