@@ -78,7 +78,7 @@ We have given a number of talks and presentations about IPython:
 ---------
 
 * A `talk <http://ipython.scipy.org/talks/0809_23andme_ipython.pdf>`__ at
-  `23andMe <http://23andme.com>`__ where I spoke about ipython in general, with
+  `23andMe <http://23andme.com>`__ where Fernando spoke about ipython in general, with
   some details about its facilities for distributed computing.
 
 ---------
