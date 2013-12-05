@@ -26,8 +26,11 @@ core team for the 2013-2014 period.
 
 As of Summer 2013, `Rackspace <http://www.rackspace.com>`_ generously provides
 cloud hosting for the project. This is used for development and the hosting of
-IPython related services. We thank Jesse Noller at Rackspace for setting up
-this sponsorship.
+IPython related services, such as the `IPython Notebook Viewer
+<http://nbviewer.ipython.org>`_. We thank Jesse Noller and Kyle Kelley at
+Rackspace for setting up this sponsorship and helping with deployment
+respectively.
+
 
 >>>>>>> Adding Rackspace sponsorship information.
 Contributing
