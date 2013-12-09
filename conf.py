@@ -163,6 +163,7 @@ html_sidebars = {
 # template names.
 html_additional_pages = {'screenshots/index': 'screenshots.html',
                          'download': 'download.html',
+                         'gallery': 'gallery.html',
 }
 
 # If false, no module index is generated.
