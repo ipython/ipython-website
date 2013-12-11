@@ -65,6 +65,16 @@ supports Python 2.5, and can be used with Python 2.4.
 Announcements
 =============
 
+- **O'Reilly Book**: `Mining the Social Web <http://MiningTheSocialWeb.com>`_
+  is an open source data science project and `book <http://amzn.to/GPd59m>`_
+  that features nearly 130 examples with IPython Notebook and a
+  Vagrant-powered virtual machine environment. You can preview all of the
+  example notebooks from its GitHub `repository
+  <http://bit.ly/MiningTheSocialWeb2E>`_ on IPython's Notebook Viewer `here
+  <http://nbviewer.ipython.org/github/ptwobrussell/Mining-the-Social-Web-2nd-E
+  dition/tree/master/ipynb/>`_.
+
+
 - **Microsoft donates $100,000 to IPython:** in August 2013, Microsoft
   `contributed $100,000 <microsoft-donation-2013.html>`_ to support the
   continued development of IPython.
