@@ -29,8 +29,7 @@ free edition of `Enthought Canopy
 
   Enthought Canopy::
 
-    sudo enpkg enstaller
-    sudo enpkg ipython
+    enpkg ipython
 
 * On Windows, at the Command Prompt (``cmd.exe`` application):
 
@@ -41,7 +40,6 @@ free edition of `Enthought Canopy
 
   Enthought Canopy::
 
-    enpkg enstaller
     enpkg ipython
 
 **Linux**
