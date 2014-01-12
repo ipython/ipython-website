@@ -20,7 +20,7 @@ clients.  We ship the official IPython kernel, but kernels for other languages
 are being currently developed, with prototypes in Ruby and JavaScript already
 existing.  Additionally, the IPython kernel supports multi-language
 integration, letting you for example mix Python code with Cython_, R_, Octave_,
-and scripting in `Bash, Perl or Ruby`_.
+Julia_, and scripting in `Bash, Perl or Ruby`_.
 
 .. _notebook: notebook.html
 
@@ -41,6 +41,8 @@ and scripting in `Bash, Perl or Ruby`_.
 .. _Octave: http://nbviewer.ipython.org/url/github.com/ipython/ipython/raw/master/examples/notebooks/Octave%20Magic.ipynb
 
 .. _Bash, Perl or Ruby: http://nbviewer.ipython.org/url/github.com/ipython/ipython/raw/master/examples/notebooks/Script%20Magics.ipynb
+
+.. _Julia: https://github.com/JuliaLang/IJulia.jl
 
 To get started with the IPython Notebook, see our `official example
 collection`_.  Our `notebook gallery`__ is an excellent way to see the many
