@@ -8,18 +8,20 @@ academic reference for IPython is `this paper
 <http://fperez.org/papers/ipython07_pe-gr_cise.pdf>`_, for which here are both
 a BibTex and a plaintext reference you can use::
 
-  @Article{PER-GRA:2007,
-    Author         = {P\'erez, Fernando and Granger, Brian E.},
-    Title          = {{IP}ython: a {S}ystem for {I}nteractive {S}cientific
-                   {C}omputing},
-    Journal        = {{C}omput. {S}ci. {E}ng.},
-    Volume         = {9},
-    Number         = {3},
-    Pages          = {21-29},
-    month          = may,
-    year           = 2007,
-    url            = "http://ipython.org",
-  }
+    @Article{PER-GRA:2007,
+      Author    = {P\'erez, Fernando and Granger, Brian E.},
+      Title     = {{IP}ython: a System for Interactive Scientific Computing},
+      Journal   = {Computing in Science and Engineering},
+      Volume    = {9},
+      Number    = {3},
+      Pages     = {21--29},
+      month     = may,
+      year      = 2007,
+      url       = "http://ipython.org",
+      ISSN      = "1521-9615",
+      doi       = {10.1109/MCSE.2007.53},
+      publisher = {IEEE Computer Society},
+    }
 
 or in plaintext:
 
