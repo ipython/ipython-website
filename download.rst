@@ -23,9 +23,9 @@ Windows
 There are two ways to install HyperSpy in Windows:
 
 1. Using the :ref:`"full installer" <full_installers>` that install all the
-   required libraries. This is the reccomended installation method.
+   required libraries. This is the recommended installation method.
 2. Using the :ref:`Python installers <python_installers>`. This method requires
-   installing Python and all the required libraries and is only reccomended
+   installing Python and all the required libraries and is only recommended
    for advanced users.
 
 .. _full_installers:
