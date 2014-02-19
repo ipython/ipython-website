@@ -35,7 +35,7 @@ in your git checkout directory. This way, the development version will be availa
  Bug Reports and Feature Requests 
 ==================================
 
-We want Hyperspy to be as bug-free as possible, so we encourage our users to  `report <http://github.com/hyperspy/hyperspy/issues>`_ all bugs they find, as well as important feature requests (those should be marked as "Whishlist" items).  If you don't have a Github account yet, you can `create one for free <https://github.com/signup/free>`_.
+We want Hyperspy to be as bug-free as possible, so we encourage our users to  `report <http://github.com/hyperspy/hyperspy/issues>`_ all bugs they find, as well as important feature requests (those should be marked as "Wishlist" items).  If you don't have a Github account yet, you can `create one for free <https://github.com/signup/free>`_.
 
 
 ========================
