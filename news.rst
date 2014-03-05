@@ -2,6 +2,13 @@
 News
 ====
 
+User survey 2013
+----------------
+
+In 2013 we ran a second IPython user survey, gathering responses from 455
+IPython users around the world. You can see the `summarised results <usersurvey2013.html>`_
+from this, and compare it with the `2011 survey <usersurvey2011.html>`_.
+
 Microsoft donation
 ------------------
 
