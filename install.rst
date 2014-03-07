@@ -18,9 +18,7 @@ basic libraries for scientific computing and data analysis.
 free edition of `Enthought Canopy
 <https://www.enthought.com/products/epd_free.php>`_.
 
-2. Update IPython to the current version:
-
-* On a Mac, using the Terminal application:
+2. Update IPython to the current version, using the Terminal/Command Prompt:
 
   Anaconda::
 
@@ -29,19 +27,6 @@ free edition of `Enthought Canopy
 
   Enthought Canopy::
 
-    sudo enpkg enstaller
-    sudo enpkg ipython
-
-* On Windows, at the Command Prompt (``cmd.exe`` application):
-
-  Anaconda::
-
-    conda update conda
-    conda update ipython
-
-  Enthought Canopy::
-
-    enpkg enstaller
     enpkg ipython
 
 **Linux**
