@@ -197,7 +197,9 @@ A number of themes appeared:
   Features like refactoring tools and static analysis should be possible to write
   as extensions.
 - Sphinx integration: On the radar. The yt project has done some work on this.
-- Slideshows: [Waiting for Damian]
+- Slideshows: Exporting to static slides with nbconvert has been improved since
+  1.0, and there's ongoing development of an extension to present live,
+  executable notebooks as slides.
 - Integration with version control: No current plans.
 - Debugger: No current plans.
 
