@@ -17,8 +17,8 @@ language-agnostic way to facilitate interactive computing in any language.  An
 interactive kernel speaks to clients such as the terminal or web notebook via a
 well-specified protocol_, and all features of a kernel are available to all
 clients.  We ship the official IPython kernel, but kernels for other languages
-are being currently developed, with prototypes in Ruby and JavaScript already
-existing.  Additionally, the IPython kernel supports multi-language
+such as `Julia`_ and `Haskell`_ are actively developed and used.
+Additionally, the IPython kernel supports multi-language
 integration, letting you for example mix Python code with Cython_, R_, Octave_,
 and scripting in `Bash, Perl or Ruby`_.
 
@@ -33,6 +33,10 @@ and scripting in `Bash, Perl or Ruby`_.
 .. _protocol: http://ipython.org/ipython-doc/stable/development/messaging.html
 
 .. _parallel computing: http://ipython.org/ipython-doc/stable/parallel/parallel_intro.html
+
+.. _Julia: https://github.com/JuliaLang/IJulia.jl
+
+.. _Haskell: https://github.com/gibiansky/IHaskell
 
 .. _cython: http://nbviewer.ipython.org/url/github.com/ipython/ipython/raw/master/examples/notebooks/Cython%20Magics.ipynb
 
