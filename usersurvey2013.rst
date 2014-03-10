@@ -132,15 +132,15 @@ Use cases
 ---------
 
 People's descriptions of the projects where they use IPython were many and varied.
-A few specific highlights include modelling quantum computing systems (row 93),
+A few specific highlights include modelling quantum computing systems (row 93 in the results spreadsheet),
 computer vision (162), phylogenetic relationships of languages (201), e-Democracy
 (261), pressure measurements under animals' feet (423), and processing data from
 particle colliders (195) and gamma ray telescopes (454).
 
 Grouping the responses, people are using IPython in at least these areas:
 
-- Finance/econo
-- Bioinformatics - gene, genome, microarray, DNA, sequence
+- Finance/economics
+- Bioinformatics
 - Neuroscience
 - Chemistry
 - Astronomy
