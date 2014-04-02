@@ -141,6 +141,7 @@ please acknowledge this fact by citing the project. You can use this
    donate
    faq
    install
+   microsoft-donation-2013
    news
    notebook
    presentation
@@ -151,6 +152,7 @@ please acknowledge this fact by citing the project. You can use this
    sloan-grant
    sponsors
    usersurvey2011
+   usersurvey2013
    videos
    whatsnew082
    whatsnew083
