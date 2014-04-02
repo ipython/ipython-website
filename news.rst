@@ -2,6 +2,15 @@
 News
 ====
 
+IPython 2.0
+-----------
+
+IPython 2.0 was released on April 1, 2014. The major new features include
+interactive HTML widgets, and directory navigation in the notebook dashboard.
+`Install <install.html>`__ it now, or see the
+`release notes <http://ipython.org/ipython-doc/2/whatsnew/version2.0.html>`__
+for more details.
+
 User survey 2013
 ----------------
 

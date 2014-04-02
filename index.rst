@@ -69,6 +69,12 @@ supports Python 2.5, and can be used with Python 2.4.
 Announcements
 =============
 
+- **IPython 2.0**: We are proud to announce the availability of IPython 2.0,
+  a major new release including HTML widgets and multi-directory navigation.
+  `Install <install.html>`__ it now, or read about the changes in
+  the `release notes
+  <http://ipython.org/ipython-doc/2/whatsnew/version2.0.html>`__.
+
 - **O'Reilly Book**: `Mining the Social Web <http://MiningTheSocialWeb.com>`_
   is an open source data science project and `book <http://amzn.to/GPd59m>`_
   that features nearly 130 examples with IPython Notebook and a
@@ -79,15 +85,9 @@ Announcements
   dition/tree/master/ipynb/>`_.
 
 
-- **Microsoft donates $100,000 to IPython:** in August 2013, Microsoft
+- **Microsoft donates $100,000 to IPython**: in August 2013, Microsoft
   `contributed $100,000 <microsoft-donation-2013.html>`_ to support the
   continued development of IPython.
-
-- **IPython 1.0** We are very pleased to announce the release of IPython
-  1.0, nearly twelve years after the first release of IPython 0.0.1.
-  `Install <install.html>`__ it now, or read about the changes in
-  the `release notes
-  <http://ipython.org/ipython-doc/rel-1.0.0/whatsnew/version1.0.html>`__.
   
 - **Book**: Cyrille Rossant has published the first IPython-focused book:
   `Learning IPython for Interactive Computing and Data Visualization
@@ -103,14 +103,6 @@ Announcements
   `More
   details <http://vcresearch.berkeley.edu/news/wresting-new-tricks-python-fernando-perez-wins-2012-award-advancement-free-software>`_.
 
-- **IPython tutorial at PyCon 2013**: Fernando Perez, Brian Granger and Min
-  Ragan-Kelley presented `in-depth tutorial about IPython
-  <http://pyvideo.org/video/1652/ipython-in-depth-high-productivity-interactive-a-0>`_.
-  It covers IPython's architecture and hands-on examples on customization,
-  embedding, effective uses of the various applications, the architecture of
-  the web notebook and how to use IPython for parallel and distributed
-  computing.
-  
 - **Roadmap to 1.0 and beyond**: IPython 1.0 is coming mid-July 2013. See the
   `grant <sloan-grant.html>`_ which is funding the bulk of the work, as well as
   our roadmap_ for achieving the grant's objectives.  `Read on for more details
@@ -124,7 +116,6 @@ Announcements
   year in California.  `See more details. <sloan-grant.html>`_
 
 .. _roadmap: https://github.com/ipython/ipython/wiki/Roadmap:-IPython
-.. _Alfred P. Sloan Foundation: http://www.sloan.org/
 
 `More news... <news.html>`_
 
@@ -150,6 +141,7 @@ please acknowledge this fact by citing the project. You can use this
    donate
    faq
    install
+   microsoft-donation-2013
    news
    notebook
    presentation
@@ -160,6 +152,7 @@ please acknowledge this fact by citing the project. You can use this
    sloan-grant
    sponsors
    usersurvey2011
+   usersurvey2013
    videos
    whatsnew082
    whatsnew083
