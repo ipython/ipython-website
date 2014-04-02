@@ -116,7 +116,6 @@ Announcements
   year in California.  `See more details. <sloan-grant.html>`_
 
 .. _roadmap: https://github.com/ipython/ipython/wiki/Roadmap:-IPython
-.. _Alfred P. Sloan Foundation: http://www.sloan.org/
 
 `More news... <news.html>`_
 
