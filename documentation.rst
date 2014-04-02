@@ -5,8 +5,8 @@ Documentation
 IPython manual
 --------------
 
-* `Current Stable Version (1.2.1) <http://ipython.org/ipython-doc/stable/index.html>`_
-* `Current Development Version (2.0) <http://ipython.org/ipython-doc/dev/index.html>`_
+* `Current Stable Version (2.x) <http://ipython.org/ipython-doc/stable/index.html>`_
+* `Current Development Version <http://ipython.org/ipython-doc/dev/index.html>`_
 
 `This introduction to some key features
 <http://ipython.org/ipython-doc/stable/interactive/tutorial.html>`_ is a good
@@ -104,6 +104,7 @@ please `provide a citation to IPython <citing.html>`_.
 Docs for all releases
 ---------------------
 
+* `2.x <http://ipython.org/ipython-doc/2/index.html>`__
 * `1.x <http://ipython.org/ipython-doc/1/index.html>`__
 * `0.13.2 <http://ipython.org/ipython-doc/rel-0.13.2/index.html>`__
 * `0.13.1 <http://ipython.org/ipython-doc/rel-0.13.1/index.html>`__
