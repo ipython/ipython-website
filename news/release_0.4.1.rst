@@ -1,10 +1,10 @@
-Hyperspy 0.4.1  has been released!
+HyperSpy 0.4.1  has been released!
 ===============================
 
 .. feed-entry::
    :date: 2012-04-16
 
-We are proud to announce a new release of Hyperspy.
+We are proud to announce a new release of HyperSpy.
 
 .. cut::
 

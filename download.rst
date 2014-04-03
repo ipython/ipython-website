@@ -9,7 +9,7 @@ Download
 Stable Releases
 ===============
 
-Currently there are not stable releases of Hyperspy. 
+Currently there are not stable releases of HyperSpy. 
 
 .. _beta-releases:
 
@@ -42,16 +42,16 @@ Full installers
    folder during the installation process. If you have already installed
    HyperSpy 0.6 for Windows :ref:`read this <uninstallation_issue>`.
 
-`Hyperspy-0.6 beta for Windows 32-bits
-<http://www-hrem.msm.cam.ac.uk/hyperspy/Hyperspy0.6_32bit.exe>`_
+`HyperSpy-0.6 beta for Windows 32-bits
+<http://www-hrem.msm.cam.ac.uk/hyperspy/HyperSpy0.6_32bit.exe>`_
 
-`Hyperspy-0.6 beta for Windows 64-bits
-<http://www-hrem.msm.cam.ac.uk/hyperspy/Hyperspy0.6_64bit.exe>`_
+`HyperSpy-0.6 beta for Windows 64-bits
+<http://www-hrem.msm.cam.ac.uk/hyperspy/HyperSpy0.6_64bit.exe>`_
 
 .. NOTE::
 
 
-   If Hyperspy fails to start after installing using the full installer for
+   If HyperSpy fails to start after installing using the full installer for
    Windows you may also need to install the Microsoft Visual C++ 2008
    redistributable packages (`64 bit
    <http://www.microsoft.com/download/en/details.aspx?id=15336>`_ or `32 bit
@@ -79,7 +79,7 @@ Mac OS
 
 Follow `this link 
 <http://hyperspy.org/hyperspy-doc/current/user_guide/install.html#quick-instructions-to-install-hyperspy-in-macos>`_
-for quick instructions on how to install Hyperspy in MacOS.
+for quick instructions on how to install HyperSpy in MacOS.
 
 
 Other related software
@@ -92,7 +92,7 @@ ImportRPL Digital Micrograph plugin
 
 Lastest version release date: 24/05/2012. Minor bugs were solved and new features added.
 
-This Digital Micrograph plugin is designed to import Ripple files into Digital Micrograph. It is used to easy data transit between DigitalMicrograph and Hyperspy without losing the calibration using the extra keywords that Hyperspy adds to the standard format.
+This Digital Micrograph plugin is designed to import Ripple files into Digital Micrograph. It is used to easy data transit between DigitalMicrograph and HyperSpy without losing the calibration using the extra keywords that HyperSpy adds to the standard format.
 
 When executed it will ask for 2 files:
 

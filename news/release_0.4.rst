@@ -1,10 +1,10 @@
-Hyperspy 0.4  has been released!
+HyperSpy 0.4  has been released!
 ===============================
 
 .. feed-entry::
    :date: 2012-02-29
 
-We are proud to announce a new release of Hyperspy.
+We are proud to announce a new release of HyperSpy.
 
 .. cut::
 

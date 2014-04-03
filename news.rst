@@ -3,7 +3,7 @@ News
 
 .. feed::
    :rss: news.rss
-   :title: Hyperspy News
+   :title: HyperSpy News
    :link: http://hyperspy.org/
 
    news/release_0.6

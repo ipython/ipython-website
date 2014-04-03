@@ -1,6 +1,6 @@
 # -*- coding: utf-8 -*-
 #
-# Hyperspy documentation build configuration file, created by
+# HyperSpy documentation build configuration file, created by
 # sphinx-quickstart on Sat Dec 18 17:03 2010.
 #
 # This file is execfile()d with the current directory set to its containing dir.
@@ -48,8 +48,8 @@ source_suffix = '.rst'
 master_doc = 'index'
 
 # General information about the project.
-project = u'Hyperspy'
-copyright = u'The Hyperspy development team'
+project = u'HyperSpy'
+copyright = u'The HyperSpy development team'
 
 # The version info for the project you're documenting, acts as replacement for
 # |version| and |release|, also used in various other places throughout the
@@ -125,10 +125,10 @@ html_theme_path = ['themes']
 
 # The name for this set of Sphinx documents.  If None, it defaults to
 # "<project> v<release> documentation".ke
-html_title = u"Hyperspy"
+html_title = u"HyperSpy"
 
 # A shorter title for the navigation bar.  Default is the same as html_title.
-html_short_title = "Hyperspy"
+html_short_title = "HyperSpy"
 
 # The name of an image file (relative to this directory) to place at the top
 # of the sidebar.

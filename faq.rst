@@ -21,12 +21,12 @@ current features and goals of the project. You do not agree? Well, then we think
 that "Hyperspectral Python" describes much better the 
 current features and goals of the project.
 
-Hyperspy is very cool, but I want to export the data to analyse it with X that is so much cooler, is it possible?
+HyperSpy is very cool, but I want to export the data to analyse it with X that is so much cooler, is it possible?
 -----------------------------------------------------------------------------------------------------------------
 
-**Answer:** Sure! By default Hyperspy saves the data in HDF5, which is an open standard supported by most data analysis software either by default or via plugins. If your favourite data analysis package does not support HDF5 then you can check if it does support any of the other formats to which Hyperspy can write, see :ref:`supported-formats`. If X is Gatan's Digital Micrograph, which does not support HDF5, you can save to the :ref:`ripple-format` and use the :ref:`import-rpl` to read the RPL file.
+**Answer:** Sure! By default HyperSpy saves the data in HDF5, which is an open standard supported by most data analysis software either by default or via plugins. If your favourite data analysis package does not support HDF5 then you can check if it does support any of the other formats to which HyperSpy can write, see :ref:`supported-formats`. If X is Gatan's Digital Micrograph, which does not support HDF5, you can save to the :ref:`ripple-format` and use the :ref:`import-rpl` to read the RPL file.
 
-Digital Micrograph raises an error when attempting to use the SI tool in a spectrum image created by Hyperspy and imported using the ImportRPL plugin
+Digital Micrograph raises an error when attempting to use the SI tool in a spectrum image created by HyperSpy and imported using the ImportRPL plugin
 -----------------------------------------------------------------------------------------------------------------------------------------------------
 
 **Answer:** You are using an old version of ImportRPL. Please download the latest version of the :ref:`import-rpl`
