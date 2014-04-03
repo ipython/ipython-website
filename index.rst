@@ -63,8 +63,8 @@ our `extensive documentation <documentation.html>`_.  IPython is open source
 list if it uses IPython as a library, and please don't forget to :ref:`cite the
 project <citing>`.
 
-IPython supports Python 2.6 to 2.7 and 3.2 or newer. Our older 0.10 series
-supports Python 2.5, and can be used with Python 2.4.
+IPython supports Python 2.7 and 3.3 or newer. Our older 1.x series supports
+Python 2.6 and 3.2.
 
 Announcements
 =============
