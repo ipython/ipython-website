@@ -10,12 +10,11 @@ deletion of files unrelated to HyperSpy** in customized installations. If you
 have installed HyperSpy 0.6 using the *full installers* please read further
 before uninstalling HyperSpy 0.6.
 
-We are currently working on this issue and we will release a fix as soon as
-possible. Until we release a fix we strongly reccommend not to
-uninstall HyperSpy. Using HyperSpy is safe, only uninstalling it can trigger
-this problem in some rare circumstances.
+The safest way to uninstall HyperSpy Bundle 0.6 is by using the Hyperspy Bundle
+0.7 installer (or newer) that automatically detects and uninstall previous
+installations.
 
-If you want to uninstall HyperSpy 0.6 before we release a fix for this issue
+If you prefer to uninstall HyperSpy Bundle 0.6 manually
 you can read the rest of this document that explains how to determine if your
 installation is affected by this issue and how to manually uninstall HyperSpy
 0.6 if that is the case. If after reading this document you are
@@ -82,9 +81,8 @@ HyperSpy related ones.
 Uninstalling HyperSpy 0.6 if your installation is affected
 ----------------------------------------------------------
 
-If you are affected by this bug you need to uninstall HyperSpy manually until
-we release a fix (we are currently working on it). However, we reccomend that
-you wait until the fix is released.
+If you are affected by this bug you need to uninstall HyperSpy manually or use
+the Hyperspy Bundle 0.7 installer (or newer) to uninstall it (reccommended). 
 
 Manually uninstalling HyperSpy 0.6 in Windows
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~

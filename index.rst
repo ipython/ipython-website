@@ -52,6 +52,7 @@ News
    :title: HyperSpy News
    :link: http://hyperspy.org/
 
+   news/release_0.7
    news/uninstall_issue
    news/release_0.6
    news/sfmu2013
