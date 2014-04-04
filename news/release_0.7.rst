@@ -1,4 +1,4 @@
-Hyperspy 0.6  has been released!
+Hyperspy 0.7  has been released!
 ===============================
 
 .. feed-entry::
