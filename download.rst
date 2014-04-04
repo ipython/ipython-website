@@ -62,8 +62,8 @@ Ubuntu Linux
 ------------
 
 An Ubuntu package `can be downloaded here 
-<http://www-hrem.msm.cam.ac.uk/hyperspy/python-hyperspy_0.6-1_all.deb>`_. 
-It is compatible with Ubuntu Raring Tale (13.04) or newer.
+<http://www-hrem.msm.cam.ac.uk/hyperspy/ipython-hyperspy_0.7-1_all.deb>`_. 
+It is compatible with Ubuntu Saucy Salamander (13.10) and newer.
 
 
 Mac OS
