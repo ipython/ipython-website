@@ -2,7 +2,7 @@ Hyperspy 0.7  has been released!
 ===============================
 
 .. feed-entry::
-   :date: 2013-06-04
+   :date: 2014-04-01
 
 We are proud to announce a new release of Hyperspy.
 
