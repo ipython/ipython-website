@@ -33,20 +33,12 @@ There are two ways to install HyperSpy in Windows:
 Full installers
 ~~~~~~~~~~~~~~~
 
-.. NOTE::
-   
-   **Read this before installing or uninstalling HyperSpy 0.6 in Windows**.
-   There is a `bug <https://github.com/hyperspy/hyperspy/issues/116>`_ in the
-   installers of HyperSpy 0.6 for Windows. If you are about to install HyperSpy
-   0.6, you can avoid this issue by not changing the default installation
-   folder during the installation process. If you have already installed
-   HyperSpy 0.6 for Windows :ref:`read this <uninstallation_issue>`.
 
-`HyperSpy-0.6 beta for Windows 32-bits
-<http://www-hrem.msm.cam.ac.uk/hyperspy/HyperSpy0.6_32bit.exe>`_
+`HyperSpy-0.7 beta for Windows 32-bits
+<http://www-hrem.msm.cam.ac.uk/hyperspy/HyperSpy-0.7-Bundle-Windows-32bit.exe>`_
 
-`HyperSpy-0.6 beta for Windows 64-bits
-<http://www-hrem.msm.cam.ac.uk/hyperspy/HyperSpy0.6_64bit.exe>`_
+`HyperSpy-0.7 beta for Windows 64-bits
+<http://www-hrem.msm.cam.ac.uk/hyperspy/HyperSpy-0.7-Bundle-Windows-64bit.exe>`_
 
 .. NOTE::
 
