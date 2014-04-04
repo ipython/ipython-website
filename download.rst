@@ -35,10 +35,10 @@ Full installers
 
 
 `HyperSpy-0.7 beta for Windows 32-bits
-<http://www-hrem.msm.cam.ac.uk/hyperspy/HyperSpy-0.7-Bundle-Windows-32bit.exe>`_
+<http://cook.msm.cam.ac.uk/~hyperspy/HyperSpy-0.7-Bundle-Windows-32bit.exe>`_
 
 `HyperSpy-0.7 beta for Windows 64-bits
-<http://www-hrem.msm.cam.ac.uk/hyperspy/HyperSpy-0.7-Bundle-Windows-64bit.exe>`_
+<http://cook.msm.cam.ac.uk/~hyperspy/HyperSpy-0.7-Bundle-Windows-64bit.exe>`_
 
 .. NOTE::
 
@@ -62,7 +62,7 @@ Ubuntu Linux
 ------------
 
 An Ubuntu package `can be downloaded here 
-<http://www-hrem.msm.cam.ac.uk/hyperspy/ipython-hyperspy_0.7-1_all.deb>`_. 
+<http://cook.msm.cam.ac.uk/~hyperspy/python-hyperspy_0.7-1_all.deb>`_. 
 It is compatible with Ubuntu Saucy Salamander (13.10) and newer.
 
 
