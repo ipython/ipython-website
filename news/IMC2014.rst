@@ -1,0 +1,16 @@
+HyperSpy training at the IMC2014
+================================
+
+.. feed-entry::
+   :date: 2014-04-1
+   
+HyperSpy training at the IMC2014 on the 7th of September 2014 in Prague, Czech
+Republic.
+
+
+.. cut::
+Registration and more information 
+`here <http://www.imc2014.com/index.php?page=pena>`_.
+
+   
+
