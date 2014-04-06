@@ -1,5 +1,5 @@
 ================================================
-HyperSpy: Multidimensional data analysis toolbox
+HyperSpy: multidimensional data analysis toolbox
 ================================================
 
 HyperSpy is an open source Python library which provides tools to facilitate
