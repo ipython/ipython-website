@@ -1,6 +1,6 @@
-=============================================
-HyperSpy: Hyperspectral data analysis toolbox
-=============================================
+================================================
+HyperSpy: Multidimensional data analysis toolbox
+================================================
 
 HyperSpy is an open source Python library which provides tools to facilitate
 the interactive data analysis of multidimensional datasets that can be
