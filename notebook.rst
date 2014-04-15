@@ -38,7 +38,7 @@ Here is a short demo of the notebook's basic features by the Pybonacci_ team:
 
 .. _Pybonacci: http://pybonacci.wordpress.com
 
-.. _example collection: https://github.com/ipython/ipython/tree/master/examples/notebooks#a-collection-of-notebooks-for-using-ipython-effectively
+.. _example collection: http://nbviewer.ipython.org/github/ipython/ipython/blob/2.x/examples/Notebook/Index.ipynb
 
 .. _documentation: http://ipython.org/ipython-doc/stable/interactive/htmlnotebook.html
 
