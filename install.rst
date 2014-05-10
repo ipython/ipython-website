@@ -7,7 +7,16 @@ contains `detailed instructions
 <http://ipython.org/ipython-doc/stable/install/install.html>`_ for manual
 installs from source, targeted at advanced users and developers.
 
-For new users who want to get up and running with minimal effort, we suggest
+If you already have Python all set up, you can get IPython with :command:`pip`::
+
+    pip install ipython
+
+Or if you want to also get the dependencies for the IPython notebook::
+
+    pip install ipython[notebook]
+
+
+For new users who want to get a full scientific Python environment up and running, we suggest
 you follow the instructions on this page, which provide a setup based on Python
 2.7.  This includes all the dependencies to run the notebook and optionally the
 basic libraries for scientific computing and data analysis.
