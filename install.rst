@@ -43,30 +43,23 @@ free edition of `Enthought Canopy
 On Linux, most distributions have everything you need in their package
 managers.
 
-1. Install IPython and its dependencies:
-
 * On Ubuntu or other Debian-based distributions, type at the shell::
 
     sudo apt-get install ipython-notebook
+    
+    # Optional: Common Python libraries for scientific computing
+    sudo apt-get install python-matplotlib python-scipy python-pandas \
+                         python-sympy python-nose
 
 * On Fedora 18 and newer related distributions, use::
 
     sudo yum install python-ipython-notebook
-
-2. Optionally install additional tools for scientific computing:
-
-* On Ubuntu or other Debian-based distributions, type at the shell::
-
-    sudo apt-get install python-matplotlib python-scipy \
-                         python-pandas python-sympy python-nose
-
-* On Fedora 18 and newer related distributions, use::
-
+    
+    # Optional: Common Python libraries for scientific computing
     sudo yum install python-matplotlib scipy python-pandas sympy python-nose
 
 
 .. _downloads:
-
 
 Downloads
 ---------
