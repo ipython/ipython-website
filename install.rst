@@ -25,7 +25,7 @@ basic libraries for scientific computing and data analysis.
 
 1. Download and install `Anaconda <http://continuum.io/downloads.html>`_ or the
 free edition of `Enthought Canopy
-<https://www.enthought.com/products/epd_free.php>`_.
+<https://www.enthought.com/downloads/>`_.
 
 2. Update IPython to the current version, using the Terminal/Command Prompt:
 

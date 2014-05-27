@@ -55,7 +55,7 @@ following sources:
 - `Enthought Inc`_ has supported IPython since its beginning in multiple forms,
   including --but not limited to-- the funding of our Qt console, hosting our
   website for many years, the continued hosting of our mailing lists, and the
-  inclusion of IPython in the `Enthought Python Distribution`_.
+  inclusion of IPython in `Enthought Canopy`_.
 
 - NiPy_/NIH: funding via the NiPy project (NIH grant 5R01MH081909-02) supported
   our 2009 refactoring work.
