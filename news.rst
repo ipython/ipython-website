@@ -6,6 +6,8 @@ News
    :title: HyperSpy News
    :link: http://hyperspy.org/
 
+   news/release_0.7.1
+   news/superstem2014
    news/IMC2014
    news/shire2014
    news/release_0.7
