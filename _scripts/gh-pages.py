@@ -92,13 +92,13 @@ if __name__ == '__main__':
     # This is pretty unforgiving: we unconditionally nuke the destination
     # directory, and then copy the html tree in there
     sh('rm -r %s/*' % pages_dir)
-    
+
     sh('cp -r %s/* %s/' % (html_dir, pages_dir))
 
     try:
         cd(pages_dir)
         status = sh2('git status | head -1')
-        branch = re.match('\# On branch (.*)$', status).group(1)
+        branch = re.search('On branch (.*)$', status).group(1)
         if branch != 'master':
             e = 'On %r, git branch is %r, MUST be "master"' % (pages_dir,
                                                                  branch)
