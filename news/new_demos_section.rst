@@ -4,7 +4,7 @@ New demos section
 .. feed-entry::
    :date: 2014-06-19
    
-The examples sections has been replaced by a new `demos
+The examples section in the HyperSpy website has been replaced by a new `demos
 <http://nbviewer.ipython.org/github/hyperspy/hyperspy-demos/tree/master/>`_
 section.
 
