@@ -25,9 +25,9 @@ For new users who want to install a full Python environment for scientific compu
 data science, we suggest installing the Anaconda or Canopy Python distributions, which provide Python 2.7, IPython and all of its dependences as well as a complete set of open source packages
 for scientific computing and data science.
 
-1. Download and install Continuum's `Anaconda <http://continuum.io/downloads.html>`_ or the free edition of Enthought's `Canopy <https://www.enthought.com/products/epd_free.php>`_.
+1. Download and install Continuum's `Anaconda <http://continuum.io/downloads.html>`_ or the free edition of Enthought's `Canopy <https://www.enthought.com/downloads/>`_.
 
-2. Update IPython to the current version, using the Terminal/Command Prompt:
+2. Update IPython to the current version using the Terminal:
 
   Anaconda::
 
@@ -43,11 +43,9 @@ for scientific computing and data science.
 Downloads
 ---------
 
-You can manually download IPython from either `Github
+You can manually download IPython from  `Github
 <http://github.com/ipython/ipython/releases>`_ or `PyPI
-<http://pypi.python.org/pypi/ipython>`_.  Those locations contain source
-distributions as well as binary Windows installers, which will be recognized by
-:command:`easy_install` and :command:`pip` (for the source ones).
+<http://pypi.python.org/pypi/ipython>`_.  To install one of these versions, unpack it and run
+the following from the top-level source directory using the Terminal::
 
-Our `downloads archive <http://archive.ipython.org/release>`_ also contains all
-IPython releases, including old versions.
+    python setup.py install
