@@ -26,8 +26,8 @@
 .. Other organizations
 .. _Alfred P. Sloan Foundation: http://www.sloan.org
 .. _Enthought inc:
-.. _Enthought: http://www.enthought.co
-.. _Enthought Python Distribution: http://www.enthought.com/products/epd.php
+.. _Enthought: http://www.enthought.com
+.. _Enthought Canopy: http://www.enthought.com/products/canopy/
 .. _numfocus: http://numfocus.org
 .. _HPCMP: http://www.hpcmo.hpc.mil
 .. _ERDC: http://www.erdc.usace.army.mil
