@@ -2,6 +2,11 @@
 News
 ====
 
+IPython 2.1
+-----------
+
+IPython 2.1 includes bugfixes for 2.0, released on May 21, 2014.
+
 IPython 2.0
 -----------
 
