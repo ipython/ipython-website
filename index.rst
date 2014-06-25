@@ -69,6 +69,7 @@ Python 2.6 and 3.2.
 Announcements
 =============
 
+- **IPython 2.1**: Bugfixes for IPython 2.0.
 - **IPython 2.0**: We are proud to announce the availability of IPython 2.0,
   a major new release including HTML widgets and multi-directory navigation.
   `Install <install.html>`__ it now, or read about the changes in
