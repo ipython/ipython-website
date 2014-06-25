@@ -6,6 +6,19 @@
 We have given a number of talks and presentations about IPython:
 
 ------
+ 2014
+------
+
+* Fernando gave a keynote address at PyCon 2014 entitled *Python and Science: How OSS and Python are transforming science*. The video is availible on the PyCon 2014 YouTube site: https://www.youtube.com/watch?v=2NSbuKFYyvc 
+* At PyCon 2014 there was also a tutorial *IPython in depth: high productivity interactive and parallel python*. The entire 3 hour long tutorial can be viewed here: https://www.youtube.com/watch?v=XFw1JVXKJss
+------
+ 2013
+------
+
+* Fernando's SciPy 2013 Keynote entitled *IPython: from the shell to a book with a single tool...the method behind the madness* can be viewed on Enthought's YouTube page: https://www.youtube.com/watch?v=j9YpkSX7NNM
+* The SciPy tutorial *IPython in Depth* is also available. Part 1: https://www.youtube.com/watch?v=xe_ATRmw0KM Part 2: https://www.youtube.com/watch?v=A8VbS-YX2Lo Part 3: https://www.youtube.com/watch?v=4tJKZWWRs6s
+
+------
  2012
 ------
 
