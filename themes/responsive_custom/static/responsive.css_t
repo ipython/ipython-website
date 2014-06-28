@@ -151,7 +151,8 @@ table {
   border-spacing: 0;
 }
 
-/* Original styles*/
+/* Original styles
+********************************************/*/
 * {
   margin: 0px;
   padding: 0px;
