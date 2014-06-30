@@ -14,7 +14,7 @@
 
 {# IPython-specific block #}
 {% set css_files = css_files + ["_static/ipython.css"] %}
-
+<div id="container-content'>
 {% block header %}
     <div class="header-wrapper">
       <div class="header">
@@ -46,6 +46,7 @@
             {{ sidebar() }}
         {% endblock %}
         <div class="document">
+          <article> 
           {%- block document %}
             {{ super() }}
           {%- endblock %}
@@ -65,3 +66,5 @@
 {% block relbar1 %}{% endblock %}
 
 {% block relbar2 %}{% endblock %}
+
+</div> <!--container-content-->
