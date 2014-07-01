@@ -15,6 +15,7 @@
 {# IPython-specific block #}
 {% set css_files = css_files + ["_static/ipython.css"] %}
 <div id="container-content'>
+<header>
 {% block header %}
     <div class="header-wrapper">
       <div class="header">
@@ -27,17 +28,19 @@
         {%- endif %}
        {# <h1><a href="{{ pathto(master_doc) }}">{{ shorttitle|e }}</a></h1> #}
         {%- endblock %}
-        <div class="rel">
-          {% include 'navbar.html' %}
-        </div>
-       </div>
+        <nav>
+          <div class="rel">
+            {% include 'navbar.html' %}
+          </div>
+        </nav>
+      </div>
     </div>
 {% endblock %}
+</header>
 
 
 
 {% block content %}
-  <article> 
     <div class="content-wrapper">
       <div class="content">
         {%- block sidebar2 %}
@@ -47,14 +50,14 @@
         {% endblock %}
         <div class="document">
           <article> 
-          {%- block document %}
-            {{ super() }}
-          {%- endblock %}
+            {%- block document %}
+              {{ super() }}
+            {%- endblock %}
+          </article>
         </div>
         <div class="clearer"></div>
       </div><!--content-->
     </div><!--content-wrapper-->
-  </article>
 {% endblock %}
 
 {% block footer %}
