@@ -20,8 +20,10 @@
 </head>
 <body>
 <div id="container-content'>
-<header>
+
+
 {% block header %}
+  <div class="header">
         {%- block headertitle %}
 
         {%- if logo %}
@@ -36,8 +38,9 @@
             {% include 'navbar.html' %}
           </div>
         </nav>
+  </div><!--header-->
 {% endblock %}
-</header>
+
 
 
 
