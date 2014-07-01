@@ -149,6 +149,10 @@ table {
   border-collapse: collapse;
   border-spacing: 0;
 }
+.logo png {
+          height: 100%; 
+          width: auto;
+ }
 
 /* Original styles
 ********************************************/*/
@@ -635,3 +639,12 @@ div.viewcode-block:target {
     border-top: 1px solid #ac9;
     border-bottom: 1px solid #ac9;
 }
+
+/*media queries------------------------------------------*/
+@media only screen and (min-width: 481px) {
+...
+}
+@media screen and (max-width: 600px) {
+
+}
+
