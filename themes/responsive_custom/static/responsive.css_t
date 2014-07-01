@@ -149,10 +149,6 @@ table {
   border-collapse: collapse;
   border-spacing: 0;
 }
-.logo png {
-          height: 100%; 
-          width: auto;
- }
 
 /* Original styles
 ********************************************/*/
@@ -326,10 +322,13 @@ div.header div.rel a {
   font-weight: bold;
 }
 
-div.logo {}
+div.logo {
+width: auto;
+}
 
 img.logo {
-    border: 0;
+    border: 0; 
+    width: 100%;
 }
 
 
