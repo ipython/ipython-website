@@ -79,10 +79,6 @@ canvas,
 video {
   display: block;
 }
-article {
-  background-color: #cccccc;
-}
-
 sub,
 sup {
   font-size: 75%;
@@ -172,6 +168,7 @@ body {
   line-height: 1.4em;
   color: black;
   background-color: {{ theme_bgcolor }};
+  font-weight: 100;
 }
 
 /* Page layout */
@@ -280,7 +277,7 @@ dt:target, .highlighted {
 
 /* Header */
 
-div.header {}
+
 
 div.header h1 {
   font-family: "Trebuchet MS", Helvetica, sans-serif;
@@ -325,6 +322,13 @@ div.content-wrapper {
 
 div.document {
   max-width: {{ theme_documentwidth }};
+}
+
+article{
+  padding-top: 0em;
+  padding-left: 0em;
+  padding-right: 0em;
+  padding-bottom: 0em;
 }
 
 div.body {
@@ -639,29 +643,30 @@ div.viewcode-block:target {
  }
  div.sphinxsidebar {
      width: 50%;
-     padding: 0px 0.3em;
+     padding: 0px 0.66em;
      float: right;
      font-size: .93em;
      background-color: white;
+ }
 }
 
 @media screen and (min-width: 601px) {
- img.logo {
-     border: 0; 
-     width: 50%;
- }
- div.header {
-     box-sizing: border-box;
-     padding-top: 1em;
-     padding-left: 1em;
-     padding-right: 1em;
- }
- div.sphinxsidebar {
-     width: {{ theme_sidebarwidth }};
-     padding: 0 1em;
-     float: right;
-     font-size: .93em;
-     background-color: white;
-}
+  img.logo {
+      border: 0; 
+      width: 50%;
+  }
+  div.header {
+      box-sizing: border-box;
+      padding-top: 1em;
+      padding-left: 1em;
+      padding-right: 1em;
+  }
+  div.sphinxsidebar {
+      width: {{ theme_sidebarwidth }};
+      padding: 0 1em;
+      float: right;
+      font-size: .93em;
+      background-color: white;
+  }
 }
 
