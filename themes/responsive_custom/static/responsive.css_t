@@ -660,6 +660,11 @@ div.viewcode-block:target {
    border-bottom: 1px solid {{ theme_headercolor2 }};
    word-break: break-all;
  }
+ div.document img{
+   width: 100%;
+   height: auto;
+   max-width: 100%;
+ }
 }
 
 @media screen and (min-width: 601px) {
