@@ -344,6 +344,8 @@ div.document div.highlight {
 
 div.document h2 {
   margin-top: .7em;
+  line-height: 1.3em;
+
 }
 
 div.document p {
