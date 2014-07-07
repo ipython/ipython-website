@@ -344,8 +344,6 @@ div.document div.highlight {
 
 div.document h2 {
   margin-top: .7em;
-  line-height: 1.3em;
-
 }
 
 div.document p {
@@ -647,12 +645,12 @@ div.viewcode-block:target {
    font-weight: normal;
    color: {{ theme_headercolor2 }};
    margin-bottom: .8em;
+   line-height: 1.3em;
   
  }
  
  h1 {
    color: {{ theme_headercolor1 }};
-   line-height: 1.1em;
    text-align: left;
    
  }
@@ -710,16 +708,17 @@ div.viewcode-block:target {
   color: {{ theme_headercolor2 }};
   margin-bottom: .8em;
   word-break: break-all;
+  line-height: 1.1em;
  }
   h3 {
   font-weight: normal;
   color: {{ theme_headercolor2 }};
   margin-bottom: .8em;
+  line-height: 1.1em;
   }
  
  h1 {
    color: {{ theme_headercolor1 }};
-   line-height: 1.1em;
    text-align: left;
    word-break: break-all;
  }
@@ -773,12 +772,12 @@ div.viewcode-block:target {
    font-weight: normal;
    color: {{ theme_headercolor2 }};
    margin-bottom: .8em;
+   line-height: 1.3em;
   
  }
  
  h1 {
    color: {{ theme_headercolor1 }};
-   line-height: 1.1em;
    text-align: left;
    
  }
