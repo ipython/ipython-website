@@ -168,7 +168,7 @@ body {
   line-height: 1.4em;
   color: black;
   background-color: {{ theme_bgcolor }};
-  font-weight: 100;
+  font-weight: 300;
 }
 
 /* Page layout */
