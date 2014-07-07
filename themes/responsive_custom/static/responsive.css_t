@@ -461,9 +461,6 @@ div.sidebarblock {
   border-bottom: 1px solid #AAA;
   margin-bottom: .8em;
 }
-div.sphinxsidebar .sphinxsidebarwrapper .sidebarblock #donate form input{
-    width: 100%;
-}
 
 
 /* Footer */
@@ -667,6 +664,9 @@ div.viewcode-block:target {
    max-width: 100%;
    height: auto;
  }
+  div.sphinxsidebar .sphinxsidebarwrapper .sidebarblock #donate form input{
+    width: 70%;
+ }
  
 }
 
@@ -731,6 +731,9 @@ div.viewcode-block:target {
    max-width: 50%;
    height: auto;
  }
+ div.sphinxsidebar .sphinxsidebarwrapper .sidebarblock #donate form input{
+    width: 100%;
+ }
 }
 
 /*large screen---------------------------------------*/
@@ -786,6 +789,9 @@ div.viewcode-block:target {
   div.document img{
    max-width: 100%;
    height: auto;
+ }
+ div.sphinxsidebar .sphinxsidebarwrapper .sidebarblock #donate form input{
+    width: 50%;
  }
 }
 
