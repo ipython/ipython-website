@@ -38,13 +38,13 @@ and scripting in `Bash, Perl or Ruby`_.
 
 .. _Haskell: https://github.com/gibiansky/IHaskell
 
-.. _cython: http://nbviewer.ipython.org/url/github.com/ipython/ipython/raw/master/examples/notebooks/Cython%20Magics.ipynb
+.. _cython: http://docs.cython.org/src/quickstart/build.html#using-the-ipython-notebook
 
-.. _R: http://nbviewer.ipython.org/url/github.com/ipython/ipython/raw/master/examples/notebooks/R%20Magics.ipynb
+.. _R: http://rpy.sourceforge.net/rpy2/doc-2.4/html/interactive.html#module-rpy2.ipython.rmagic
 
-.. _Octave: http://nbviewer.ipython.org/url/github.com/ipython/ipython/raw/master/examples/notebooks/Octave%20Magic.ipynb
+.. _Octave: http://nbviewer.ipython.org/github/blink1073/oct2py/blob/master/example/octavemagic_extension.ipynb
 
-.. _Bash, Perl or Ruby: http://nbviewer.ipython.org/url/github.com/ipython/ipython/raw/master/examples/notebooks/Script%20Magics.ipynb
+.. _Bash, Perl or Ruby: http://nbviewer.ipython.org/github/ipython/ipython/blob/master/examples/IPython%20Kernel/Script%20Magics.ipynb
 
 To get started with the IPython Notebook, see our `official example
 collection`_.  Our `notebook gallery`__ is an excellent way to see the many
