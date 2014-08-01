@@ -35,10 +35,10 @@ Full installers
 
 
 `HyperSpy-0.7.1 beta for Windows 32-bits
-<http://cook.msm.cam.ac.uk/~hyperspy/HyperSpy-0.7.1-Bundle-Windows-32bit.exe>`_
+<http://sourceforge.net/projects/hyperspy/files/HyperSpy-0.7.1-Bundle-Windows-32bit.exe/download>`_
 
 `HyperSpy-0.7.1 beta for Windows 64-bits
-<http://cook.msm.cam.ac.uk/~hyperspy/HyperSpy-0.7.1-Bundle-Windows-64bit.exe>`_
+<http://sourceforge.net/projects/hyperspy/files/HyperSpy-0.7.1-Bundle-Windows-64bit.exe/download>`_
 
 .. NOTE::
 
@@ -62,7 +62,7 @@ Ubuntu Linux
 ------------
 
 An Ubuntu package `can be downloaded here 
-<http://cook.msm.cam.ac.uk/~hyperspy/python-hyperspy_0.7.1-1_all.deb>`_. 
+<http://sourceforge.net/projects/hyperspy/files/python-hyperspy_0.7.1-1_all.deb/download>`_. 
 It is compatible with Ubuntu Trusty Tahr (14.04) and newer.
 
 
