@@ -2,6 +2,13 @@
 News
 ====
 
+IPython 2.2
+-----------
+
+IPython 2.2 includes bugfixes for 2.2, including a `security fix
+<https://github.com/ipython/ipython/pull/6249>`_. It was released on August 6,
+2014.
+
 IPython 2.1
 -----------
 
