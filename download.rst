@@ -4,66 +4,64 @@
 Download
 ********
 
-
-
-Stable Releases
-===============
-
-Currently there are not stable releases of HyperSpy. 
-
 .. _beta-releases:
 
 Beta Releases
-================
+=============
+
+This page contains links to HyperSpy installers for different operating systems.
+These installers should meet the needs of most users.  Advanced installation options are
+documented in the `User Guide
+<http://hyperspy.org/hyperspy-doc/current/user_guide/install.html>`_.
 
 
 Windows
 -------
 
-There are two ways to install HyperSpy in Windows:
 
-1. Using the :ref:`"full installer" <full_installers>` that install all the
-   required libraries. This is the recommended installation method.
-2. Using the :ref:`Python installers <python_installers>`. This method requires
-   installing Python and all the required libraries and is only recommended
-   for advanced users.
+1. Windows bundle installers
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-.. _full_installers:
+These installers includ e HyperSpy, all the
+required libraries and Mayavi. This is the *recommended installation method* in Windows.
 
-Full installers
-~~~~~~~~~~~~~~~
+`HyperSpy-0.7.3 beta for Windows 32-bits
+<http://sourceforge.net/projects/hyperspy/files/HyperSpy-0.7.3-Bundle-Windows-32bit.exe/download>`_
 
+`HyperSpy-0.7.3 beta for Windows 64-bits
+<http://sourceforge.net/projects/hyperspy/files/HyperSpy-0.7.3-Bundle-Windows-64bit.exe/download>`_
 
-`HyperSpy-0.7.1 beta for Windows 32-bits
-<http://sourceforge.net/projects/hyperspy/files/HyperSpy-0.7.1-Bundle-Windows-32bit.exe/download>`_
-
-`HyperSpy-0.7.1 beta for Windows 64-bits
-<http://sourceforge.net/projects/hyperspy/files/HyperSpy-0.7.1-Bundle-Windows-64bit.exe/download>`_
 
 .. NOTE::
 
-
-   If HyperSpy fails to start after installing using the full installer for
-   Windows you may also need to install the Microsoft Visual C++ 2008
+   If HyperSpy fails to start install the Microsoft Visual C++ 2008
    redistributable packages (`64 bit
    <http://www.microsoft.com/download/en/details.aspx?id=15336>`_ or `32 bit
    <http://www.microsoft.com/download/en/details.aspx?id=29>`_).
 
+
+.. NOTE::
+
+        The bundle installers are customized `Winpython
+        <http://winpython.sourceforge.net/>`_ 2.7.6.4 distributions.
+
 .. _python_installers:
  
-Python installers
-~~~~~~~~~~~~~~~~~
+2. Windows HyperSpy Python installers
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-Installing using the Python installers requires installing Python and other
-libraries. You can download the Python installers from `pypi
+The  Python installers install only HyperSpy i.e. Python and all the required
+libraires must be installed separately. This installation method is only
+recommend for users who are familiar with Python. You can
+download the Python installers from `pypi
 <https://pypi.python.org/pypi/hyperspy>`_.
 
-Ubuntu Linux
-------------
+Debian/Ubuntu
+-------------
 
-An Ubuntu package `can be downloaded here 
-<http://sourceforge.net/projects/hyperspy/files/python-hyperspy_0.7.1-1_all.deb/download>`_. 
-It is compatible with Ubuntu Trusty Tahr (14.04) and newer.
+A Debian package `can be downloaded here 
+<http://sourceforge.net/projects/hyperspy/files/python-hyperspy_0.7.3-1_all.deb/download>`_. 
+It has been tested in Debian Wheezy and Jessie and should work in most Debian based distributions (e.g. Ubuntu, Mint, etc.).
 
 
 Mac OS
@@ -74,8 +72,8 @@ Follow `this link
 for quick instructions on how to install HyperSpy in MacOS.
 
 
-Other related software
-======================
+Related software
+================
 
 .. _import-rpl:
 
