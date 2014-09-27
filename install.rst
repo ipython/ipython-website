@@ -16,7 +16,7 @@ If you already have Python installed and are familiar with installing packages, 
 
 Or if you want to also get the dependencies for the IPython notebook::
 
-    pip install ipython[notebook]
+    pip install "ipython[notebook]"
 
 I am getting started with Python
 --------------------------------
