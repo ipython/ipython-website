@@ -45,9 +45,17 @@ Share your notebooks
 <div class="sidebarblock">
 <h3>{{ _('Book') }}</h3>
 
-<a href="http://www.packtpub.com/learning-ipython-for-interactive-computing-and-data-visualization/book"><img src="_static/ipython-book.jpg"
+<a href="books.html"><img src="_static/ipython-cookbook.jpg"
 title="Packt Publishing donates a portion of the proceeds from this book to
-support IPython's development." > </a>
+support IPython's development." width="160" height="200" id="sidebar-book-cover"
+style="margin-bottom: 10px;"></a>
+<script language="javascript">
+  window.onload = function() {
+    if (Math.random() < 0.333) {
+      $("#sidebar-book-cover").attr("src", "_static/ipython-book.jpg");
+    }
+  }
+</script>
 
 </div>
 
