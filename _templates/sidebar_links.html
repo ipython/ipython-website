@@ -45,15 +45,21 @@ Share your notebooks
 <div class="sidebarblock">
 <h3>{{ _('Book') }}</h3>
 
-<a href="books.html"><img src="_static/ipython-cookbook.jpg"
+<a href="books.html"><img
 title="Packt Publishing donates a portion of the proceeds from this book to
 support IPython's development." width="160" height="200" id="sidebar-book-cover"
 style="margin-bottom: 10px;"></a>
 <script language="javascript">
   window.onload = function() {
-    if (Math.random() < 0.333) {
-      $("#sidebar-book-cover").attr("src", "_static/ipython-book.jpg");
+    var x = Math.random();
+    var img;
+    if (x < 0.333) {
+      url = "_static/ipython-book.jpg";
     }
+    else {
+      url = "_static/ipython-cookbook.jpg";
+    }
+    $("#sidebar-book-cover").attr("src", url);
   }
 </script>
 
