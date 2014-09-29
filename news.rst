@@ -2,6 +2,16 @@
 News
 ====
 
+Release of the IPython Cookbook
+-------------------------------
+
+On September 25 2014, Cyrille Rossant published the 
+`IPython Interactive Computing and Visualization Cookbook <books.html>`_,
+an advanced-level guide to IPython for data science, 
+and the sequel of his previous book on IPython.
+We thank Packt Publishing for donating a portion of the proceeds from
+this book to support IPython's development.
+
 IPython 2.2
 -----------
 
