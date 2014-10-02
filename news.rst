@@ -2,6 +2,13 @@
 News
 ====
 
+IPython 2.3
+-----------
+
+IPython 2.3 includes bugfixes for 2.x, most importantly a fix for maths
+rendering in notebooks exported to HTML by nbconvert. It was released on October
+1, 2014.
+
 Release of the IPython Cookbook
 -------------------------------
 
