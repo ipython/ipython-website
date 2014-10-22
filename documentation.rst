@@ -68,10 +68,6 @@ know about it so we can post it here.
   about using IPython's GTK support to interactively control a `Pigment
   <https://code.fluendo.com/pigment/trac>`_ application. It also uses the
   IPython demo class.
-* A `set of slides <http://www.python-industries.com/clepy/ipython/>`_
-  introducing IPython and summarizing its features. A good introduction for the
-  newcomer, and even experienced users may find things there they didn't know
-  about.
 * An `article <http://www.linux.com/archive/feature/47635>`__ at Linux.com about
   IPython, by Conrad Koziol.
 * An `article <http://www.onlamp.com/pub/a/python/2005/01/27/ipython.html>`__ by
