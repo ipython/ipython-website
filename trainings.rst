@@ -5,15 +5,16 @@ Trainings
 =========
 
 
-We run trainings several times a year. If you want to participate in any of the forthcoming trainings or you would like us to run a training for your laboratory or company contact us through the development mailing list.
+We run trainings several times a year. If you want to participate in any of the forthcoming trainings or you would like us to organize a training a training for your laboratory,  company or event contact us.
 
 Forthcoming trainings
 ---------------------
-* `IMC 2014 <http://www.imc2014.com/index.php?page=pena>`_, Prague (Czech Republic) 7 September 2014
-* `SuperSTEM Summer School 2014 <http://www.superstem.org/events/summerschool2014>`_, Daresbury (UK) 4 - 7 July 2014
+
 Past trainings
 --------------
 
+* **IMC 2014**, Prague (Czech Republic) 7 September 2014
+* **SuperSTEM Summer School 2014**, Daresbury (UK) 4 - 7 July 2014
 * **SHIRE 2014**, Symposium on Hyperspectral Imaging in Research & Engineering, Sheffield (UK) 10-11 April 2014
 * **SFMu 2013**, Nantes (France) 1-2 July 2013.
 * **Advances in data acquisition and processing in electron microscopy**, Poitiers (France) 3rd October 2012

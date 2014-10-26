@@ -12,10 +12,9 @@ tools like `Git <http://git-scm.com>`_ and `GitHub <http://github.com>`_.
  Git Repositories 
 ==================
 
-HyperSpy development has been moved to `GitHub <http://github.com/hyperspy>`_, using the  `Git <http://git-scm.com>`_ distributed version control system.
+We use the  `Git <http://git-scm.com>`_ distributed version control system. The HyperSpy git repository is hosted in `GitHub <http://github.com/hyperspy>`_. 
 
-
-The development version of HyperSpy can be downloaded from our GitHub repository by doing::
+To clone the development version:
 
     git clone git://github.com/hyperspy/hyperspy.git
 
@@ -42,7 +41,10 @@ We want HyperSpy to be as bug-free as possible, so we encourage our users to  `r
  Developer Mailing List 
 ========================
 
-We have a `mailing list <hyperspy-devel@googlegroups.com>`_ for discussions about the development of HyperSpy. It is hosted in Google Groups. If you want to join in without a Google account send an email to hyperspy-devel+subscribe@googlegroups.com.  There is also `a web-based version <http://groups.google.com/group/hyperspy-devel>`_ of this list but you need to have a Google account to use it.
+Our `development mailing
+<https://groups.google.com/forum/#!forum/hyperspy-devel/>`_ list is now
+disabled, as GitHub serves better its original purpose. The old posts remain
+online.
 
 =======================
  External Dependencies 
