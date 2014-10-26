@@ -10,9 +10,8 @@ hyperspy-users+subscribe@googlegroups.com.  There is also `a web-based version
 <http://groups.google.com/group/hyperspy-users>`_ of this list but you need to
 have a Google account to use it.
 
-If you think that you have found a bug please :ref:`report it <reporting-bug>`
-and we will try to fix it.
+If you think that you have found a bug or you would like to request a feature, please create a new issue in the :ref:`issues tracker <https://github.com/hyperspy/hyperspy/issues>`.
 
-You may also be interested in jonining us for any forthcoming training :ref:`trainings` or invite us to organize a training.
+You may also be interested in jonining us for any forthcoming training :ref:`trainings` or in inviting us to organize one.
 
 
