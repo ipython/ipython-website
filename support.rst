@@ -13,6 +13,6 @@ have a Google account to use it.
 If you think that you have found a bug please :ref:`report it <reporting-bug>`
 and we will try to fix it.
 
-You may also be interested in the :ref:`trainings`
+You may also be interested in jonining us for any forthcoming training :ref:`trainings` or invite us to organize a training.
 
 
