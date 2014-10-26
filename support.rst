@@ -11,7 +11,7 @@ hyperspy-users+subscribe@googlegroups.com.  There is also `a web-based version
 have a Google account to use it.
 
 If you think that you have found a bug or you would like to request a feature,
-please create a new issue in the :ref:`issues tracker
+please create a new issue in the `issues tracker
 <https://github.com/hyperspy/hyperspy/issues>`_.
 
 You may also be interested in joining us for any forthcoming training
