@@ -12,7 +12,7 @@ have a Google account to use it.
 
 If you think that you have found a bug or you would like to request a feature,
 please create a new issue in the :ref:`issues tracker
-<https://github.com/hyperspy/hyperspy/issues>`.
+<https://github.com/hyperspy/hyperspy/issues>`_.
 
 You may also be interested in joining us for any forthcoming training
 :ref:`trainings` or in inviting us to organize one.
