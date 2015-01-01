@@ -8,6 +8,9 @@ IPython manual
 * `Current Stable Version (2.x) <http://ipython.org/ipython-doc/stable/index.html>`_
 * `Current Development Version <http://ipython.org/ipython-doc/dev/index.html>`_
 
+You can download IPython documentation for offline use, and for all version of IPython on
+`GitHub <https://github.com/ipython/ipython-doc/tree/gh-pages>`.
+
 `This introduction to some key features
 <http://ipython.org/ipython-doc/stable/interactive/tutorial.html>`_ is a good
 place to start if you haven't used IPython before.
