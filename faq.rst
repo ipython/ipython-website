@@ -2,7 +2,7 @@
 FAQ
 ===
 
-If your question isn't answered below, check `the docs <http://ipython.org/ipython-doc/>`_, then ask on the `user and developper mailing list <http://mail.scipy.org/mailman/listinfo/ipython-dev>`_.
+If your question isn't answered below, check `the docs <http://ipython.org/ipython-doc/>`_, then ask on the `mailing list <http://mail.scipy.org/mailman/listinfo/ipython-dev>`_.
 
 .. contents::
   :local:
