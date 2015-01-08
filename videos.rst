@@ -48,7 +48,7 @@ the Pybonacci_ blog:
    height="350" src="http://www.youtube.com/embed/H6dLGQw9yFQ" frameborder="0"
    allowfullscreen></iframe></div><br>
 
-.. _Pybonacci: http://pybonacci.wordpress.com.
+.. _Pybonacci: http://pybonacci.org.
 
 IPython in depth: high-productivity interactive and parallel python
 ===================================================================
