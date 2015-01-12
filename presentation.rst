@@ -115,7 +115,7 @@ We have given a number of talks and presentations about IPython:
 * An `article about IPython
   <http://amath.colorado.edu/faculty/fperez/preprints/ipython-cise-final.pdf>`__,
   written by Fernando Perez and Brian Granger, published in the `May/June 2007
-  issue <http://cise.aip.org/dbt/dbt.jsp?KEY=CSENFA&Volume=9&Issue=3>`__ of the
+  issue <http://scitation.aip.org/content/aip/journal/cise/9/3>`__ of the
   journal ''Computing in Science and Engineering''.
 * A `set of slides <http://ipython.scipy.org/talks/Trilinos-IPython.pdf>`__ by
   Bill Spotz, from Sandia National Labs, on using IPython to interactively use

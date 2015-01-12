@@ -320,7 +320,7 @@ A new article about IPython at IBM Developer Works (Dec 12, 2007)
 -----------------------------------------------------------------
 
 Noah Gift wrote a great `article
-<http://www.ibm.com/developerworks/aix/library/au-netsnmpnipython>`__ at the IBM
+<https://www.ibm.com/developerworks/aix/library/au-netsnmpnipython>`__ at the IBM
 Developer Works site, on using the Net-SNMP library to interactively explore
 and manage a network (the interactive part courtesy of IPython, of course).
 
@@ -367,7 +367,7 @@ release of `PyReadline <pyreadline.html>`__] from the `download page
 Article about IPython in CiSE (May 2007)
 ----------------------------------------
 
-The `issue <http://cise.aip.org/dbt/dbt.jsp?KEY=CSENFA&Volume=9&Issue=3
+The `issue <http://scitation.aip.org/content/aip/journal/cise/9/3
 May/June 2007>`__ of the journal ''Computing in Science and Engineering'' was
 entirely devoted to Python in scientific computing.  One of the `IPython
 <http://amath.colorado.edu/faculty/fperez/preprints/ipython-cise-final.pdf

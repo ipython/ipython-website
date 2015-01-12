@@ -2,7 +2,7 @@
 FAQ
 ===
 
-If your question isn't answered below, check `the docs <http://ipython.github.com/ipython-doc/>`_, then ask on the `user mailing list <http://projects.scipy.org/mailman/listinfo/ipython-user>`_.
+If your question isn't answered below, check `the docs <http://ipython.org/ipython-doc/>`_, then ask on the `mailing list <http://mail.scipy.org/mailman/listinfo/ipython-dev>`_.
 
 .. contents::
   :local:
@@ -49,6 +49,6 @@ What is the best way to install IPython?
 
 See `the installation documentation <http://ipython.org/ipython-doc/stable/install/install.html#installing-ipython-itself>`_ for full details.
 
-The standard Python installation mechanisms (``setup.py``, ``pip`` or ``easy_install``) all work for installing IPython to use in a terminal. Windows users are best off installing `distribute <http://pypi.python.org/pypi/distribute>`_, then running the .exe installer, to create start menu shortcuts.
+The standard Python installation mechanisms (``setup.py``, ``pip`` or ``easy_install``) all work for installing IPython to use in a terminal. Windows users are best off installing `distribute <https://pypi.python.org/pypi/distribute>`_, then running the .exe installer, to create start menu shortcuts.
 
 To use the notebook or the Qt console, it's easiest to install through a package manager, or download a Python distribution such as `Anaconda <https://store.continuum.io/cshop/anaconda>`_ or `Enthought Canopy <https://www.enthought.com/downloads/>`_. Otherwise, you will need to install pyzmq, along with tornado for the notebook, and PyQt4/PySide and pygments for the Qt console.

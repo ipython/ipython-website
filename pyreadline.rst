@@ -29,7 +29,7 @@ where you can find binary installers and source downloads.
 
 Mailing list
 ------------
-Questions and bug reports can be directed to the `ipython-user <http://projects.scipy.org/mailman/listinfo/ipython-user>`_ mailing list.
+Questions and bug reports can be directed to the `ipython <http://projects.scipy.org/mailman/listinfo/ipython-dev>`_ mailing list.
 
 Status and development
 ----------------------

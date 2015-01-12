@@ -8,6 +8,9 @@ IPython manual
 * `Current Stable Version (2.x) <http://ipython.org/ipython-doc/stable/index.html>`_
 * `Current Development Version <http://ipython.org/ipython-doc/dev/index.html>`_
 
+You can download IPython documentation for offline use, and for all version of IPython on
+`GitHub <https://github.com/ipython/ipython-doc/tree/gh-pages>`.
+
 `This introduction to some key features
 <http://ipython.org/ipython-doc/stable/interactive/tutorial.html>`_ is a good
 place to start if you haven't used IPython before.
@@ -25,11 +28,11 @@ Other useful documentation
 * `Videos and screencasts <videos.html>`_.
 * IPython `screenshots <screenshots/index.html>`_.
 * `IPython quick reference card
-  <http://damontallen.github.io/IPython-quick-ref-sheets/>`_.
+  <https://damontallen.github.io/IPython-quick-ref-sheets/>`_.
 * An `article about IPython
   <http://fperez.org/papers/ipython07_pe-gr_cise.pdf>`_, written by Fernando
   Perez and Brian Granger, published in the `May/June 2007 issue
-  <http://cise.aip.org/dbt/dbt.jsp?KEY=CSENFA&amp;Volume=9&amp;Issue=3>`_ of
+  <http://scitation.aip.org/content/aip/journal/cise/9/3>`_ of
   the journal *Computing in Science and Engineering*.
 
 External documentation, related presentations and tutorials
@@ -52,14 +55,14 @@ know about it so we can post it here.
   to couple IPython's parallel capabilities with the `Vision
   <http://mgltools.scripps.edu>`_ environment. Vision is an extremely
   impressive visual programming environment developed by `Michel Sanner's
-  <http://www.scripps.edu/~sanner>`_ team at the Scripps Institute in La Jolla,
+  <http://www.scripps.edu/sanner>`_ team at the Scripps Institute in La Jolla,
   CA.
 * An `article
-  <http://www.redhatmagazine.com/2008/02/07/python-for-bash-scripters-a-well-kept-secret>`__
+  <http://magazine.redhat.com/2008/02/07/python-for-bash-scripters-a-well-kept-secret/>`__
   by Noah Gift on RedHat Magazine that covers using Python, and IPython, as a
   better Bash.
 * An `article
-  <http://www.ibm.com/developerworks/aix/library/au-netsnmpnipython>`__ by Noah
+  <https://www.ibm.com/developerworks/aix/library/au-netsnmpnipython>`__ by Noah
   Gift at the IBM Developer Works site, on using the Net-SNMP library to
   interactively explore and manage a network (the interactive part courtesy of
   IPython, of course).
@@ -68,13 +71,13 @@ know about it so we can post it here.
   about using IPython's GTK support to interactively control a `Pigment
   <https://code.fluendo.com/pigment/trac>`_ application. It also uses the
   IPython demo class.
-* An `article <http://www.linux.com/archive/feature/47635>`__ at Linux.com about
+* An `article <http://archive09.linux.com/feature/47635>`__ at Linux.com about
   IPython, by Conrad Koziol.
 * An `article <http://www.onlamp.com/pub/a/python/2005/01/27/ipython.html>`__ by
   Jeremy Jones at ONLamp.com, introducing IPython to new users and giving a
   tour of its features as a replacement for the default Python shell.
 * The O'Reilly book `"Python for Unix and Linux System Administration"
-  <http://oreilly.com/catalog/9780596515829/>`_ has a chapter (the first, and
+  <http://shop.oreilly.com/product/9780596515829.do>`_ has a chapter (the first, and
   largest one) on IPython. IPython is also used throughout the book to
   illustrate other Python technologies.
 
@@ -91,8 +94,8 @@ please `provide a citation to IPython <citing.html>`_.
 .. footer:: 
 
     These documents themselves are maintained as a `git repository
-    <http://github.com/ipython/ipython-doc>`_ on GitHub, using the `GitHub
-    project pages feature <http://pages.github.com/>`_.
+    <https://github.com/ipython/ipython-doc>`_ on GitHub, using the `GitHub
+    project pages feature <https://pages.github.com/>`_.
 
     
 .. _docs_all_releases:

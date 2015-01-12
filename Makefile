@@ -15,7 +15,7 @@ STATIC_CSS  = themes/agogo/static
 # Internal variables.
 ALLSPHINXOPTS   = -d $(BUILDDIR)/doctrees $(SPHINXOPTS) $(SOURCEDIR)
 
-.PHONY: help clean html site linkcheck doctest upload dist
+.PHONY: help clean html site linkcheck doctest gh-pages dist
 
 default: site
 
@@ -24,7 +24,7 @@ help:
 	@echo "  html     : make standalone HTML files"
 	@echo "  linkcheck: check all external links for integrity"
 	@echo "  doctest  : run all doctests embedded in the documentation (if enabled)"
-	@echo "  upload   : push the local site build to its public location"
+	@echo "  gh-pages : push the local site build to its public location"
 	@echo "  dist     : create a tarball (no .git dir) of site"
 
 clean:
