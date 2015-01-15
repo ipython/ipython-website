@@ -111,7 +111,11 @@ if __name__ == '__main__':
 
         sh('git add -A')
         sh('git commit -m"Updated website (automated commit) – %s"' % datetime.datetime.now().strftime("%A, %d. %B %Y %I:%M%p"))
-        sh('git remote add ghpages %s' % ssh_repo)
+        try:
+            sh('git remote add ghpages %s' % ssh_repo)
+        except CalledProcessError:
+            # locally remote will probably exist, 
+            pass
         print()
         print('Most recent 3 commits:')
         sys.stdout.flush()
