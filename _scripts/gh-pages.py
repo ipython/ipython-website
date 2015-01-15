@@ -34,7 +34,7 @@ from subprocess import Popen, PIPE, CalledProcessError, check_call
 pages_dir = 'gh-pages'
 html_dir = '_build/html'
 pages_repo = 'git://github.com/ipython/ipython.github.com.git'
-#pages_repo = 'git@github.com:ipython/ipython.github.com.git'
+ssh_repo = 'git@github.com:ipython/ipython.github.com.git'
 
 #-----------------------------------------------------------------------------
 # Functions
@@ -111,6 +111,7 @@ if __name__ == '__main__':
 
         sh('git add -A')
         sh('git commit -m"Updated website (automated commit) – %s"' % datetime.datetime.now().strftime("%A, %d. %B %Y %I:%M%p"))
+        sh('git remote add ghpages %s' % ssh_repo)
         print()
         print('Most recent 3 commits:')
         sys.stdout.flush()
