@@ -1,0 +1,31 @@
+language: python
+sudo: false
+
+matrix:
+  include:
+    - python: 3.4
+
+install:
+  - pip install sphinx
+
+script:
+  - git config --global user.email "TravisBot@nomail"
+  - git config --global user.name "TravisBot"
+  - git config --global push.default simple
+  - make gh-pages 
+  - true #change for real tests like linkcheck.
+
+after_success:
+  |
+  if [[ $TRAVIS_PULL_REQUEST == false && $TRAVIS_BRANCH == 'master' ]]; then
+    echo "Will build Documentation"
+    # shoudl decrypt ssh key
+    openssl aes-256-cbc -K $encrypted_7d2843e800b0_key -iv $encrypted_7d2843e800b0_iv -in .travis/travis_id_rsa_2048.enc -out .travis/travis_id_rsa_2048 -d
+    eval `ssh-agent -s`
+    chmod 600 .travis/travis_id_rsa_2048
+    ssh-add .travis/travis_id_rsa_2048
+    cd gh-pages
+    git push ghpages
+  else
+    echo "Will only deploy docs build from ipython-website master branch"
+  fi

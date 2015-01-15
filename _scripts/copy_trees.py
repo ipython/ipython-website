@@ -7,7 +7,6 @@
 #-----------------------------------------------------------------------------
 from __future__ import print_function
 
-import __builtin__
 import os
 import sys
 
@@ -19,7 +18,10 @@ from os.path import join as pjoin
 
 # From sphinx conf.py
 sphinx_conf = {}
-execfile('conf.py',{},sphinx_conf)
+
+with open("conf.py") as f:
+    code = compile(f.read(), "conf.py", 'exec')
+    exec(code, {}, sphinx_conf)
 
 # Local
 verbose = False
@@ -46,10 +48,12 @@ top_files = ['links.txt']
 # Functions
 #-----------------------------------------------------------------------------
 
+oldprint = print
+
 def print(*args, **kw):
     verb = kw.pop('verbose', verbose)
     if verb:
-        __builtin__.print(*args, **kw)
+        oldprint(*args, **kw)
 
 
 def keep_filename(f, skip_ext=skip_extensions):

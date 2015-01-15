@@ -1,4 +1,7 @@
 #!/usr/bin/env python
+# -*- coding: utf-8 -*-
+from __future__ import print_function
+
 """Script to commit the doc build outputs into the github-pages repo.
 
 Use:
@@ -17,6 +20,7 @@ something like 'current' as a stable URL for the most current version of the """
 import os
 import re
 import shutil
+import datetime
 import sys
 from os import chdir as cd
 from os.path import join as pjoin
@@ -29,7 +33,8 @@ from subprocess import Popen, PIPE, CalledProcessError, check_call
 
 pages_dir = 'gh-pages'
 html_dir = '_build/html'
-pages_repo = 'git@github.com:ipython/ipython.github.com.git'
+pages_repo = 'git://github.com/ipython/ipython.github.com.git'
+ssh_repo = 'git@github.com:ipython/ipython.github.com.git'
 
 #-----------------------------------------------------------------------------
 # Functions
@@ -67,7 +72,7 @@ def sh3(cmd):
 
 def init_repo(path):
     """clone the gh-pages repo if we haven't already."""
-    sh("git clone %s %s"%(pages_repo, path))
+    sh("git clone %s %s --depth=10"%(pages_repo, path))
     # For an <x>.github.com site, the pages go in master, so we don't need
     # to checkout gh-pages.
 
@@ -97,7 +102,7 @@ if __name__ == '__main__':
 
     try:
         cd(pages_dir)
-        status = sh2('git status | head -1')
+        status = sh2('git status | head -1').decode('utf-8')
         branch = re.search('On branch (.*)$', status).group(1)
         if branch != 'master':
             e = 'On %r, git branch is %r, MUST be "master"' % (pages_dir,
@@ -105,14 +110,19 @@ if __name__ == '__main__':
             raise RuntimeError(e)
 
         sh('git add -A')
-        sh('git commit -m"Updated website (automated commit)"')
-        print
-        print 'Most recent 3 commits:'
+        sh('git commit -m"Updated website (automated commit) – %s"' % datetime.datetime.now().strftime("%A, %d. %B %Y %I:%M%p"))
+        try:
+            sh('git remote add ghpages %s' % ssh_repo)
+        except CalledProcessError:
+            # locally remote will probably exist, 
+            pass
+        print()
+        print('Most recent 3 commits:')
         sys.stdout.flush()
         sh('git --no-pager log --oneline HEAD~3..')
     finally:
         cd(startdir)
 
-    print
-    print 'Now verify the build in: %r' % pages_dir
-    print "If everything looks good, 'git push'"
+    print()
+    print('Now verify the build in: %r' % pages_dir)
+    print("If everything looks good, 'git push'")
