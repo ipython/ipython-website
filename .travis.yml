@@ -25,7 +25,8 @@ after_success:
     chmod 600 .travis/travis_id_rsa_2048
     ssh-add .travis/travis_id_rsa_2048
     cd gh-pages
-    git push ghpages
+    # git push ghpages
+    git push ghpages master:test-deploy
   else
     echo "Will only deploy docs build from ipython-website master branch"
   fi

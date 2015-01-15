@@ -98,7 +98,7 @@ def main():
             print('top-level dirs:', dirs)
             #continue
 
-        files = filter(keep_filename, files)
+        files = list(filter(keep_filename, files))
         print('  dirs:', dirs)
         print('   files:', files)
         # Now, create the list of subdirs and files in the output
