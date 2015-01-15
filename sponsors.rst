@@ -84,7 +84,4 @@ following sources:
   
 - GitHub_ hosts our development workflow and documentation.
 
-- `ShiningPanda <https://www.shiningpanda.com/>`_ gives us a free `continuous
-  integration service <https://jenkins.shiningpanda.com/ipython/>`_.
-
 .. include:: links.txt
