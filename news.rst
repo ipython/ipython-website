@@ -2,6 +2,12 @@
 News
 ====
 
+IPython 2.4
+-----------
+
+IPython 2.4 was released on January 30, 2015. It adds support for the new
+notebook format coming in IPython 3.0, along with fixing bugs in the 2.x series.
+
 IPython 2.3
 -----------
 
