@@ -71,7 +71,7 @@ Announcements
 
 - **Book**: Cyrille Rossant has published the `IPython Interactive Computing and Visualization Cookbook <books.html>`_, an advanced-level guide to IPython for data science, and the sequel of his previous book on IPython. We thank Packt Publishing for donating a portion of the proceeds from this book to support IPython's development.
 
-- **IPython 2.4**: A bugfix and minor featuer release for IPython 2.x, released
+- **IPython 2.4**: A bugfix and minor feature release for IPython 2.x, released
   30th January 2015.
 
 - **IPython 2.0**: We are proud to announce the availability of IPython 2.0,
