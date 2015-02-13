@@ -32,7 +32,9 @@ for scientific computing and data science.
   Anaconda::
 
     conda update conda
-    conda update ipython
+    conda update ipython ipython-notebook ipython-qtconsole
+
+  The last two entries are used to ensure that all the dependencies for the IPython notebook are installed and updated.  If the IPython notebook is not desired, the last two entries can be left off.
 
   Enthought Canopy::
 
