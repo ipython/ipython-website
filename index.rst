@@ -66,6 +66,23 @@ project <citing>`.
 IPython supports Python 2.7 and 3.3 or newer. Our older 1.x series supports
 Python 2.6 and 3.2.
 
+
+Jupyter and the future of IPython
+=================================
+
+IPython is a growing project, with increasingly language-agnostic components.
+IPython 3.0 will be the last monolithic release of IPython,
+containing the notebook server, qtconsole, etc. The language-agnostic parts of the project:
+the notebook format, message protocol, qtconsole, notebook web application, etc.
+will move to new projects under the name Jupyter_.
+IPython itself will return to being focused on interactive Python,
+part of which will be providing a Python kernel for Jupyter.
+IPython 3.0 contains some indications of the project transition,
+including the logo in the notebook web UI being that of Jupyter.
+
+.. _Jupyter: https://jupyter.org
+
+
 Announcements
 =============
 
