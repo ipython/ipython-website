@@ -71,7 +71,7 @@ Jupyter and the future of IPython
 =================================
 
 IPython is a growing project, with increasingly language-agnostic components.
-IPython 3.0 will be the last monolithic release of IPython,
+IPython 3.x will be the last monolithic release of IPython,
 containing the notebook server, qtconsole, etc. The language-agnostic parts of the project:
 the notebook format, message protocol, qtconsole, notebook web application, etc.
 will move to new projects under the name Jupyter_.
@@ -86,16 +86,14 @@ including the logo in the notebook web UI being that of Jupyter.
 Announcements
 =============
 
-- **Book**: Cyrille Rossant has published the `IPython Interactive Computing and Visualization Cookbook <books.html>`_, an advanced-level guide to IPython for data science, and the sequel of his previous book on IPython. We thank Packt Publishing for donating a portion of the proceeds from this book to support IPython's development.
-
-- **IPython 2.4**: A bugfix and minor feature release for IPython 2.x, released
-  30th January 2015.
-
-- **IPython 2.0**: We are proud to announce the availability of IPython 2.0,
-  a major new release including HTML widgets and multi-directory navigation.
+- **IPython 3.0**: We are pleased to announce the availability of IPython 3.0,
+  a major new release featuring integrated support for multiple languages, along
+  with lots of smaller new features and bugfixes.
   `Install <install.html>`__ it now, or read about the changes in
   the `release notes
-  <http://ipython.org/ipython-doc/2/whatsnew/version2.0.html>`__.
+  <http://ipython.org/ipython-doc/3/whatsnew/version3.html>`__.
+
+- **Book**: Cyrille Rossant has published the `IPython Interactive Computing and Visualization Cookbook <books.html>`_, an advanced-level guide to IPython for data science, and the sequel of his previous book on IPython. We thank Packt Publishing for donating a portion of the proceeds from this book to support IPython's development.
 
 - **O'Reilly Book**: `Mining the Social Web <http://MiningTheSocialWeb.com>`_
   is an open source data science project and `book <http://amzn.to/GPd59m>`_
