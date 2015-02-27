@@ -2,6 +2,22 @@
 News
 ====
 
+IPython 3.0
+-----------
+
+IPython 3.0 was released on February 27, 2015. This release integrates support
+for languages other than Python - available kernels are `listed on the wiki
+<https://github.com/ipython/ipython/wiki/IPython-kernels-for-other-languages>`_.
+
+`Install <install.html>`__ it now, or see the
+`release notes <http://ipython.org/ipython-doc/3/whatsnew/version3.html>`__
+for more details.
+
+The 3.x release series will be the last where IPython is released as one big
+package. For 4.0, we will split up components into several packages. The parts
+which work for any language will be called *Jupyter*, while the parts specific
+to executing Python code will remain as *IPython*.
+
 IPython 2.4
 -----------
 
