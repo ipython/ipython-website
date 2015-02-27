@@ -86,6 +86,12 @@ including the logo in the notebook web UI being that of Jupyter.
 Announcements
 =============
 
+- **IPython 3.0**: We are proud to announce the availability of IPython 3.0,
+  a major new release including lots of new stuff, including improved support
+  for languages other than Python.
+  `Install <install.html>`__ it now, or read about the changes in
+  the `release notes
+  <http://ipython.org/ipython-doc/3/whatsnew/version3.html>`__.
 - **Book**: Cyrille Rossant has published the `IPython Interactive Computing and Visualization Cookbook <books.html>`_, an advanced-level guide to IPython for data science, and the sequel of his previous book on IPython. We thank Packt Publishing for donating a portion of the proceeds from this book to support IPython's development.
 
 - **IPython 2.4**: A bugfix and minor feature release for IPython 2.x, released
