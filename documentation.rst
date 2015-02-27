@@ -5,7 +5,7 @@ Documentation
 IPython manual
 --------------
 
-* `Current Stable Version (2.x) <http://ipython.org/ipython-doc/stable/index.html>`_
+* `Current Stable Version (3.x) <http://ipython.org/ipython-doc/stable/index.html>`_
 * `Current Development Version <http://ipython.org/ipython-doc/dev/index.html>`_
 
 You can download IPython documentation for offline use, and for all version of IPython on
@@ -103,6 +103,7 @@ please `provide a citation to IPython <citing.html>`_.
 Docs for all releases
 ---------------------
 
+* `3.x <http://ipython.org/ipython-doc/3/index.html>`__
 * `2.x <http://ipython.org/ipython-doc/2/index.html>`__
 * `1.x <http://ipython.org/ipython-doc/1/index.html>`__
 * `0.13.2 <http://ipython.org/ipython-doc/rel-0.13.2/index.html>`__

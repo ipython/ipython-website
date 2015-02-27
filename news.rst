@@ -2,6 +2,14 @@
 News
 ====
 
+IPython 3.0
+-----------
+
+IPython 3.0 was released on February 27, 2015. It is a major release,
+updating the notebook format, and improving support for non-Python kernels.
+IPython 3.0 marks the beginning of the transition to Jupyter as the name
+for notebook-related projects.
+
 IPython 2.4
 -----------
 
