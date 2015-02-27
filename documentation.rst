@@ -50,10 +50,10 @@ know about it so we can post it here.
   components as they operate in real-time. `This talk
   <http://videolectures.net/mloss08_hill_bcpy/>`_ presented at the 2008 NIPS
   conference shows the system.
-* `Jose Unpingco <http://www.osc.edu/~unpingco>`_ made this really neat
-  `screencast <http://www.osc.edu/~unpingco/Tutorial_11Dec.html>`_ showing how
+* `Jose Unpingco <https://www.linkedin.com/pub/jose-unpingco/1/16/299>`_ made this really neat
+  `screencast <http://showmedo.com/videotutorials/series?name=XCsI4bsup>`_ showing how
   to couple IPython's parallel capabilities with the `Vision
-  <http://mgltools.scripps.edu>`_ environment. Vision is an extremely
+  <http://mgltools.scripps.edu/packages/vision>`_ environment. Vision is an extremely
   impressive visual programming environment developed by `Michel Sanner's
   <http://www.scripps.edu/sanner>`_ team at the Scripps Institute in La Jolla,
   CA.
