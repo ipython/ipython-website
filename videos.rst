@@ -82,7 +82,7 @@ More videos and screencasts
   <http://www.youtube.com/playlist?list=PL7E11B34616530F5E&feature=plcp>`__
   that describe the use of Python as a research tool.  These were made as part
   of a `course at the University of New Hampshire
-  <http://vislab-ccom.unh.edu/~schwehr/Classes/2011/esci895-res­earchtools>`__.
+  <http://vislab-ccom.unh.edu/~schwehr/Classes/2011/esci895-researchtools/>`__.
   The topics covered go beyond IPython, and it's a very cohesive set of
   lectures around the kinds of workflows that IPython was built for.
 
@@ -99,9 +99,7 @@ More videos and screencasts
   (from our own wiki) contains further information on ideas for new
   IPython-related videos.
 * Jose Unpingco has created a set of screencasts on using the Vision/IPython
-  combo for parallel computing. They are available both at the `Ohio
-  Supercomputer Center's user site <https://www.osc.edu/cms/sip/node/17>`_ and
-  at `ShowMeDo <http://showmedo.com/videotutorials/series?name=XCsI4bsup>`__.
+  combo for parallel computing. They are available at `ShowMeDo <http://showmedo.com/videotutorials/series?name=XCsI4bsup>`__.
 * Another `series at ShowMeDo by Jose Unpingco
   <http://showmedo.com/videotutorials/series?name=N49qyIFOh>`__ makes up a
   tutorial on IPython with a focus on scientific computing, which also include
