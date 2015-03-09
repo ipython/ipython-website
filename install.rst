@@ -34,9 +34,6 @@ for scientific computing and data science.
     conda update conda
     conda update ipython ipython-notebook ipython-qtconsole
 
-  The ``ipython-notebook`` entry is used to ensure that all the dependencies for the IPython notebook are installed and updated. 
-  The ``ipython-qtconsole`` entry is used to ensure that all the dependencies for the IPython qtconsole are installed and updated.
-  If either the IPython notebook or the qtconsole is not desired, this entry can be left off.
 
   Enthought Canopy::
 
