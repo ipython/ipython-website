@@ -6,6 +6,7 @@ News
    :title: HyperSpy News
    :link: http://hyperspy.org/
 
+   news/CambridgeWorkshop2015
    news/release_0.7.3
    news/release_0.7.2
    news/new_demos_section
