@@ -113,3 +113,45 @@ More videos and screencasts
 * A set `of 4 videos
   <http://showmedo.com/videos/series?name=PythonIPythonSeries>`_ by Ian Ozsvald
   showing various aspects of IPython. Created 2006.
+
+Chronological List of Talks and Tutorial recording
+==================================================
+
+Talks
+-----
+
+2014
+~~~~
+
+Fernando, PyCon APAC: `<https://www.youtube.com/watch?v=ZD5n9s8PGtI>`_
+Fernando, PyCon: `<https://www.youtube.com/watch?v=2NSbuKFYyvc>`_
+Min, PyData: `<https://www.youtube.com/watch?v=6JL-H2_xDLo>`_
+Thomas & Matthias, EuroSciPy : `<https://www.youtube.com/watch?v=brgMEWT1pYc>`_ 
+
+2013
+~~~~
+Fernando, PyData: `<http://vimeo.com/63250251>`_
+Brian, PyData NYC: `<http://vimeo.com/79832657>`_
+Fernando, SciPy: `<https://www.youtube.com/watch?v=j9YpkSX7NNM>`_
+
+2012
+~~~~
+Min, PyData, `<http://vimeo.com/63262448>`_
+Brian, PyData NYC, Bis `<http://vimeo.com/53056634>`_
+Brian, PyData NYC `<http://vimeo.com/53051817>`_
+
+
+Tutorial
+-------
+
+2014
+~~~
+Min, SciPy: `<http://www.youtube.com/watch?v=y4hgalfhc1Y>`_
+Fernando, Pycon: `<https://www.youtube.com/watch?v=XFw1JVXKJss>`_
+Brian, PyData: `<https://www.youtube.com/watch?v=VaV10VNZCLA>`_
+
+
+2013
+~~~
+Fernando, Pycon `<https://www.youtube.com/watch?v=bP8ydKBCZiY>`_
+
