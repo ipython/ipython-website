@@ -52,8 +52,9 @@ News
    :title: HyperSpy News
    :link: http://hyperspy.org/
 
-   news/CambridgeWorkshop2015
-   news/release_0.7.3
+   news/doi
+   news/release_0.8
+   news/cambridge2015
 
 Citing HyperSpy
 ===============

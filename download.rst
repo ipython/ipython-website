@@ -25,11 +25,12 @@ Windows
 These installers includ e HyperSpy, all the
 required libraries and Mayavi. This is the *recommended installation method* in Windows.
 
-`HyperSpy-0.7.3 beta for Windows 32-bits
-<http://sourceforge.net/projects/hyperspy/files/HyperSpy-0.7.3-Bundle-Windows-32bit.exe/download>`_
+`HyperSpy-0.8 beta for Windows 32-bits
+<http://sourceforge.net/projects/hyperspy/files/HyperSpy-0.8-Bundle-Windows-32bit.exe/download>`_
 
-`HyperSpy-0.7.3 beta for Windows 64-bits
-<http://sourceforge.net/projects/hyperspy/files/HyperSpy-0.7.3-Bundle-Windows-64bit.exe/download>`_
+`HyperSpy-0.8 beta for Windows 64-bits
+<http://sourceforge.net/projects/hyperspy/files/HyperSpy-0.8-Bundle-Windows-64bit.exe/download>`_
+
 
 
 .. NOTE::
@@ -43,7 +44,7 @@ required libraries and Mayavi. This is the *recommended installation method* in 
 .. NOTE::
 
         The bundle installers are customized `Winpython
-        <http://winpython.sourceforge.net/>`_ 2.7.6.4 distributions.
+        <http://winpython.sourceforge.net/>`_ 2.7.9.3 distributions.
 
 .. _python_installers:
  
@@ -59,7 +60,7 @@ download the Python installers from `pypi
 Debian/Ubuntu
 -------------
 
-A Debian package `can be downloaded here 
+A Debian package (of 0.7.3, not the current version) `can be downloaded here 
 <http://sourceforge.net/projects/hyperspy/files/python-hyperspy_0.7.3-1_all.deb/download>`_. 
 It has been tested in Debian Wheezy and Jessie and should work in most Debian based distributions (e.g. Ubuntu, Mint, etc.).
 
