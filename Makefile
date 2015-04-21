@@ -1,4 +1,4 @@
-#h Makefile for building a website using sphinx.
+# Makefile for building a website using sphinx.
 # This Makefile has been heavily modified from the original that
 # sphinx-quickstart automatically creates
 

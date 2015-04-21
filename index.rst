@@ -1,7 +1,7 @@
 IPython provides a rich architecture for interactive computing with:
 
 - Powerful interactive shells (terminal and `Qt-based`_).
-- A browser-based notebook_ with support for code, text, mathematical
+- A browser-based notebook_ with support for code, rich text, mathematical
   expressions, inline plots and other rich media.
 - Support for interactive data visualization and use of `GUI toolkits`_.
 - Flexible, embeddable_ interpreters to load into your own projects.
@@ -10,6 +10,7 @@ IPython provides a rich architecture for interactive computing with:
 .. image:: _static/ipy_0.13.png
     :width: 400px
     :alt: IPython clients
+    :text-align: center
     :target: _static/ipy_0.13.png
 	   
 While the focus of the project is Python, our architecture is designed in a
