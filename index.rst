@@ -10,9 +10,8 @@ IPython provides a rich architecture for interactive computing with:
 .. image:: _static/ipy_0.13.png
     :width: 400px
     :alt: IPython clients
-    :text-align: center
     :target: _static/ipy_0.13.png
-	   
+
 While the focus of the project is Python, our architecture is designed in a
 language-agnostic way to facilitate interactive computing in any language.  An
 interactive kernel speaks to clients such as the terminal or web notebook via a
