@@ -4,10 +4,10 @@
 Download
 ********
 
-.. _beta-releases:
+.. _stable-releases:
 
-Beta Releases
-=============
+Stabel release
+==============
 
 This page contains links to HyperSpy installers for different operating systems.
 These installers should meet the needs of most users.  Advanced installation options are
@@ -25,10 +25,10 @@ Windows
 These installers includ e HyperSpy, all the
 required libraries and Mayavi. This is the *recommended installation method* in Windows.
 
-`HyperSpy-0.8 beta for Windows 32-bits
+`HyperSpy-0.8 for Windows 32-bits
 <http://sourceforge.net/projects/hyperspy/files/HyperSpy-0.8-Bundle-Windows-32bit.exe/download>`_
 
-`HyperSpy-0.8 beta for Windows 64-bits
+`HyperSpy-0.8 for Windows 64-bits
 <http://sourceforge.net/projects/hyperspy/files/HyperSpy-0.8-Bundle-Windows-64bit.exe/download>`_
 
 
