@@ -2,7 +2,7 @@
  Citing IPython
 ================
 
-If IPython been significant to a project that leads to an academic publication,
+If IPython has been significant to a project that leads to an academic publication,
 please acknowledge that fact by citing the project.  As of now, the canonical
 academic reference for IPython is `this paper
 <http://fperez.org/papers/ipython07_pe-gr_cise.pdf>`_, for which here are both
