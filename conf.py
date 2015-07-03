@@ -104,12 +104,12 @@ pygments_style = 'sphinx'
 # Sphinx are currently 'default' and 'sphinxdoc'.
 #html_theme = 'default'
 #html_theme = 'sphinxdoc'
-html_theme = 'agogo'  # inherits from sphinxdoc and modifies it a little
+html_theme = 'responsive_custom'  # inherits from sphinxdoc and modifies it a little
 
 # The style sheet to use for HTML and HTML Help pages. A file of that name
 # must exist either in Sphinx' static/ path, or in one of the custom paths
 # given in html_static_path.
-html_style = 'agogo.css'
+html_style = 'responsive.css'
 
 # Theme options are theme-specific and customize the look and feel of a theme
 # further.  For a list of options available for each theme, see the

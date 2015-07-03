@@ -1,0 +1,78 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>iPython Website</title>
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+{#
+    responsive layout.html
+    ~~~~~~~~~~~~~~~~~
+
+    2014 by the Sphinx team, see AUTHORS.
+    :license: BSD, see LICENSE for details.
+
+    NOTE: carries modifications for IPython.
+#}
+{% extends "basic/layout.html" %}
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+{# IPython-specific block #}
+{% set css_files = css_files + ["_static/ipython.css"] %}
+</head>
+<body>
+<div id="container-content'>
+
+
+{% block header %}
+  <div class="header">
+        {%- block headertitle %}
+
+        {%- if logo %}
+          <div class="logo"><a href="{{ pathto(master_doc) }}">
+            <img class="logo" src="{{ pathto('_static/' + logo, 1) }}" alt="Logo"/>
+          </a></div>
+        {%- endif %}
+       {# <h1><a href="{{ pathto(master_doc) }}">{{ shorttitle|e }}</a></h1> #}
+        {%- endblock %}
+        <nav>
+          <div class="rel">
+            {% include 'navbar.html' %}
+          </div>
+        </nav>
+  </div><!--header-->
+{% endblock %}
+
+
+
+
+{% block content %}
+    <div class="content-wrapper">
+      <div class="content">
+        {%- block sidebar2 %}
+            {# We don't want the logo here #}
+            {%- block sidebarlogo %} {% endblock %}
+            {{ sidebar() }}
+        {% endblock %}
+        <div class="document">
+          <article> 
+            {%- block document %}
+              {{ super() }}
+            {%- endblock %}
+          </article>
+        </div>
+        <div class="clearer"></div>
+      </div><!--content-->
+    </div><!--content-wrapper-->
+{% endblock %}
+
+{% block footer %}
+    <div class="footer-wrapper">
+      {{ super() }}
+    </div>
+{% endblock %}
+
+{% block relbar1 %}{% endblock %}
+
+{% block relbar2 %}{% endblock %}
+
+</div> <!--container-content-->
+</body>
