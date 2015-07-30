@@ -44,7 +44,7 @@ for scientific computing and data science.
 Downloads
 ---------
 
-You can manually download IPython from  `Github
+You can manually download IPython from  `GitHub
 <http://github.com/ipython/ipython/releases>`_ or `PyPI
 <http://pypi.python.org/pypi/ipython>`_.  To install one of these versions, unpack it and run
 the following from the top-level source directory using the Terminal::
