@@ -16,7 +16,7 @@ contains multiple demos of the workflows that IPython enables (`PDF slides
 .. raw:: html
 
    <div align="center"> <iframe title="YouTube video player2" width="550"
-   height="350" src="http://www.youtube.com/embed/F4rFuIb1Ie4" frameborder="0"
+   height="350" src="https://www.youtube.com/embed/F4rFuIb1Ie4" frameborder="0"
    allowfullscreen></iframe></div><br>
 
 
@@ -32,7 +32,7 @@ interface.
 .. raw:: html
 
    <div align="center"> <iframe title="YouTube video player2" width="550"
-   height="350" src="http://www.youtube.com/embed/26wgEsg9Mcc" frameborder="0"
+   height="350" src="https://www.youtube.com/embed/26wgEsg9Mcc" frameborder="0"
    allowfullscreen></iframe></div><br>
 
 
@@ -45,7 +45,7 @@ the Pybonacci_ blog:
 .. raw:: html
 
    <div align="center"> <iframe title="YouTube video player2" width="550"
-   height="350" src="http://www.youtube.com/embed/H6dLGQw9yFQ" frameborder="0"
+   height="350" src="https://www.youtube.com/embed/H6dLGQw9yFQ" frameborder="0"
    allowfullscreen></iframe></div><br>
 
 .. _Pybonacci: http://pybonacci.org.
@@ -60,7 +60,7 @@ on github <https://github.com/ipython/ipython-in-depth>`_).
 .. raw:: html
 
    <div align="center"> <iframe title="YouTube video player2" width="550"
-   height="350" src="http://www.youtube.com/embed/bP8ydKBCZiY" frameborder="0"
+   height="350" src="https://www.youtube.com/embed/bP8ydKBCZiY" frameborder="0"
    allowfullscreen></iframe></div><br>
    
 .. _Fernando Perez: http://fperez.org
@@ -79,7 +79,7 @@ More videos and screencasts
   <http://archive.ipython.org/media/PyCon2012-IPythonTutorial-Notebook.pdf>`_).
 
 * Kurt Schwehr has an `excellent set of videos up on YouTube
-  <http://www.youtube.com/playlist?list=PL7E11B34616530F5E&feature=plcp>`__
+  <https://www.youtube.com/playlist?list=PL7E11B34616530F5E&feature=plcp>`__
   that describe the use of Python as a research tool.  These were made as part
   of a `course at the University of New Hampshire
   <http://vislab-ccom.unh.edu/~schwehr/Classes/2011/esci895-researchtools/>`__.
@@ -87,7 +87,7 @@ More videos and screencasts
   lectures around the kinds of workflows that IPython was built for.
 
 * Brian Granger has a number of screencasts on his `YouTube channel
-  <http://www.youtube.com/user/ellisonbg>`_ about using IPython's parallel
+  <https://www.youtube.com/user/ellisonbg>`_ about using IPython's parallel
   computing capabilities.  These include a number of examples and a guide to
   getting started with IPython and Windows HPC Server 2008. Two of `these
   <http://channel9.msdn.com/shows/The+HPC+Show/Open-source-HPC-code-Episode-11-IPython-Grid-Engine-running-on-Windows-HPC-Server-2008/>`_
