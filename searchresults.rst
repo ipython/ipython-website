@@ -7,7 +7,7 @@ Search results
 .. raw:: html
 
    <div id="cse" style="width: 100%;">Loading</div>
-    <script src="http://www.google.co.uk/jsapi" type="text/javascript"></script>
+    <script src="https://www.google.co.uk/jsapi" type="text/javascript"></script>
     <script type="text/javascript"> 
       function parseQueryFromUrl () {
         var queryParamName = "q";
@@ -33,7 +33,7 @@ Search results
         }
       }, true);
     </script>
-    <link rel="stylesheet" href="http://www.google.com/cse/style/look/default.css" type="text/css" /> <style type="text/css">
+    <link rel="stylesheet" href="https://www.google.com/cse/style/look/default.css" type="text/css" /> <style type="text/css">
       .gsc-control-cse {
         font-family: Arial, sans-serif;
         border-color: #FFFFFF;
