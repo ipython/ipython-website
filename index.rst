@@ -15,7 +15,7 @@ of the dataset.
 Its modular structure makes it easy to add features to analyze different kinds
 of signals. Currently there are specialized tools for electron
 energy-loss spectroscopy (EELS) and energy dispersive X-rays (EDX) data
-analysis. 
+analysis.
 
 Highlights
 ==========
@@ -27,10 +27,10 @@ provides, amongst others:
 * Named and scaled axes.
 * Axes indexing by name.
 * Non-equivalent axes: HyperSpy distinguishes between  *signal* and *navigation*
-  axes. 
-* Iteration over the navigation axes. 
+  axes.
+* Iteration over the navigation axes.
 * Advanced data indexing capabilities including separate indexing for the
-  *signal* and *navigation* axes and data indexing using using axis units.   
+  *signal* and *navigation* axes and data indexing using using axis units.
 * Visualization tools for n-dimensional spectra and images based on matplotlib.
 * Curve fitting.
 * Easy access to machine learning e.g. PCA, ICA...
@@ -40,8 +40,8 @@ provides, amongst others:
   energy-dispersive X-rays (EDX) data analysis.
 
 HyperSpy is released under the GPL v3 license and is actively
-developed and used in research (see 
-`the Bibliography section of the User Guide 
+developed and used in research (see
+`the Bibliography section of the User Guide
 <http://hyperspy.org/hyperspy-doc/current/user_guide/bibliography.html>`_)
 
 News
@@ -52,9 +52,8 @@ News
    :title: HyperSpy News
    :link: http://hyperspy.org/
 
+   news/release_0.8.1
    news/doi
-   news/release_0.8
-   news/cambridge2015
 
 Citing HyperSpy
 ===============
@@ -66,4 +65,3 @@ other projects and fields.
 If HyperSpy contributes to a project that leads to a scientific publication,
 please acknowledge this fact by citing the project. Please, read on `how to
 cite HyperSpy here <http://hyperspy.org/hyperspy-doc/current/citing.html>`_
-
