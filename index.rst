@@ -25,24 +25,18 @@ and therefore it is fully compatible with the scientific Python ecosystem. It
 provides, amongst others:
 
 * Named and scaled axes.
-* Axes indexing by name.
-* Non-equivalent axes: HyperSpy distinguishes between  *signal* and *navigation*
-  axes. 
-* Iteration over the navigation axes. 
-* Advanced data indexing capabilities including separate indexing for the
+* Two *families* of axes: *signal* and *navigation*.
+* Separate indexing for the
   *signal* and *navigation* axes and data indexing using using axis units.   
 * Visualization tools for n-dimensional spectra and images based on matplotlib.
-* Curve fitting.
-* Easy access to machine learning e.g. PCA, ICA...
-* Reading and writing of multidimensional datasets in multiple file formats.
+* Easy access to machine learning and multidimensional curve fitting.
 * Modular design for easy extensibility.
-* Specialized classes for electron-energy loss spectroscopy (EELS) and
-  energy-dispersive X-rays (EDX) data analysis.
 
-HyperSpy is released under the GPL v3 license and is actively
-developed and used in research (see 
-`the Bibliography section of the User Guide 
-<http://hyperspy.org/hyperspy-doc/current/user_guide/bibliography.html>`_)
+The development of HyperSpy has been motivated by the data analysis needs of the
+electron microscopy community. Hence, the feature set is specially strong in this
+domain. However, as the problems addressed are common to many
+disciplines, it is proving useful in many other fields. 
+
 
 News
 ====
