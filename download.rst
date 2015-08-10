@@ -25,11 +25,11 @@ Windows
 These installers includ e HyperSpy, all the
 required libraries and Mayavi. This is the *recommended installation method* in Windows.
 
-`HyperSpy-0.8 for Windows 32-bits
-<https://github.com/hyperspy/hyperspy/releases/download/v0.8/HyperSpy-0.8-Bundle-Windows-32bit.exe>`_
+`HyperSpy-0.8.1 for Windows 32-bits
+<https://github.com/hyperspy/hyperspy/releases/download/v0.8.1/HyperSpy-0.8.1-Bundle-Windows-32bit.exe>`_
 
-`HyperSpy-0.8 for Windows 64-bits
-<https://github.com/hyperspy/hyperspy/releases/download/v0.8/HyperSpy-0.8-Bundle-Windows-64bit.exe>`_
+`HyperSpy-0.8.1 for Windows 64-bits
+<https://github.com/hyperspy/hyperspy/releases/download/v0.8.1/HyperSpy-0.8.1-Bundle-Windows-64bit.exe>`_
 
 
 
@@ -44,7 +44,7 @@ required libraries and Mayavi. This is the *recommended installation method* in 
 .. NOTE::
 
         The bundle installers are customized `Winpython
-        <http://winpython.sourceforge.net/>`_ 2.7.9.3 distributions.
+        <https://winpython.github.io/>`_ 2.7.10.2 distributions.
 
 .. _python_installers:
  
