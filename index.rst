@@ -36,9 +36,8 @@ News
    :title: HyperSpy News
    :link: http://hyperspy.org/
 
+   news/release_0.8.1
    news/doi
-   news/release_0.8
-   news/cambridge2015
 
 Citing HyperSpy
 ===============
@@ -50,4 +49,3 @@ other projects and fields.
 If HyperSpy contributes to a project that leads to a scientific publication,
 please acknowledge this fact by citing the project. Please, read on `how to
 cite HyperSpy here <http://hyperspy.org/hyperspy-doc/current/citing.html>`_
-
