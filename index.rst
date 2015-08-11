@@ -1,48 +1,32 @@
 ================================================
-HyperSpy: multidimensional data analysis toolbox
+HyperSpy: multi-dimensional data analysis toolbox
 ================================================
 
 HyperSpy is an open source Python library which provides tools to facilitate
-the interactive data analysis of multidimensional datasets that can be
-described as multidimensional arrays of a given signal (e.g. a 2D array of
+the interactive data analysis of multi-dimensional datasets that can be
+described as multi-dimensional arrays of a given signal (e.g. a 2D array of
 spectra a.k.a spectrum image).
 
 HyperSpy aims at making it easy and natural to apply analytical procedures that
-operate on an individual signal to multidimensional arrays, as well as
-providing easy access to analytical tools that exploit the multidimensionality
+operate on an individual signal to multi-dimensional arrays, as well as
+providing easy access to analytical tools that exploit the multi-dimensionality
 of the dataset.
 
 Its modular structure makes it easy to add features to analyze different kinds
-of signals. Currently there are specialized tools for electron
-energy-loss spectroscopy (EELS) and energy dispersive X-rays (EDX) data
-analysis.
+of signals.
 
 Highlights
 ==========
 
-HyperSpy  provides tools that operate on numpy arrays without subclassing them
-and therefore it is fully compatible with the scientific Python ecosystem. It
-provides, amongst others:
 
-* Named and scaled axes.
-* Axes indexing by name.
-* Non-equivalent axes: HyperSpy distinguishes between  *signal* and *navigation*
-  axes.
-* Iteration over the navigation axes.
-* Advanced data indexing capabilities including separate indexing for the
-  *signal* and *navigation* axes and data indexing using using axis units.
-* Visualization tools for n-dimensional spectra and images based on matplotlib.
-* Curve fitting.
-* Easy access to machine learning e.g. PCA, ICA...
-* Reading and writing of multidimensional datasets in multiple file formats.
+* Two families of named and scaled axes: *signal* and *navigation*.
+* Visualization tools for multi-dimensional spectra and images.
+* Easy access multi-dimensional curve fitting and blind source separation.
+* Built on top of NumPy, SciPy, matplotlib and scikit-learn.
 * Modular design for easy extensibility.
-* Specialized classes for electron-energy loss spectroscopy (EELS) and
-  energy-dispersive X-rays (EDX) data analysis.
 
-HyperSpy is released under the GPL v3 license and is actively
-developed and used in research (see
-`the Bibliography section of the User Guide
-<http://hyperspy.org/hyperspy-doc/current/user_guide/bibliography.html>`_)
+The development has been motivated by the data analysis needs of the
+electron microscopy community but it is proving useful in many other fields. 
 
 News
 ====
