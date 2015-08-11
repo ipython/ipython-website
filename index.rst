@@ -13,30 +13,20 @@ providing easy access to analytical tools that exploit the multi-dimensionality
 of the dataset.
 
 Its modular structure makes it easy to add features to analyze different kinds
-of signals. Currently there are specialized tools for electron
-energy-loss spectroscopy (EELS) and energy dispersive X-rays (EDX) data
-analysis. 
+of signals.
 
 Highlights
 ==========
 
-HyperSpy  provides tools that operate on numpy arrays without subclassing them
-and therefore it is fully compatible with the scientific Python ecosystem. It
-provides, amongst others:
 
-* Named and scaled axes.
-* Two *families* of axes: *signal* and *navigation*.
-* Separate indexing for the
-  *signal* and *navigation* axes and data indexing using using axis units.   
-* Visualization tools for n-dimensional spectra and images based on matplotlib.
-* Easy access to machine learning and multi-dimensional curve fitting.
+* Two families of named and scaled axes: *signal* and *navigation*.
+* Visualization tools for multi-dimensional spectra and images.
+* Easy access multi-dimensional curve fitting and blind source separation.
+* Built on top of NumPy, SciPy, matplotlib and scikit-learn.
 * Modular design for easy extensibility.
 
-The development of HyperSpy has been motivated by the data analysis needs of the
-electron microscopy community. Hence, the feature set is specially strong in this
-domain. However, as the problems addressed are common to many
-disciplines, it is proving useful in many other fields. 
-
+The development has been motivated by the data analysis needs of the
+electron microscopy community but it is proving useful in many other fields. 
 
 News
 ====
