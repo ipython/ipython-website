@@ -2,7 +2,7 @@ HyperSpy 0.8.1  has been released!
 ==================================
 
 .. feed-entry::
-   :date: 2015-08-11
+   :date: 2015-08-12
 
 We are proud to announce a new maitenance release of HyperSpy.
 
