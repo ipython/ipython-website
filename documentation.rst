@@ -5,8 +5,8 @@ Documentation
 IPython manual
 --------------
 
-* `Current Stable Version (3.x) <http://ipython.org/ipython-doc/stable/index.html>`_
-* `Current Development Version <http://ipython.org/ipython-doc/dev/index.html>`_
+* `Current Stable Version (4.0) <https://ipython.readthedocs.org/en/stable>`_
+* `Current Development Version <https://ipython.readthedocs.org/en/latest>`_
 
 You can download IPython documentation for offline use, and for all version of IPython on
 `GitHub <https://github.com/ipython/ipython-doc/tree/gh-pages>`_.
