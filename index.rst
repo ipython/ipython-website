@@ -1,8 +1,7 @@
 IPython provides a rich architecture for interactive computing with:
 
-- Powerful interactive shells (terminal and `Qt-based`_).
-- A browser-based notebook_ with support for code, rich text, mathematical
-  expressions, inline plots and other rich media.
+- A powerful interactive shell.
+- A kernel for Jupyter_.
 - Support for interactive data visualization and use of `GUI toolkits`_.
 - Flexible, embeddable_ interpreters to load into your own projects.
 - Easy to use, high performance tools for `parallel computing`_.
@@ -11,16 +10,6 @@ IPython provides a rich architecture for interactive computing with:
     :width: 400px
     :alt: IPython clients
     :target: _static/ipy_0.13.png
-
-While the focus of the project is Python, our architecture is designed in a
-language-agnostic way to facilitate interactive computing in any language.  An
-interactive kernel speaks to clients such as the terminal or web notebook via a
-well-specified protocol_, and all features of a kernel are available to all
-clients.  We ship the official IPython kernel, but kernels for other languages
-such as `Julia`_ and `Haskell`_ are actively developed and used.
-Additionally, the IPython kernel supports multi-language
-integration, letting you for example mix Python code with Cython_, R_, Octave_,
-and scripting in `Bash, Perl or Ruby`_.
 
 .. _notebook: notebook.html
 
@@ -46,7 +35,7 @@ and scripting in `Bash, Perl or Ruby`_.
 
 .. _Bash, Perl or Ruby: http://nbviewer.ipython.org/github/ipython/ipython/blob/master/examples/IPython%20Kernel/Script%20Magics.ipynb
 
-To get started with the IPython Notebook, see our `official example
+To get started with IPython in the Jupyter Notebook, see our `official example
 collection`_.  Our `notebook gallery`__ is an excellent way to see the many
 things you can do with IPython while learning about a variety of topics, from
 basic programming to advanced statistics or quantum mechanics.
@@ -71,20 +60,22 @@ Jupyter and the future of IPython
 =================================
 
 IPython is a growing project, with increasingly language-agnostic components.
-IPython 3.x will be the last monolithic release of IPython,
-containing the notebook server, qtconsole, etc. The language-agnostic parts of the project:
+IPython 3.x was the last monolithic release of IPython,
+containing the notebook server, qtconsole, etc.
+As of IPython 4.0, the language-agnostic parts of the project:
 the notebook format, message protocol, qtconsole, notebook web application, etc.
-will move to new projects under the name Jupyter_.
-IPython itself will return to being focused on interactive Python,
-part of which will be providing a Python kernel for Jupyter.
-IPython 3.0 contains some indications of the project transition,
-including the logo in the notebook web UI being that of Jupyter.
+have moved to new projects under the name Jupyter_.
+IPython itself is focused on interactive Python,
+part of which is providing a Python kernel for Jupyter.
 
 .. _Jupyter: https://jupyter.org
 
 
 Announcements
 =============
+
+- **IPython 4.0**: We are pleased to announce the availability of IPython 4.0,
+  aka The Big Split, splitting the monolithic IPython repo into smaller subpackages.
 
 - **IPython 3.0**: We are pleased to announce the availability of IPython 3.0,
   a major new release featuring integrated support for multiple languages, along
