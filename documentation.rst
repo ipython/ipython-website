@@ -7,7 +7,7 @@ Current Documentation
 
 IPython is developed as a set of Subprojects under the larger Project Jupyter umbrella. The documentation of each Subproject is now being hosted on `Read the Docs <https://readthedocs.org/>`_:
 
-`Main Documentation Site for Jupyter and IPython <http://jupyter.readthedocs.org/en/latest/>`_
+`Main Documentation Site for Jupyter and IPython <https://jupyter.readthedocs.org/en/latest/>`_
 
 This website includes the documentation for the Jupyter Notebook as well as the IPython kernel
 and other related projects.
