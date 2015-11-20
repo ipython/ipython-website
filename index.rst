@@ -74,6 +74,9 @@ part of which is providing a Python kernel for Jupyter.
 Announcements
 =============
 
+- **IPython/Jupyter is hiring postdocs**: the project has `two
+  postdoctoral positions open at UC Berkeley <http://blog.jupyter.org/2015/11/19/project-jupyter-is-hiring-two-postdoctoral-fellows-uc-berkeley>`_. 
+
 - **IPython 4.0**: We are pleased to announce the availability of IPython 4.0,
   aka The Big Split, splitting the monolithic IPython repo into smaller subpackages.
 
