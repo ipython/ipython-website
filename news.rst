@@ -2,6 +2,16 @@
 News
 ====
 
+New edition of the IPython minibook
+-----------------------------------
+
+On October 25 2015, Cyrille Rossant published the second edition of the IPython minibook:
+`Learning IPython for Interactive Computing and Data Visualization
+<https://www.packtpub.com/big-data-and-business-intelligence/learning-ipython-interactive-computing-and-data-visualization-sec>`_,
+for which `Damian Avila <https://github.com/damianavila>`_ was a technical
+reviewer. We thank Packt Publishing for donating a portion of the proceeds
+from this book to support IPython's development.
+
 IPython 3.0
 -----------
 
@@ -35,9 +45,9 @@ rendering in notebooks exported to HTML by nbconvert. It was released on October
 Release of the IPython Cookbook
 -------------------------------
 
-On September 25 2014, Cyrille Rossant published the 
+On September 25 2014, Cyrille Rossant published the
 `IPython Interactive Computing and Visualization Cookbook <books.html>`_,
-an advanced-level guide to IPython for data science, 
+an advanced-level guide to IPython for data science,
 and the sequel of his previous book on IPython.
 We thank Packt Publishing for donating a portion of the proceeds from
 this book to support IPython's development.
@@ -117,7 +127,7 @@ about IPython
 <http://pyvideo.org/video/1652/ipython-in-depth-high-productivity-interactive-a-0>`_.  It covers IPython's architecture and hands-on examples on customization,
 embedding, effective uses of the various applications, the architecture of the
 web notebook and how to use IPython for parallel and distributed computing.
-  
+
 IPython 0.13.2
 --------------
 
@@ -323,7 +333,7 @@ IPython 0.8.3
 IPython 0.8.3 was released. See `what's new <whatsnew083.html>`__.
 
 IPython1 and the Scripps Institute's Vision
-------------------------------------------- 
+-------------------------------------------
 
 `Jose Unpingco <http://www.osc.edu/~unpingco>`__ made this really neat
 `screencast <http://www.osc.edu/~unpingco/Tutorial_11Dec.html>`__ showing how to

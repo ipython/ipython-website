@@ -74,8 +74,15 @@ part of which is providing a Python kernel for Jupyter.
 Announcements
 =============
 
+- **Book**: Cyrille Rossant has published the second edition of the IPython minibook:
+  `Learning IPython for Interactive Computing and Data Visualization
+  <books.html>`_,
+  for which `Damian Avila <https://github.com/damianavila>`_ was a technical
+  reviewer. We thank Packt Publishing for donating a portion of the proceeds
+  from this book to support IPython's development.
+
 - **IPython/Jupyter is hiring postdocs**: the project has `two
-  postdoctoral positions open at UC Berkeley <http://blog.jupyter.org/2015/11/19/project-jupyter-is-hiring-two-postdoctoral-fellows-uc-berkeley>`_. 
+  postdoctoral positions open at UC Berkeley <http://blog.jupyter.org/2015/11/19/project-jupyter-is-hiring-two-postdoctoral-fellows-uc-berkeley>`_.
 
 - **IPython 4.0**: We are pleased to announce the availability of IPython 4.0,
   aka The Big Split, splitting the monolithic IPython repo into smaller subpackages.
@@ -102,7 +109,7 @@ Announcements
 - **Microsoft donates $100,000 to IPython**: in August 2013, Microsoft
   `contributed $100,000 <microsoft-donation-2013.html>`_ to support the
   continued development of IPython.
-  
+
 - **Book**: Cyrille Rossant has published the first IPython-focused book:
   `Learning IPython for Interactive Computing and Data Visualization
   <books.html>`_,
@@ -134,7 +141,7 @@ Announcements
 `More news... <news.html>`_
 
 .. _citing:
-   
+
 Citing IPython
 ==============
 

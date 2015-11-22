@@ -16,7 +16,7 @@ IPython Cookbook
 * Packt Publishing
 * September 25 2014
 
-This is an advanced-level guide to IPython for data science, and the sequel of 
+This is an advanced-level guide to IPython for data science, and the sequel of
 the IPython minibook.
 
 IPython Minibook
@@ -29,9 +29,8 @@ IPython Minibook
 
 * `Learning IPython for Interactive Computing and Data Visualization <http://ipython-books.github.io/minibook/>`_
 * by `Cyrille Rossant <http://cyrille.rossant.net>`_
-* 134 pages
+* 175 pages
 * Packt Publishing
-* April 25 2013
+* October 25 2015
 
-This is a beginner-level introduction to IPython for data analysis and numerical computing,
-covering NumPy, pandas, SciPy, and matplotlib.
+This book is a beginner-level introduction to Python for data analysis, covering IPython, the Jupyter Notebook, pandas, NumPy, matplotlib, and many other libraries. There is an introduction to the Python programming language for complete beginners. There are also contents for more advanced users, like parallel computing with IPython and high-performance computing with Numba and Cython.
