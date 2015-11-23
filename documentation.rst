@@ -12,11 +12,11 @@ being hosted using the `Read the Docs <https://readthedocs.org/>`_ service:
 * `IPython <http://ipython.readthedocs.org/en/stable/>`_: documentation for the
   IPython kernel.
 
-* `ipyparallel Documentation <http://ipyparallel.readthedocs.org/en/latest>`_
+* `ipyparallel Documentation <http://ipyparallel.readthedocs.org/en/stable>`_
   (formerly `IPython.Parallel` sub-package of IPython, now standalone).
 
 * `Main Documentation Site for Jupyter and IPython
-   <https://jupyter.readthedocs.org/en/latest/>`_: umbrella site with
+   <https://jupyter.readthedocs.org/en/latest>`_: umbrella site with
    documentation for all the Jupyter projects, including links to the IPython
    docs.
 
