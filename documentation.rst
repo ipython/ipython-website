@@ -16,9 +16,9 @@ being hosted using the `Read the Docs <https://readthedocs.org/>`_ service:
   (formerly `IPython.Parallel` sub-package of IPython, now standalone).
 
 * `Main Documentation Site for Jupyter and IPython
-   <https://jupyter.readthedocs.org/en/latest>`_: umbrella site with
-   documentation for all the Jupyter projects, including links to the IPython
-   docs.
+  <https://jupyter.readthedocs.org/en/latest>`_: umbrella site with
+  documentation for all the Jupyter projects, including links to the IPython
+  docs.
 
 .. _docs_all_releases:
     
