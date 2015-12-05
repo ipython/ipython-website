@@ -71,7 +71,7 @@ Notebook documents
 
 Notebook documents (or notebooks) are files which record all computations
 carried out and the results obtained in a literate way, including inputs,
-outputs, toegether with descriptive text and mathematics.
+outputs, together with descriptive text and mathematics.
 
 They are plain text files, which are thus easy to share with colleagues and
 place under version control. But, by using the JSON format, they can record
