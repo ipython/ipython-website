@@ -6,7 +6,7 @@ New edition of the IPython minibook
 -----------------------------------
 
 On October 25 2015, Cyrille Rossant published the second edition of the IPython minibook:
-`Learning IPython for Interactive Computing and Data Visualization
+`Learning IPython for Interactive Computing and Data Visualization 2nd Ed.
 <https://www.packtpub.com/big-data-and-business-intelligence/learning-ipython-interactive-computing-and-data-visualization-sec>`_,
 for which `Damian Avila <https://github.com/damianavila>`_ was a technical
 reviewer. We thank Packt Publishing for donating a portion of the proceeds
@@ -15,14 +15,14 @@ from this book to support IPython's development.
 IPython 4.0
 -----------
 
-IPython 4.0 was release on August 11, 2015. This release correspond to the
+IPython 4.0 was released on August 11, 2015. This release corresponds to the
 separation of IPython (as of 3.x) into multiple components, most of which are
-now under the Jupyter organisation. See `the jupyter blog post
-<https://blog.jupyter.org/2015/04/15/the-big-split/`_ for further explanations.
+now under the Jupyter organisation. See `the Jupyter blog post
+<https://blog.jupyter.org/2015/04/15/the-big-split/>`_ for further explanation.
 
-IPython 4.0 contain only the codebase for the features of IPython terminal
-itself. Extra shims and warning have been added to ease the transition of
-currently existing code from IPython 3.x to the new various new packages
+IPython 4.0 contains only the codebase for the features of IPython terminal
+itself. Extra shims and warnings have been added to ease the transition of
+currently existing code from IPython 3.x to the various new packages
 (`ipyparallel`, `notebook`, `ipywidget`, `nbconvert`,...)
 
 IPython 3.0
