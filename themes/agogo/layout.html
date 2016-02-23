@@ -21,7 +21,7 @@
     function open_window(cause_id) {
       var protocol=String(document.location.protocol);
       var new_url;
-      if( /Android|webOS|iPhone|iPad|iPod|BlackBerry|IEMobile|Opera Mini/i.test(navigator.userAgent)){
+      if(protocol != 'https' || /Android|webOS|iPhone|iPad|iPod|BlackBerry|IEMobile|Opera Mini/i.test(navigator.userAgent)){
         new_url="https://www.flipcause.com/widget/"+cause_id
         window.open(new_url);
       }
