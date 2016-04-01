@@ -1,7 +1,7 @@
 .. _notebook:
    
 ======================  
-The IPython/Jupyter Notebook 
+The Jupyter Notebook (formerly known as IPython notebook)
 ======================
 
 The IPython Notebook is now known as the Jupyter Notebook. It is an interactive
