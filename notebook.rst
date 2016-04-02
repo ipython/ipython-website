@@ -1,8 +1,10 @@
 .. _notebook:
    
-======================  
-The Jupyter Notebook (formerly known as IPython notebook)
-======================
+The Jupyter Notebook
+====================
+
+(Formerly known as the IPython Notebook)
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 The IPython Notebook is now known as the Jupyter Notebook. It is an interactive
 computational environment, in which you can combine code execution, rich text,
