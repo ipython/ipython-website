@@ -12,6 +12,14 @@ for which `Damian Avila <https://github.com/damianavila>`_ was a technical
 reviewer. We thank Packt Publishing for donating a portion of the proceeds
 from this book to support IPython's development.
 
+IPython 5.0
+-----------
+
+IPython 5.0 was released on July 7th, 2015. This release is the
+last major release that will support Python 2. See longer announce on the
+`Jupyter Blog <http://blog.jupyter.org/2016/07/08/ipython-5-0-released/>`_. 
+
+
 IPython 4.0
 -----------
 
