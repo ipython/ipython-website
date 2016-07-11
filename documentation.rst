@@ -7,16 +7,16 @@ Current Documentation
 
 IPython is developed as a set of Subprojects under the larger `Project Jupyter
 <http://jupyter.org>`_ umbrella. The documentation of each Subproject is now
-being hosted using the `Read the Docs <https://readthedocs.org/>`_ service:
+being hosted using the `Read the Docs <https://readthedocs.io/>`_ service:
 
-* `IPython <http://ipython.readthedocs.org/en/stable/>`_: documentation for the
+* `IPython <http://ipython.readthedocs.io/en/stable/>`_: documentation for the
   IPython kernel.
 
-* `ipyparallel Documentation <http://ipyparallel.readthedocs.org/en/stable>`_
+* `ipyparallel Documentation <http://ipyparallel.readthedocs.io/en/stable>`_
   (formerly `IPython.Parallel` sub-package of IPython, now standalone).
 
 * `Main Documentation Site for Jupyter and IPython
-  <https://jupyter.readthedocs.org/en/latest>`_: umbrella site with
+  <https://jupyter.readthedocs.io/en/latest>`_: umbrella site with
   documentation for all the Jupyter projects, including links to the IPython
   docs.
 

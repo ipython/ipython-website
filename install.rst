@@ -4,11 +4,11 @@ Installing IPython
 
 There are multiple ways of installing IPython. This page contains simplified installation
 instructions that should work for most users. Our official documentation
-contains `more detailed instructions <https://ipython.readthedocs.org/en/stable/install/install.html>`_
+contains `more detailed instructions <https://ipython.readthedocs.io/en/stable/install/install.html>`_
 for manual installation targeted at advanced users and developers.
 
 If you are looking for installation documentation for the notebook and/or qtconsole,
-those are now part of `Jupyter <https://jupyter.readthedocs.org/en/latest/install.html>`__.
+those are now part of `Jupyter <https://jupyter.readthedocs.io/en/latest/install.html>`__.
 
 I already have Python
 ---------------------
