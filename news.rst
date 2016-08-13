@@ -2,6 +2,13 @@
 News
 ====
 
+IPython 5.1
+-----------
+
+IPython 5.1 was released on August 13th, 2016. This is primarily a bugfix
+release, with some small new features. See the `release notes <http://ipython.readthedocs.io/en/stable/whatsnew/version5.html#ipython-5-1>`__
+for more details.
+
 New edition of the IPython minibook
 -----------------------------------
 
