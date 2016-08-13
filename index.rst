@@ -28,8 +28,8 @@ basic programming to advanced statistics or quantum mechanics.
 
 .. __: https://github.com/ipython/ipython/wiki/A-gallery-of-interesting-IPython-Notebooks
 
-To learn more about IPython, you can watch our :ref:`videos and screencasts
-<videos>`, download our `talks and presentations <presentation.html>`_, or read
+To learn more about IPython, you can download our :doc:`talks and presentations
+<presentation>`, or read
 our `extensive documentation <documentation.html>`_.  IPython is open source
 (BSD license), and is used by a range of `other projects
 <https://github.com/ipython/ipython/wiki/Projects-using-IPython>`_; add your project to that
@@ -108,6 +108,7 @@ please acknowledge this fact by citing the project. You can use this
 .. toctree::
    :hidden:
 
+   books
    citing
    documentation
    donate
@@ -117,15 +118,14 @@ please acknowledge this fact by citing the project. You can use this
    news
    notebook
    presentation
+   project
    pyreadline
    roadmap-announcement
    searchresults
-   showmedo
+   security
    sloan-grant
-   sponsors
    usersurvey2011
    usersurvey2013
-   videos
    whatsnew082
    whatsnew083
 
