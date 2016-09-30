@@ -2,28 +2,36 @@
 Documentation
 =============
 
-Current Documentation
----------------------
+`IPython documentation <http://ipython.readthedocs.io/>`__ is now hosted on the
+*Read the Docs* service.
 
-IPython is developed as a set of Subprojects under the larger `Project Jupyter
-<http://jupyter.org>`_ umbrella. The documentation of each Subproject is now
-being hosted using the `Read the Docs <https://readthedocs.io/>`_ service:
+Other pieces
+------------
 
-* `IPython <http://ipython.readthedocs.io/en/stable/>`_: documentation for the
-  IPython kernel.
+Many pieces which were previously part of IPython were split out in version 4,
+and now have their own documentation.
 
-* `ipyparallel Documentation <http://ipyparallel.readthedocs.io/en/stable>`_
-  (formerly `IPython.Parallel` sub-package of IPython, now standalone).
+* `Jupyter <https://jupyter.readthedocs.io/en/latest>`_ includes:
 
-* `Main Documentation Site for Jupyter and IPython
-  <https://jupyter.readthedocs.io/en/latest>`_: umbrella site with
-  documentation for all the Jupyter projects, including links to the IPython
-  docs.
+  - The `Jupyter notebook <http://jupyter-notebook.readthedocs.io/en/latest/>`__
+    and `notebook file format <http://nbformat.readthedocs.io/en/latest/format_description.html>`__
+  - The `Jupyter Qt console <http://qtconsole.readthedocs.io/en/latest/>`__
+  - The `kernel messaging protocol <http://jupyter-client.readthedocs.io/en/latest/messaging.html>`__
+  - Many other components
+
+* `ipyparallel <http://ipyparallel.readthedocs.io/en/stable>`_
+  (formerly ``IPython.parallel``)
+* `ipykernel <http://ipykernel.readthedocs.io/en/latest/>`__ (minimal docs, only
+  release notes for the ipykernel package)
+* `ipywidgets <http://ipywidgets.readthedocs.io/en/latest/>`__
+  (formerly ``IPython.html.widgets``)
+* `Traitlets <http://traitlets.readthedocs.io/en/stable/>`__,
+  the config system used by IPython and Jupyter
 
 .. _docs_all_releases:
     
-Documentation for previous releases
------------------------------------
+Documentation for older releases
+--------------------------------
 
 * `3.x <http://ipython.org/ipython-doc/3/index.html>`__
 * `2.x <http://ipython.org/ipython-doc/2/index.html>`__

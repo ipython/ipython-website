@@ -13,27 +13,11 @@ IPython provides a rich architecture for interactive computing with:
 
 .. _notebook: notebook.html
 
-.. _qt-based: http://ipython.org/ipython-doc/stable/interactive/qtconsole.html
-
 .. _gui toolkits: http://ipython.org/ipython-doc/stable/interactive/reference.html#gui-event-loop-support
 
 .. _embeddable: http://ipython.org/ipython-doc/stable/interactive/reference.html#embedding-ipython
 
-.. _protocol: http://ipython.org/ipython-doc/stable/development/messaging.html
-
-.. _parallel computing: http://ipython.org/ipython-doc/stable/parallel/parallel_intro.html
-
-.. _Julia: https://github.com/JuliaLang/IJulia.jl
-
-.. _Haskell: https://github.com/gibiansky/IHaskell
-
-.. _cython: http://docs.cython.org/src/quickstart/build.html#using-the-ipython-notebook
-
-.. _R: http://rpy.sourceforge.net/rpy2/doc-2.4/html/interactive.html#module-rpy2.ipython.rmagic
-
-.. _Octave: http://nbviewer.ipython.org/github/blink1073/oct2py/blob/master/example/octavemagic_extension.ipynb
-
-.. _Bash, Perl or Ruby: http://nbviewer.ipython.org/github/ipython/ipython/blob/master/examples/IPython%20Kernel/Script%20Magics.ipynb
+.. _parallel computing: https://ipyparallel.readthedocs.io/en/latest/
 
 To get started with IPython in the Jupyter Notebook, see our `official example
 collection`_.  Our `notebook gallery`__ is an excellent way to see the many
@@ -44,8 +28,8 @@ basic programming to advanced statistics or quantum mechanics.
 
 .. __: https://github.com/ipython/ipython/wiki/A-gallery-of-interesting-IPython-Notebooks
 
-To learn more about IPython, you can watch our :ref:`videos and screencasts
-<videos>`, download our `talks and presentations <presentation.html>`_, or read
+To learn more about IPython, you can download our :doc:`talks and presentations
+<presentation>`, or read
 our `extensive documentation <documentation.html>`_.  IPython is open source
 (BSD license), and is used by a range of `other projects
 <https://github.com/ipython/ipython/wiki/Projects-using-IPython>`_; add your project to that
@@ -74,6 +58,12 @@ part of which is providing a Python kernel for Jupyter.
 Announcements
 =============
 
+- **IPython 5.0**: The release of IPython 5.0 brings a major revision of the
+  terminal interface, including syntax highlighting as you type and better
+  multiline editing, thanks to the ``prompt_toolkit`` library. See the
+  `release notes <http://ipython.readthedocs.io/en/stable/whatsnew/version5.html#ipython-5-0>`__
+  for more about the new features.
+
 - **Book**: Cyrille Rossant has published the second edition of the IPython minibook:
   `Learning IPython for Interactive Computing and Data Visualization
   <books.html>`_,
@@ -81,20 +71,14 @@ Announcements
   reviewer. We thank Packt Publishing for donating a portion of the proceeds
   from this book to support IPython's development.
 
-- **IPython/Jupyter is hiring postdocs**: the project has `two
-  postdoctoral positions open at UC Berkeley <http://blog.jupyter.org/2015/11/19/project-jupyter-is-hiring-two-postdoctoral-fellows-uc-berkeley>`_.
-
 - **IPython 4.0**: We are pleased to announce the availability of IPython 4.0,
   aka The Big Split, splitting the monolithic IPython repo into smaller subpackages.
 
-- **IPython 3.0**: We are pleased to announce the availability of IPython 3.0,
-  a major new release featuring integrated support for multiple languages, along
-  with lots of smaller new features and bugfixes.
-  `Install <install.html>`__ it now, or read about the changes in
-  the `release notes
-  <http://ipython.org/ipython-doc/3/whatsnew/version3.html>`__.
-
-- **Book**: Cyrille Rossant has published the `IPython Interactive Computing and Visualization Cookbook <books.html>`_, an advanced-level guide to IPython for data science, and the sequel of his previous book on IPython. We thank Packt Publishing for donating a portion of the proceeds from this book to support IPython's development.
+- **Book**: Cyrille Rossant has published the `IPython Interactive Computing and
+  Visualization Cookbook <books.html>`_, an advanced-level guide to IPython for
+  data science, and the sequel of his previous book on IPython. We thank Packt
+  Publishing for donating a portion of the proceeds from this book to support
+  IPython's development.
 
 - **O'Reilly Book**: `Mining the Social Web <http://MiningTheSocialWeb.com>`_
   is an open source data science project and `book <http://amzn.to/GPd59m>`_
@@ -104,39 +88,6 @@ Announcements
   <http://bit.ly/MiningTheSocialWeb2E>`_ on IPython's Notebook Viewer `here
   <http://nbviewer.ipython.org/github/ptwobrussell/Mining-the-Social-Web-2nd-E
   dition/tree/master/ipynb/>`_.
-
-
-- **Microsoft donates $100,000 to IPython**: in August 2013, Microsoft
-  `contributed $100,000 <microsoft-donation-2013.html>`_ to support the
-  continued development of IPython.
-
-- **Book**: Cyrille Rossant has published the first IPython-focused book:
-  `Learning IPython for Interactive Computing and Data Visualization
-  <books.html>`_,
-  for which `Matthias Bussonnier <https://github.com/Carreau>`_ was a technical
-  reviewer. We thank Packt Publishing for donating a portion of the proceeds
-  from this book to support IPython's development.
-
-- **FSF Award**: Fernando Perez was awarded the `2012 Award for the Advancement
-  of Free Software
-  <http://www.fsf.org/news/2012-free-software-award-winners-announced-2>`__ for
-  the creation of IPython and his work in the Scientific Python community.
-  `More
-  details <http://vcresearch.berkeley.edu/news/wresting-new-tricks-python-fernando-perez-wins-2012-award-advancement-free-software>`_.
-
-- **Roadmap to 1.0 and beyond**: IPython 1.0 is coming mid-July 2013. See the
-  `grant <sloan-grant.html>`_ which is funding the bulk of the work, as well as
-  our roadmap_ for achieving the grant's objectives.  `Read on for more details
-  <roadmap-announcement.html>`_.
-
-- **Sloan Foundation grant**: IPython has been awarded a $1.15 million grant
-  from the `Alfred P. Sloan Foundation`_. This will
-  support several core developers, allowing them to focus on building the
-  IPython Notebook into a tool for open, collaborative, reproducible scientific
-  computing. We'll also be bringing developers together for two sprints each
-  year in California.  `See more details. <sloan-grant.html>`_
-
-.. _roadmap: https://github.com/ipython/ipython/wiki/Roadmap:-IPython
 
 `More news... <news.html>`_
 
@@ -157,6 +108,7 @@ please acknowledge this fact by citing the project. You can use this
 .. toctree::
    :hidden:
 
+   books
    citing
    documentation
    donate
@@ -166,15 +118,14 @@ please acknowledge this fact by citing the project. You can use this
    news
    notebook
    presentation
+   project
    pyreadline
    roadmap-announcement
    searchresults
-   showmedo
+   security
    sloan-grant
-   sponsors
    usersurvey2011
    usersurvey2013
-   videos
    whatsnew082
    whatsnew083
 
