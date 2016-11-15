@@ -9,6 +9,14 @@ IPython 5.1 was released on August 13th, 2016. This is primarily a bugfix
 release, with some small new features. See the `release notes <http://ipython.readthedocs.io/en/stable/whatsnew/version5.html#ipython-5-1>`__
 for more details.
 
+IPython 5.0
+-----------
+
+IPython 5.0 was released on July 7th, 2016. This release is the
+last major release that will support Python 2. See longer announce on the
+`Jupyter Blog <http://blog.jupyter.org/2016/07/08/ipython-5-0-released/>`_. 
+
+
 New edition of the IPython minibook
 -----------------------------------
 
@@ -18,14 +26,6 @@ On October 25 2015, Cyrille Rossant published the second edition of the IPython 
 for which `Damian Avila <https://github.com/damianavila>`_ was a technical
 reviewer. We thank Packt Publishing for donating a portion of the proceeds
 from this book to support IPython's development.
-
-IPython 5.0
------------
-
-IPython 5.0 was released on July 7th, 2015. This release is the
-last major release that will support Python 2. See longer announce on the
-`Jupyter Blog <http://blog.jupyter.org/2016/07/08/ipython-5-0-released/>`_. 
-
 
 IPython 4.0
 -----------
