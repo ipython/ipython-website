@@ -2,6 +2,34 @@
 Books
 =====
 
+Mastering IPython 4.0
+---------------------
+
+.. image:: _static/mastering_ipython_40.png
+    :width: 200px
+    :alt: Cover of "Mastering IPtyhon 4.9"
+    :target: _static/mastering_ipython_40.png
+
+* `Mastering IPython 4.0 <https://www.packtpub.com/big-data-and-business-intelligence/mastering-ipython-40>`_
+* by Thomas Bitterman
+* Packt Publishing
+* Code Available under MIT Liscence `on GitHub PacktPublishing Organisation <https://github.com/PacktPublishing/Mastering-IPython-4>`_
+* Published May 2016
+
+This book will get IPython developers up to date with the latest advancements
+in IPython and dive deep into interactive computing with IPython. This an
+advanced guide on interactive and parallel computing with IPython will explore
+advanced visualizations and high-performance computing with IPython in detail.
+
+You will quickly brush up your knowledge of IPython kernels and wrapper
+kernels, then we'll move to advanced concepts such as testing, Sphinx, JS
+events, interactive work, and the ZMQ cluster. The book will cover topics such
+as IPython Console Lexer, advanced configuration, and third-party tools.
+
+By the end of this book, you will be able to use IPython for interactive and
+parallel computing in a high-performance computing environment.
+
+
 IPython Cookbook
 ----------------
 
