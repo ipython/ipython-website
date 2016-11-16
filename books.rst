@@ -46,10 +46,9 @@ against `The IPython website repository page
 <https://github.com/ipython/ipython-website/blob/master/books.rst>`_. You can
 also directly contact us in order to do that for you.
 
-We recommend that all the code included in the book to be also liberally
-licensed, for example CC-0, and require a non-copyleft (or at least
-OSI-approved) license for the entirety of the code examples and snippets
-available in the publications.
+A requirement for a book to be listed on this page is that all the code
+examples included in the book are licensed under an OSI-approved license.
+Besides, we recommend non-copyleft license such as CC-0.
 
 We reserve the right to refuse or remove any publication at our discretion.
 
