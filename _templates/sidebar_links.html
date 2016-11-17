@@ -63,11 +63,12 @@ style="margin-bottom: 10px;"></a>
   window.onload = function() {
     var x = Math.random();
     var img;
-    if (x < 0.333) {
+    if (x < 0.167) {
       url = "_static/ipython-book.jpg";
-    }
-    else {
+    } else if (x < 0.5) {
       url = "_static/ipython-cookbook.jpg";
+    } else {
+        url = "_static/mastering-ipython-book.png";
     }
     $("#sidebar-book-cover").attr("src", url);
   }
