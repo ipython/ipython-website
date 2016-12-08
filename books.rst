@@ -2,6 +2,38 @@
 Books
 =====
 
+Learning Jupyter
+----------------
+
+.. image:: _static/learning-jupyter-book.png
+    :width: 200px
+    :alt: Learning Jupyter
+    :target: _static/learning-jupyter-book.png
+
+* `Learning Jupyter <https://www.packtpub.com/big-data-and-business-intelligence/learning-jupyter>`_
+* By Dan Toomey
+* 238 Pages
+* Packt Publishing
+* November 2016
+
+
+Jupyter Notebook is a web-based environment that enables interactive computing
+in notebook documents. It allows you to create and share documents that contain
+live code, equations, visualizations, and explanatory text. The Jupyter
+Notebook system is extensively used in domains such as data cleaning and
+transformation, numerical simulation, statistical modeling, machine learning,
+and much more.
+
+This book starts with a detailed overview of the Jupyter Notebook system and
+its installation in different environments. Next we’ll help you will learn to
+integrate Jupyter system with different programming languages such as R,
+Python, JavaScript, and Julia and explore the various versions and packages
+that are compatible with the Notebook system. Moving ahead, you master
+interactive widgets, namespaces, and working with Jupyter in a multiuser mode.
+
+Towards the end, you will use Jupyter with a big data set and will apply all
+the functionalities learned throughout the book.
+
 
 Mastering IPython 4.0
 ---------------------

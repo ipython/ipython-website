@@ -60,18 +60,28 @@ title="Packt Publishing donates a portion of the proceeds from this book to
 support IPython's development." width="160" height="200" id="sidebar-book-cover"
 style="margin-bottom: 10px;"></a>
 <script language="javascript">
-  window.onload = function() {
-    var x = Math.random();
-    var img;
-    if (x < 0.167) {
-      url = "_static/ipython-book.jpg";
-    } else if (x < 0.5) {
-      url = "_static/ipython-cookbook.jpg";
-    } else {
-        url = "_static/mastering-ipython-book.png";
-    }
-    $("#sidebar-book-cover").attr("src", url);
+  // most recent at the end 
+  var urls = [
+      "_static/ipython-book.jpg",
+      "_static/ipython-cookbook.jpg",
+      "_static/learning-jupyter-book.png",
+      "_static/mastering-ipython-book.png",
+  ]
+
+  function pick(){
+    var len = urls.length;
+    var num = Math.floor(Math.sqrt(Math.random()*len*len));
+    return urls[num];
   }
+
+  function repick(){
+    $("#sidebar-book-cover").attr("src", pick());
+  }
+  
+  window.onload = repick ;
+
+  var seconds = 1000;
+  setInterval(repick, 60*seconds)
 </script>
 
 </div>
