@@ -1,6 +1,13 @@
 {%- block sidebarlinks %}
 
 <div class="sidebarblock">
+<h3>{{ _("JupyterCon") }}</h3>
+  <a href="http://jupytercon.com">
+  <img src="_static/jupytercon-logo.svg" width="180px" alt="JupyterCon 2017">
+  </a>
+</div>
+
+<div class="sidebarblock">
 <h3>{{ _('Notebook Viewer') }}</h3>
 
 Share your notebooks
@@ -10,8 +17,8 @@ Share your notebooks
   <script type="text/javascript">
     nbviewer_random_thumbnail();
   </script>
-	       
-</div> 
+</div>
+
 </div>
 
 <div class="sidebarblock">
@@ -49,7 +56,7 @@ Share your notebooks
     <li><a class="reference external" href="http://travis-ci.org/#!/ipython/ipython">
         Travis CI</a></li>
     <li><a class="reference external" href="https://github.com/ipython/ipython/wiki">Wiki</a></li>
-  </ul>          
+  </ul>
 </div>
 
 <div class="sidebarblock">
@@ -60,7 +67,7 @@ title="Packt Publishing donates a portion of the proceeds from this book to
 support IPython's development." width="160" height="200" id="sidebar-book-cover"
 style="margin-bottom: 10px;"></a>
 <script language="javascript">
-  // most recent at the end 
+  // most recent at the end
   var urls = [
       "_static/ipython-book.jpg",
       "_static/ipython-cookbook.jpg",
@@ -77,7 +84,7 @@ style="margin-bottom: 10px;"></a>
   function repick(){
     $("#sidebar-book-cover").attr("src", pick());
   }
-  
+
   window.onload = repick ;
 
   var seconds = 1000;
