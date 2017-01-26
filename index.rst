@@ -58,6 +58,13 @@ part of which is providing a Python kernel for Jupyter.
 Announcements
 =============
 
+- **JupyterCon 2017**: The first Jupyter Community Conference will take place
+  in New York City on August 23-25 2017, along with a satellite training
+  program on August 22-23. The Project Jupyter team has partnered with O'Reilly
+  Media for this event; for more details, including submitting a talk, `see the
+  JupyterCon website
+  <http://jupytercon.com>`_.
+
 - **IPython 5.0**: The release of IPython 5.0 brings a major revision of the
   terminal interface, including syntax highlighting as you type and better
   multiline editing, thanks to the ``prompt_toolkit`` library. See the
