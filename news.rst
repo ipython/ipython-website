@@ -2,6 +2,13 @@
 News
 ====
 
+IPython 5.2
+-----------
+
+IPython 5.2.0 was released on January 29th, 2017. Like 5.1 this is primarily a bugfix
+release, with some small new features. See the `release notes <http://ipython.readthedocs.io/en/stable/whatsnew/version5.html#ipython-5-2>`__
+for more details.
+
 IPython 5.1
 -----------
 
