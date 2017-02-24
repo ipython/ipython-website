@@ -2,6 +2,13 @@
 News
 ====
 
+IPython 5.3
+-----------
+
+IPython 5.3.0 was released on February 24th, 2017. This is primarily a bugfix
+release, with some small new features. See the `release notes <http://ipython.readthedocs.io/en/stable/whatsnew/version5.html#ipython-5-3>`__
+for more details.
+
 IPython 5.2
 -----------
 
