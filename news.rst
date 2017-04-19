@@ -2,6 +2,18 @@
 News
 ====
 
+IPython 6.0
+-----------
+
+IPython 6.0 was released on April 19th, 2017. This release is the first major
+release that only support Python 3. See longer announce on the `Jupyter Blog
+<http://blog.jupyter.org/2017/04/19/http://blog.jupyter.org/release-of-ipython-6-0/>`_,
+and the `release notes
+<http://ipython.readthedocs.io/en/latest/whatsnew/version6.html#ipython-6-0>`__
+
+IPython 5.x is still considered stable/LTS and will still get releases with
+bugfixes.
+
 IPython 5.3
 -----------
 
