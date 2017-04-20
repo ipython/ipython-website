@@ -58,6 +58,11 @@ part of which is providing a Python kernel for Jupyter.
 Announcements
 =============
 
+- **IPython 6.0**: This release, the first to require Python 3, integrates the
+  Jedi library for completion. See the `release notes
+  <http://ipython.readthedocs.io/en/stable/whatsnew/version6.html#ipython-6-0>`__
+  for more information about what's new.
+
 - **JupyterCon 2017**: The first Jupyter Community Conference will take place
   in New York City on August 23-25 2017, along with a satellite training
   program on August 22-23. The Project Jupyter team has partnered with O'Reilly
@@ -77,15 +82,6 @@ Announcements
   for which `Damian Avila <https://github.com/damianavila>`_ was a technical
   reviewer. We thank Packt Publishing for donating a portion of the proceeds
   from this book to support IPython's development.
-
-- **IPython 4.0**: We are pleased to announce the availability of IPython 4.0,
-  aka The Big Split, splitting the monolithic IPython repo into smaller subpackages.
-
-- **Book**: Cyrille Rossant has published the `IPython Interactive Computing and
-  Visualization Cookbook <books.html>`_, an advanced-level guide to IPython for
-  data science, and the sequel of his previous book on IPython. We thank Packt
-  Publishing for donating a portion of the proceeds from this book to support
-  IPython's development.
 
 - **O'Reilly Book**: `Mining the Social Web <http://MiningTheSocialWeb.com>`_
   is an open source data science project and `book <http://amzn.to/GPd59m>`_
