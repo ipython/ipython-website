@@ -2,6 +2,35 @@
 News
 ====
 
+IPython 6.1
+-----------
+
+IPython 5.4 was release on May 31, 2017. And include a number of new features.
+See the `Jupyter Blog
+<http://blog.jupyter.org/2017/05/31/release-of-ipython-5-4-6-1-and-rlipython-2/>`_
+and the `release notes
+<http://ipython.readthedocs.io/en/stable/whatsnew/version6.html#ipython-6-1>`__
+
+.. ::
+    sha256
+    cd44c7f5ccb2b349ffd6ede10d8e4204c9ab1ede4a8a6c40220cfeb07069171a  dist/ipython-6.1.0-py3-none-any.whl
+    5c53e8ee4d4bec27879982b9f3b4aa2d6e3cfd7b26782d250fa117f85bb29814  dist/ipython-6.1.0.tar.gz
+
+IPython 5.4
+-----------
+
+IPython 5.4 was release on May 31, 2017. This release backport most of the
+features and API addition that went into 6.0 and 6.1. See the `Jupyter Blog
+<http://blog.jupyter.org/2017/05/31/release-of-ipython-5-4-6-1-and-rlipython-2/>`_
+and the `release notes
+<http://ipython.readthedocs.io/en/5.x/whatsnew/version5.html#ipython-5-4>`__
+
+.. ::
+    sha256
+    6bf30eed7a55c74fc937ea2975e3a3dec2b5a5bd654ffd8ddf05a62672b3baea  dist/ipython-5.4.0-py2-none-any.whl
+    b92a53dfdd0d49841a319818ffaf7640b0ff9b99ff9ceeb9531c69b1a027ca7e  dist/ipython-5.4.0-py3-none-any.whl
+    6907826c427c917bf0cdab71ee728288b1f1975c4b94b3ed608b67db3183c974  dist/ipython-5.4.0.tar.gz
+
 IPython 6.0
 -----------
 
@@ -9,7 +38,7 @@ IPython 6.0 was released on April 19th, 2017. This release is the first major
 release that only support Python 3. See longer announce on the `Jupyter Blog
 <http://blog.jupyter.org/2017/04/19/http://blog.jupyter.org/release-of-ipython-6-0/>`_,
 and the `release notes
-<http://ipython.readthedocs.io/en/latest/whatsnew/version6.html#ipython-6-0>`__
+<http://ipython.readthedocs.io/en//whatsnew/version6.html#ipython-6-0>`__
 
 IPython 5.x is still considered stable/LTS and will still get releases with
 bugfixes.
@@ -18,21 +47,21 @@ IPython 5.3
 -----------
 
 IPython 5.3.0 was released on February 24th, 2017. This is primarily a bugfix
-release, with some small new features. See the `release notes <http://ipython.readthedocs.io/en/stable/whatsnew/version5.html#ipython-5-3>`__
+release, with some small new features. See the `release notes <http://ipython.readthedocs.io/en/5.x/whatsnew/version5.html#ipython-5-3>`__
 for more details.
 
 IPython 5.2
 -----------
 
 IPython 5.2.0 was released on January 29th, 2017. Like 5.1 this is primarily a bugfix
-release, with some small new features. See the `release notes <http://ipython.readthedocs.io/en/stable/whatsnew/version5.html#ipython-5-2>`__
+release, with some small new features. See the `release notes <http://ipython.readthedocs.io/en/5.x/whatsnew/version5.html#ipython-5-2>`__
 for more details.
 
 IPython 5.1
 -----------
 
 IPython 5.1 was released on August 13th, 2016. This is primarily a bugfix
-release, with some small new features. See the `release notes <http://ipython.readthedocs.io/en/stable/whatsnew/version5.html#ipython-5-1>`__
+release, with some small new features. See the `release notes <http://ipython.readthedocs.io/en/5.x/whatsnew/version5.html#ipython-5-1>`__
 for more details.
 
 IPython 5.0
