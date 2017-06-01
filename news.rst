@@ -19,11 +19,17 @@ and the `release notes
 IPython 5.4
 -----------
 
-IPython 5.4 was release on May 31, 2017. This release backport most of the
+IPython 5.4/5.4.1 was release on May 31, 2017. This release backport most of the
 features and API addition that went into 6.0 and 6.1. See the `Jupyter Blog
 <http://blog.jupyter.org/2017/05/31/release-of-ipython-5-4-6-1-and-rlipython-2/>`_
 and the `release notes
 <http://ipython.readthedocs.io/en/5.x/whatsnew/version5.html#ipython-5-4>`__
+
+.. :: 
+    sha256
+    af2b1ca3e073b7230b975858c0f5fcc659aa25181335b40ab09b00bf91134d93  dist/ipython-5.4.1-py2-none-any.whl
+    0a45d844d11bec910974ed4adf5de60d42dc34b60960f8cc2b857e2008fba550  dist/ipython-5.4.1-py3-none-any.whl
+    afaa92343c20cf4296728161521d84f606d8817f963beaf7198e63dfede897fb  dist/ipython-5.4.1.tar.gz
 
 .. ::
     sha256
