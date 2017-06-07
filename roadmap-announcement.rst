@@ -65,5 +65,5 @@ Paul Ivanov
 .. _pdf: http://ipython.org/_static/sloangrant/sloan-grant.pdf
 .. _roadmap: https://github.com/ipython/ipython/wiki/Roadmap:-IPython
 .. _"Towards IPython 1.0, the famous big cleanup": http://mail.scipy.org/pipermail/ipython-user/2005-April/002648.html
-.. _nbconvert: https://github.com/ipython/nbconvert
+.. _nbconvert: https://github.com/jupyter/nbconvert
 
