@@ -58,8 +58,8 @@ part of which is providing a Python kernel for Jupyter.
 Announcements
 =============
 
-- **IPython 6.1**, and **IPython 5.4**: These two release where made on May 31st
-  2017.m
+- **IPython 6.1**, and **IPython 5.4**: These two releases were made on May 31st
+  2017.
 
 - **IPython 6.0**: This release, the first to require Python 3, integrates the
   Jedi library for completion. See the `release notes
