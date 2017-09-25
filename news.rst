@@ -7,9 +7,9 @@ IPython 6.1
 
 IPython 5.4 was release on May 31, 2017. And include a number of new features.
 See the `Jupyter Blog
-<http://blog.jupyter.org/2017/05/31/release-of-ipython-5-4-6-1-and-rlipython-2/>`_
+<https://blog.jupyter.org/2017/05/31/release-of-ipython-5-4-6-1-and-rlipython-2/>`_
 and the `release notes
-<http://ipython.readthedocs.io/en/stable/whatsnew/version6.html#ipython-6-1>`__
+<https://ipython.readthedocs.io/en/stable/whatsnew/version6.html#ipython-6-1>`__
 
 .. ::
     sha256
@@ -21,7 +21,7 @@ IPython 5.4
 
 IPython 5.4/5.4.1 was release on May 31, 2017. This release backport most of the
 features and API addition that went into 6.0 and 6.1. See the `Jupyter Blog
-<http://blog.jupyter.org/2017/05/31/release-of-ipython-5-4-6-1-and-rlipython-2/>`_
+<https://blog.jupyter.org/2017/05/31/release-of-ipython-5-4-6-1-and-rlipython-2/>`_
 and the `release notes
 <http://ipython.readthedocs.io/en/5.x/whatsnew/version5.html#ipython-5-4>`__
 
@@ -109,7 +109,7 @@ for languages other than Python - available kernels are `listed on the wiki
 <https://github.com/ipython/ipython/wiki/IPython-kernels-for-other-languages>`_.
 
 `Install <install.html>`__ it now, or see the
-`release notes <http://ipython.org/ipython-doc/3/whatsnew/version3.html>`__
+`release notes <https://ipython.readthedocs.io/en/stable/whatsnew/version3.html>`__
 for more details.
 
 The 3.x release series will be the last where IPython is released as one big
@@ -159,7 +159,7 @@ IPython 2.0
 IPython 2.0 was released on April 1, 2014. The major new features include
 interactive HTML widgets, and directory navigation in the notebook dashboard.
 `Install <install.html>`__ it now, or see the
-`release notes <http://ipython.org/ipython-doc/2/whatsnew/version2.0.html>`__
+`release notes <https://ipython.readthedocs.io/en/stable/whatsnew/version2.0.html>`__
 for more details.
 
 User survey 2013
@@ -181,7 +181,7 @@ IPython 1.0
 IPython 1.0 was released on August 8, 2013, after nearly twelve years of development.
 This release sees numerous improvements	from the 0.13 series, and some significant
 API reorganisations. `Install <install.html>`__ it now, or see the
-`release notes <http://ipython.org/ipython-doc/rel-1.0.0/whatsnew/version1.0.html>`__
+`release notes <https://ipython.readthedocs.io/en/stable/whatsnew/version1.0.html>`__
 for more details.
 
 This is just the first part of an ambitious development schedule. We aim
