@@ -1,6 +1,20 @@
 /* Extra styles for the IPython website
    */
 
+#books-and-videos img {
+  float:left;
+  margin: 20px;
+}
+
+#books-and-videos ul {
+  display: inline-block;
+}
+#books-and-videos h2 {
+  clear: left;
+}
+
+
+
 /* Used to make a box with side-by-side Ohloh.net buttons */
 #ohloh {
    padding: 0;
