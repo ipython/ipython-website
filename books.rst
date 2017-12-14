@@ -1,6 +1,104 @@
-=====
-Books
-=====
+================
+Books And Videos
+================
+
+
+Jupyter for Data Science
+------------------------
+
+
+.. image:: _static/jupyter-for-ds.png
+    :width: 200px
+    :alt: Jupyter For dataScience
+    :target: _static/jupyter-for-ds.png
+
+* `Jupyter for Data Science <https://www.packtpub.com/big-data-and-business-intelligence/jupyter-data-science>`_
+* By Dan Toomey
+* 242 pages
+* Packt Publishing
+* October 2017
+
+
+
+Jupyter Notebook is a web-based environment that enables interactive computing
+in notebook documents. It allows you to create documents that contain live code,
+equations, and visualizations. This book is a comprehensive guide to getting
+started with data science using the popular Jupyter notebook.
+
+If you are familiar with Jupyter notebook and want to learn how to use its
+capabilities to perform various data science tasks, this is the book for you!
+From data exploration to visualization, this book will take you through every
+step of the way in implementing an effective data science pipeline using
+Jupyter. You will also see how you can utilize Jupyter's features to share your
+documents and codes with your colleagues. The book also explains how Python 3,
+R, and Julia can be integrated with Jupyter for various data science tasks.
+
+By the end of this book, you will comfortably leverage the power of Jupyter to
+perform various tasks in data science successfully.
+
+
+
+
+Jupyter Notebook for All - Part II [Video]
+------------------------------------------
+
+.. image:: _static/jupyter-notebook-for-all-II.jpg
+    :width: 200px
+    :alt: Jupyter Notebook for All - Part II
+    :target: _static/jupyter-notebook-for-all-II.jpg
+
+
+
+* `Jupyter Notebook for All - Part II <https://www.packtpub.com/big-data-and-business-intelligence/jupyter-notebook-all-%E2%80%93-part-ii-video>`_
+* By Dan Toomey
+* 1 hour and 14 minutes
+* Packt Publishing
+* March 2017
+
+Jupyter Notebook is a web-based environment that enables interactive computing
+in notebook documents. It allows you to create and share documents that contain
+live code, equations, visualizations, and explanatory text. The Jupyter Notebook
+system is extensively used in domains such as data cleaning and transformation,
+numerical simulation, statistical modeling, machine learning, and much more.
+This tutorial starts with a detailed overview of the Jupyter Notebook system and
+its installation in different environments. Next you will learn to integrate the
+Jupyter system with different programming languages such as R, Python,
+JavaScript, and Julia; further, you'll explore the various versions and packages
+that are compatible with the Notebook system. Moving ahead, you'll master
+interactive widgets, namespaces, and working with Jupyter in multiuser mode.
+Towards the end, you will use Jupyter with a big dataset and will apply all the
+functionalities learned throughout the video.
+
+
+
+Jupyter Notebook for All - Part I [Video]
+-----------------------------------------
+
+.. image:: _static/jupyter-notebook-for-all-I.jpg
+    :width: 200px
+    :alt: Jupyter Notebook for All - Part I
+    :target: _static/jupyter-notebook-for-all-I.jpg
+
+
+* `Jupyter Notebook for All - Part I <https://www.packtpub.com/big-data-and-business-intelligence/jupyter-notebook-all-%E2%80%93-part-i-video>`_
+* By Dan Toomey
+* 1 hour 23 minutes
+* Packt Publishing
+* March 2017
+
+Jupyter Notebook is a web-based environment that enables interactive computing
+in notebook documents. It allows you to create and share documents that contain
+live code, equations, visualizations, and explanatory text. The Jupyter Notebook
+system is extensively used in domains such as data cleaning and transformation,
+numerical simulation, statistical modeling, machine learning, and much more.
+This tutorial starts with a detailed overview of the Jupyter Notebook system and
+its installation in different environments. Next you will learn to integrate the
+Jupyter system with different programming languages such as R, Python,
+JavaScript, and Julia; further, you'll explore the various versions and packages
+that are compatible with the Notebook system. Moving ahead, you'll master
+interactive widgets, namespaces, and working with Jupyter in multiuser mode.
+Towards the end, you will use Jupyter with a big dataset and will apply all the
+functionalities learned throughout the video.
 
 Learning Jupyter
 ----------------
