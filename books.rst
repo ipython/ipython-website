@@ -37,6 +37,25 @@ By the end of this book, you will comfortably leverage the power of Jupyter to
 perform various tasks in data science successfully.
 
 
+Jupyter In Depth
+----------------
+
+.. image:: _static/jupyter-in-depth.png
+    :width: 200px
+    :alt: jupyter-in-depth
+    :target: _static/jupyter-in-depth.png
+
+* `Jupyter In Depth <https://www.packtpub.com/big-data-and-business-intelligence/jupyter-depth-video>`_
+
+* Jesse Bacon Thursday, August 31, 2017
+* 1 hour and 43 minutes
+* Packt Publishing
+* August 2017
+
+Jupyter has emerged as a popular tool for code exposition and the sharing of research artefacts. It has interactive display capabilities and the pluggable kernel system allows data scientists to switch back and forth between multiple programming languages.
+
+The course will walk you through the core modules and standard capabilities of the console, client, and notebook server. By exploring the Python language, you will be able to get starter projects for configurations management, file system monitoring, and encrypted backup solutions for safeguarding their data. In the final Sections, you will be able to build dashboards in a Jupyter notebook to report back information about the project and the status of various Jupyter components.
+
 
 
 Jupyter Notebook for All - Part II [Video]
