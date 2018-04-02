@@ -18,7 +18,7 @@ See the `release notes
 IPython 5.6
 -----------
 
-IPython 5.6 was release on May 31, 2017. This is primarily a bugfix release.
+IPython 5.6 was release on April 2, 2018. This is primarily a bugfix release.
 See the `release notes
 <http://ipython.readthedocs.io/en/5.x/whatsnew/version5.html#ipython-5-6>`__
 
