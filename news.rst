@@ -2,10 +2,36 @@
 News
 ====
 
+IPython 6.3
+-----------
+
+IPython 6.3 was release on April 2, 2018. This is primarily a bugfix release,
+with some new features.
+See the `release notes
+<https://ipython.readthedocs.io/en/stable/whatsnew/version6.html#ipython-6-3>`__
+
+.. ::
+    sha256
+    938da96f2f5f50d82add1947958b7432e9f330cef7703210bffd1a783d7720ab  dist/ipython-6.3.0-py3-none-any.whl
+    c785ab502b1a63624baeb89fedb873a118d4da6c9a796ae06e4f4aaef74e9ea0  dist/ipython-6.3.0.tar.gz
+
+IPython 5.6
+-----------
+
+IPython 5.6 was release on April 2, 2018. This is primarily a bugfix release.
+See the `release notes
+<http://ipython.readthedocs.io/en/5.x/whatsnew/version5.html#ipython-5-6>`__
+
+.. ::
+    sha256
+    c3efde0784b422538959a048d63a283f6a73d9cf5ec51b80600a8d382db0d59e  dist/ipython-5.6.0-py2-none-any.whl
+    d778329d0a12d084e08661ac147df99df8a64ab4400632a886449a9c444f2b6e  dist/ipython-5.6.0-py3-none-any.whl
+    8ba332d1ac80261e176e737e934fade9b252fc3adb32afc7252ccc9cb249e601  dist/ipython-5.6.0.tar.gz
+
 IPython 6.1
 -----------
 
-IPython 5.4 was release on May 31, 2017. And include a number of new features.
+IPython 6.1 was release on May 31, 2017. And include a number of new features.
 See the `Jupyter Blog
 <https://blog.jupyter.org/2017/05/31/release-of-ipython-5-4-6-1-and-rlipython-2/>`_
 and the `release notes
