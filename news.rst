@@ -5,7 +5,7 @@ News
 IPython 6.3
 -----------
 
-IPython 6.3 was release on April 2, 2018. This is primarily a bugfix release,
+IPython 6.3 was released on April 2, 2018. This is primarily a bugfix release,
 with some new features.
 See the `release notes
 <https://ipython.readthedocs.io/en/stable/whatsnew/version6.html#ipython-6-3>`__
@@ -18,7 +18,7 @@ See the `release notes
 IPython 5.6
 -----------
 
-IPython 5.6 was release on April 2, 2018. This is primarily a bugfix release.
+IPython 5.6 was released on April 2, 2018. This is primarily a bugfix release.
 See the `release notes
 <http://ipython.readthedocs.io/en/5.x/whatsnew/version5.html#ipython-5-6>`__
 
@@ -31,7 +31,7 @@ See the `release notes
 IPython 6.1
 -----------
 
-IPython 6.1 was release on May 31, 2017. And include a number of new features.
+IPython 6.1 was released on May 31, 2017. It includes a number of new features.
 See the `Jupyter Blog
 <https://blog.jupyter.org/2017/05/31/release-of-ipython-5-4-6-1-and-rlipython-2/>`_
 and the `release notes
@@ -45,8 +45,8 @@ and the `release notes
 IPython 5.4
 -----------
 
-IPython 5.4/5.4.1 was release on May 31, 2017. This release backport most of the
-features and API addition that went into 6.0 and 6.1. See the `Jupyter Blog
+IPython 5.4/5.4.1 was released on May 31, 2017. This release backports most of the
+features and API additions that went into 6.0 and 6.1. See the `Jupyter Blog
 <https://blog.jupyter.org/2017/05/31/release-of-ipython-5-4-6-1-and-rlipython-2/>`_
 and the `release notes
 <http://ipython.readthedocs.io/en/5.x/whatsnew/version5.html#ipython-5-4>`__
@@ -67,7 +67,7 @@ IPython 6.0
 -----------
 
 IPython 6.0 was released on April 19th, 2017. This release is the first major
-release that only support Python 3. See longer announce on the `Jupyter Blog
+release that only supports Python 3. See longer announcement on the `Jupyter Blog
 <https://blog.jupyter.org/2017/04/19/release-of-ipython-6-0/>`_,
 and the `release notes
 <https://ipython.readthedocs.io/en/stable/whatsnew/version6.html#ipython-6-0>`__
@@ -100,7 +100,7 @@ IPython 5.0
 -----------
 
 IPython 5.0 was released on July 7th, 2016. This release is the
-last major release that will support Python 2. See longer announce on the
+last major release that will support Python 2. See longer announcement on the
 `Jupyter Blog <http://blog.jupyter.org/2016/07/08/ipython-5-0-released/>`_. 
 
 
