@@ -3,6 +3,30 @@ Books And Videos
 ================
 
 
+
+IPython Interactive Computing and Visualization Cookbook, Second Edition
+------------------------------------------------------------------------
+
+.. image:: _static/ipython-cookbook-2nd.png
+    :width: 200px
+    :alt: IPython Cookbook, Second Edition, by Cyrille Rossant
+    :target: _static/ipython-cookbook-2nd.png
+
+* `IPython Interactive Computing and Visualization Cookbook, Second Edition <http://ipython-books.github.io/>`_
+* By `Cyrille Rossant <http://cyrille.rossant.net>`_
+* 548 pages
+* Packt Publishing
+* January 2018
+
+
+Python is one of the leading open source platforms for data science and numerical computing. IPython and the associated Jupyter Notebook offer efficient interfaces to Python for data analysis and interactive visualization, and they constitute an ideal gateway to the platform.
+
+IPython Interactive Computing and Visualization Cookbook, Second Edition contains many ready-to-use, focused recipes for high-performance scientific computing and data analysis, from the latest IPython/Jupyter features to the most advanced tricks, to help you write better and faster code. You will apply these state-of-the-art methods to various real-world examples, illustrating topics in applied mathematics, scientific modeling, and machine learning.
+
+The first part of the book covers programming techniques: code quality and reproducibility, code optimization, high-performance computing through just-in-time compilation, parallel computing, and graphics card programming. The second part tackles data science, statistics, machine learning, signal and image processing, dynamical systems, and pure and applied mathematics.
+
+
+
 Jupyter for Data Science
 ------------------------
 
