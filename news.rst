@@ -2,6 +2,32 @@
 News
 ====
 
+IPython 6.4
+-----------
+
+IPython 6.4 was released on May 10, 2018. This is primarily a bugfix release.
+See the `release notes
+<https://ipython.readthedocs.io/en/stable/whatsnew/version6.html#ipython-6-4-0>`__
+
+.. :: 
+    shasum -a 256 dist/*
+    a0c96853549b246991046f32d19db7140f5b1a644cc31f0dc1edc86713b7676f  dist/ipython-6.4.0-py3-none-any.whl
+    eca537aa61592aca2fef4adea12af8e42f5c335004dfa80c78caf80e8b525e5c  dist/ipython-6.4.0.tar.gz
+
+
+IPython 5.7
+-----------
+
+IPython 5.7 was released on May 10, 2018. This is primarily a bugfix release.
+See the `release notes
+<https://ipython.readthedocs.io/en/stable/whatsnew/version5.html#ipython-5-7-0>`__
+
+.. :: 
+    $shasum -a256 dist/*
+    707d1bbfc81e41e39ead1012af931bec6f80357b87e520af352e539cf5961dc0  dist/ipython-5.7.0-py2-none-any.whl
+    fc0464e68f9c65cd8c453474b4175432cc29ecb6c83775baedf6dbfcee9275ab  dist/ipython-5.7.0-py3-none-any.whl
+    8db43a7fb7619037c98626613ff08d03dda9d5d12c84814a4504c78c0da8323c  dist/ipython-5.7.0.tar.gz
+
 IPython 6.3
 -----------
 
