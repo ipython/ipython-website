@@ -158,7 +158,6 @@ div.header div.rel {
   margin-top: 1em;
   border-top: 1px solid #AAA;
   border-bottom: 1px solid #AAA;
-  border-radius: 5px;
   padding: 3px 1em;
 }
 
@@ -285,7 +284,6 @@ div.sphinxsidebar h4 {
 
 div.sphinxsidebar .tile {
   border: 1px solid #D1DDE2;
-  border-radius: 10px;
   background-color: #E1E8EC;
   padding-left: 0.5em;
   margin: 1em 0;
