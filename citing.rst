@@ -17,7 +17,7 @@ a BibTex and a plaintext reference you can use::
       Pages     = {21--29},
       month     = may,
       year      = 2007,
-      url       = "http://ipython.org",
+      url       = "https://ipython.org",
       ISSN      = "1521-9615",
       doi       = {10.1109/MCSE.2007.53},
       publisher = {IEEE Computer Society},
@@ -27,6 +27,6 @@ or in plaintext:
 
     Fernando Pérez, Brian E. Granger, *IPython: A System for Interactive
     Scientific Computing*, Computing in Science and Engineering, vol. 9, no. 3,
-    pp. 21-29, May/June 2007, doi:10.1109/MCSE.2007.53. URL: http://ipython.org
+    pp. 21-29, May/June 2007, doi:10.1109/MCSE.2007.53. URL: https://ipython.org
 
 Thank you!

@@ -13,9 +13,9 @@ IPython provides a rich architecture for interactive computing with:
 
 .. _notebook: notebook.html
 
-.. _gui toolkits: http://ipython.org/ipython-doc/stable/interactive/reference.html#gui-event-loop-support
+.. _gui toolkits: https://ipython.org/ipython-doc/stable/interactive/reference.html#gui-event-loop-support
 
-.. _embeddable: http://ipython.org/ipython-doc/stable/interactive/reference.html#embedding-ipython
+.. _embeddable: https://ipython.org/ipython-doc/stable/interactive/reference.html#embedding-ipython
 
 .. _parallel computing: https://ipyparallel.readthedocs.io/en/latest/
 

@@ -2,7 +2,7 @@
 FAQ
 ===
 
-If your question isn't answered below, check `the docs <http://ipython.org/ipython-doc/>`_, then ask on the `mailing list <https://mail.python.org/mailman/listinfo/ipython-dev>`_.
+If your question isn't answered below, check `the docs <https://ipython.org/ipython-doc/>`_, then ask on the `mailing list <https://mail.python.org/mailman/listinfo/ipython-dev>`_.
 
 .. contents::
   :local:
@@ -42,12 +42,12 @@ Does IPython play well with Windows?
 ------------------------------------
 
 Yes, it most definitely does! There are some things that should be noted: `see
-the installation documentation <http://ipython.org/ipython-doc/stable/install/install.html#windows>`_.
+the installation documentation <https://ipython.org/ipython-doc/stable/install/install.html#windows>`_.
 
 What is the best way to install IPython?
 ----------------------------------------
 
-See `the installation documentation <http://ipython.org/ipython-doc/stable/install/install.html#installing-ipython-itself>`_ for full details.
+See `the installation documentation <https://ipython.org/ipython-doc/stable/install/install.html#installing-ipython-itself>`_ for full details.
 
 The standard Python installation mechanisms (``setup.py``, ``pip`` or ``easy_install``) all work for installing IPython to use in a terminal. Windows users are best off installing `distribute <https://pypi.python.org/pypi/distribute>`_, then running the .exe installer, to create start menu shortcuts.
 

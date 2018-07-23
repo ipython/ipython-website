@@ -274,7 +274,7 @@ IPython 0.13.2
 
 IPython 0.13.2 was released on April 5, 2013. This is a bugfix-only release.
 `Download <download.html>`__ it now, or see the `release notes
-<http://ipython.org/ipython-doc/rel-0.13.2/whatsnew/version0.13.html>`__ for more
+<https://ipython.org/ipython-doc/rel-0.13.2/whatsnew/version0.13.html>`__ for more
 details.  This will probably be the last release before 1.0.
 
 Roadmap to 1.0 and Beyond
@@ -284,7 +284,7 @@ IPython 1.0 is coming Summer 2013. See the grant_ which is funding the bulk
 of the work, as well as our roadmap_ for achieving the grant's objectives.
 `Read on for more details <roadmap-announcement.html>`_.
 
-.. _grant: http://ipython.org/sloan-grant.html
+.. _grant: https://ipython.org/sloan-grant.html
 .. _roadmap: https://github.com/ipython/ipython/wiki/Roadmap:-IPython
 
 Sloan Foundation Grant
@@ -302,7 +302,7 @@ IPython 0.13 was released on June 30, 2012. This release sees a substantial
 redesign of the IPython Notebook, the introduction of 'cell magic functions',
 as well as numerous other improvements. `Download <download.html>`__ it now, or
 see the `release notes
-<http://ipython.org/ipython-doc/rel-0.13/whatsnew/version0.13.html>`__ for more
+<https://ipython.org/ipython-doc/rel-0.13/whatsnew/version0.13.html>`__ for more
 details.
 
 IPython 0.12.1
@@ -312,7 +312,7 @@ IPython 0.12.1 was released on April 21, 2012.  This is a bugfix-only release;
 no new features have been introduced but `over 70 issues`_ have been fixed.
 All users of IPython 0.12 are encouraged to upgrade to this release.
 
-.. _over 70 issues: http://ipython.org/ipython-doc/stable/whatsnew/github-stats-0.12.html#issues-list-012
+.. _over 70 issues: https://ipython.org/ipython-doc/stable/whatsnew/github-stats-0.12.html#issues-list-012
 
 
 IPython 0.12
@@ -322,7 +322,7 @@ IPython 0.12 was released on 18 December 2011. The major new feature with this
 release is the `IPython Notebook <ipython-doc/dev/interactive/htmlnotebook.html>`_,
 an interactive Python interface running in the browser. `Download <download.html>`_
 it now, or read more about `what's new
-<http://ipython.org/ipython-doc/rel-0.12/whatsnew/version0.12.html>`_.
+<https://ipython.org/ipython-doc/rel-0.12/whatsnew/version0.12.html>`_.
 
 .. image:: _static/ipy_0.12.png
 
@@ -345,7 +345,7 @@ We're pleased to announce the immediate release of IPython 0.11, on 31 July 2011
 Despite the small shift in the version number, this brings a lot of changes,
 including a new Qt frontend and a rewritten parallel computing framework.
 `Download <download.html>`__ it now, or look at `what's new
-<http://ipython.org/ipython-doc/rel-0.11/whatsnew/version0.11.html>`__.
+<https://ipython.org/ipython-doc/rel-0.11/whatsnew/version0.11.html>`__.
 
 .. image:: _static/ipy_0.11.png
 
@@ -361,7 +361,7 @@ IPython 0.10.2 released
 
 IPython 0.10.2 was released on 9 April, 2011. This is a bugfix release for the
 0.10 series. See the `release notes
-<http://ipython.org/ipython-doc/rel-0.10.2/html/changes.html#release-0-10-2>`__
+<https://ipython.org/ipython-doc/rel-0.10.2/html/changes.html#release-0-10-2>`__
 for more details.
 
 Python 3 support in progress
@@ -376,7 +376,7 @@ IPython 0.10.1 is out!
 
 On October 11, 2010, we released IPython 0.10.1. The full release notes can be
 found `here
-<http://ipython.org/ipython-doc/rel-0.10.1/html/changes.html#release-0-10-1>`__
+<https://ipython.org/ipython-doc/rel-0.10.1/html/changes.html#release-0-10-1>`__
 ,
 describing in detail the changes in this release.
 
@@ -594,4 +594,4 @@ IPython 0.7.2 is released (June 6, 2006)
 We are pleased to announce the release of IPython 0.7.2.  The release has many
 improvements and new features.
 
-IPython 0.7.2 can be downloaded `here <http://ipython.org/download.html>`__ .
+IPython 0.7.2 can be downloaded `here <https://ipython.org/download.html>`__ .

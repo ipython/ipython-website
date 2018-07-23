@@ -76,9 +76,9 @@ We have given a number of talks and presentations about IPython:
   whitepaper shows how to get started with IPython and Windows HPC Server 200
   as well two examples of using IPython to perform an interactive parallel
   computation.  This material is also in our documentation `here
-  <http://ipython.org/ipython-doc/stable/parallel/parallel_winhpc.html>`__ and
+  <https://ipython.org/ipython-doc/stable/parallel/parallel_winhpc.html>`__ and
   `here
-  <http://ipython.org/ipython-doc/stable/parallel/parallel_demos.html>`__.
+  <https://ipython.org/ipython-doc/stable/parallel/parallel_demos.html>`__.
   Many thanks to Microsoft for funding Brian Granger to work on this.
 
 --------

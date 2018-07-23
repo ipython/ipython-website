@@ -60,9 +60,9 @@ best,
 
 Paul Ivanov
 
-.. _grant: http://ipython.org/sloan-grant.html
-.. _html: http://ipython.org/_static/sloangrant/sloan-grant.html
-.. _pdf: http://ipython.org/_static/sloangrant/sloan-grant.pdf
+.. _grant: https://ipython.org/sloan-grant.html
+.. _html: https://ipython.org/_static/sloangrant/sloan-grant.html
+.. _pdf: https://ipython.org/_static/sloangrant/sloan-grant.pdf
 .. _roadmap: https://github.com/ipython/ipython/wiki/Roadmap:-IPython
 .. _"Towards IPython 1.0, the famous big cleanup": http://mail.scipy.org/pipermail/ipython-user/2005-April/002648.html
 .. _nbconvert: https://github.com/jupyter/nbconvert
