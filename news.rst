@@ -9,7 +9,7 @@ IPython 6.5
 IPython 6.5 was released on July 29, 2018. This is primarily a bugfix release.
 With some compatibility fix for Python 3.7
 See the `release notes
-<https://ipython.readthedocs.io/en/stable/whatsnew/version5.html#ipython-6-5-0>`__
+<https://ipython.readthedocs.io/en/stable/whatsnew/version6.html#ipython-6-5-0>`__
 
 .. :: 
     $ shasum -a 256 dist/*
