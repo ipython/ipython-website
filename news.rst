@@ -2,6 +2,21 @@
 News
 ====
 
+
+IPython 5.8
+-----------
+
+IPython 5.8 was released on July, 2018. This is primarily a bugfix release.
+See the `release notes
+<https://ipython.readthedocs.io/en/stable/whatsnew/version5.html#ipython-5-8-0>`__
+
+.. :: 
+    $shasum -a256 dist/*
+    37101b8cbe072fe17bff100bc03d096404e4a9a0357097aeb5b61677c042cab1 dist/ipython-5.8.0-py2-none-any.whl
+    0371b7e4bd74954a35086eac949beeac5b1c9f5ce231e2e77df2286a293765e3 dist/ipython-5.8.0-py3-none-any.whl
+    4bac649857611baaaf76bc82c173aa542f7486446c335fe1a6c05d0d491c8906 dist/ipython-5.8.0.tar.gz
+
+
 IPython 6.4
 -----------
 
