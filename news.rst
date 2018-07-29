@@ -3,10 +3,24 @@ News
 ====
 
 
+IPython 6.5
+-----------
+
+IPython 6.5 was released on July 29, 2018. This is primarily a bugfix release.
+With some compatibility fix for Python 3.7
+See the `release notes
+<https://ipython.readthedocs.io/en/stable/whatsnew/version5.html#ipython-6-5-0>`__
+
+.. :: 
+    $ shasum -a 256 dist/*
+    007dcd929c14631f83daff35df0147ea51d1af420da303fd078343878bd5fb62  dist/ipython-6.5.0-py3-none-any.whl
+    b0f2ef9eada4a68ef63ee10b6dde4f35c840035c50fd24265f8052c98947d5a4  dist/ipython-6.5.0.tar.gz
+
+
 IPython 5.8
 -----------
 
-IPython 5.8 was released on July, 2018. This is primarily a bugfix release.
+IPython 5.8 was released on July 28, 2018. This is primarily a bugfix release.
 See the `release notes
 <https://ipython.readthedocs.io/en/stable/whatsnew/version5.html#ipython-5-8-0>`__
 

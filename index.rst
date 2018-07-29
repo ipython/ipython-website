@@ -58,6 +58,8 @@ part of which is providing a Python kernel for Jupyter.
 Announcements
 =============
 
+- **IPython 6.5** minor bugfixes, and Python 3.7 compatibility  have been release on July 28, 2018.
+
 - **IPython 5.8** minor bugfixes have been release on July 28, 2018.
 
 - **IPython 6.4**, and **IPython 5.7** minor bugfixes have been release  on May
