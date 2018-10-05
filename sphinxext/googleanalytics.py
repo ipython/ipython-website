@@ -5,7 +5,11 @@ Google analytics sphinx extension from birkenfeld/sphinx-contrib/googleanalytics
 Used under BSD License
 """
 
-from sphinx.application import ExtensionError
+try:
+    from sphinx.application import ExtensionError
+except:
+    from sphinx.error import ExtensionError
+
 
 def add_ga_javascript(app, pagename, templatename, context, doctree):
     if not app.config.googleanalytics_enabled:
