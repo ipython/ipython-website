@@ -6,7 +6,7 @@ matrix:
     - python: 3.4
 
 install:
-  - pip install sphinx sphinxcontrib-googleanalytics
+  - pip install sphinx
 
 script:
   - git config --global user.email "TravisBot@nomail"

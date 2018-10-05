@@ -25,7 +25,7 @@ sys.path.append(os.path.abspath('sphinxext'))
 extensions = ['sphinx.ext.doctest',
               'sphinx.ext.todo',
               'sphinx.ext.ifconfig',
-              'sphinxcontrib.googleanalytics',
+              'googleanalytics',
               
               #'ipython_console_highlighting',
               ]
