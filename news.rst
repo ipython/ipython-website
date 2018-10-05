@@ -2,6 +2,13 @@
 News
 ====
 
+IPython 7.0
+-----------
+IPython 7.0 was released on September 27, 2018. It includes a number of new features.
+See the `Jupyter Blog
+<https://blog.jupyter.org/ipython-7-0-async-repl-a35ce050f7f7/>`_
+and the `release notes
+<https://ipython.readthedocs.io/en/stable/>`__
 
 IPython 6.5
 -----------
