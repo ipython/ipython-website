@@ -8,7 +8,7 @@ Used under BSD License
 try:
     from sphinx.application import ExtensionError
 except:
-    from sphinx.error import ExtensionError
+    from sphinx.errors import ExtensionError
 
 
 def add_ga_javascript(app, pagename, templatename, context, doctree):
