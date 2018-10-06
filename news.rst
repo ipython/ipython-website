@@ -8,7 +8,12 @@ IPython 7.0 was released on September 27, 2018. It includes a number of new feat
 See the `Jupyter Blog
 <https://blog.jupyter.org/ipython-7-0-async-repl-a35ce050f7f7/>`_
 and the `release notes
-<https://ipython.readthedocs.io/en/stable/>`__
+<https://ipython.readthedocs.io/en/stable/whatsnew/version7.html#ipython-7-0-0>`__
+
+.. ::
+   $ shasum -a 256 dist/*
+   47b17ea874454a5c2eacc2732b04a750d260b01ba479323155ac8a39031f5535  dist/ipython-7.0.1-py3-none-any.whl
+   9fed506c3772c875a3048bc134a25e6f5e997b1569b2636f6a5d891f34cbfd46  dist/ipython-7.0.1.tar.gz
 
 IPython 6.5
 -----------
