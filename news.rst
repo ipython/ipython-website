@@ -2,9 +2,34 @@
 News
 ====
 
+IPython 7.2
+-----------
+IPython 7.2 was released on November 29, 2018. It includes
+minor bugfixes, improvements, and new configuration options.
+See the `release notes
+<https://ipython.readthedocs.io/en/stable/whatsnew/version7.html#ipython-7-2-0>`__
+
+.. ::
+   $ shasum -a 256 dist/*
+   f69932b1e806b38a7818d9a1e918e5821b685715040b48e59c657b3c7961b742  dist/ipython-7.2.0-py3-none-any.whl
+   6a9496209b76463f1dec126ab928919aaf1f55b38beb9219af3fe202f6bbdd12  dist/ipython-7.2.0.tar.gz
+   
+IPython 7.1
+-----------
+IPython 7.1 was released on October 27, 2018. It includes
+fixes to new features, internal refactoring, and fixes for regressions.
+See the `release notes
+<https://ipython.readthedocs.io/en/stable/whatsnew/version7.html#ipython-7-1-0>`__
+
+.. ::
+   $ shasum -a 256 dist/*
+   107859b062f6360d7bf0063c275511c638b633622954ba9a401ffa4a0c6aba1b  dist/ipython-7.1.0-py3-none-any.whl
+   1dd701942069f9daad956ebf3d5ddc10cec886001b1702d95b8d0d50a57648c3  dist/ipython-7.1.0.tar.gz
+
 IPython 7.0
 -----------
-IPython 7.0 was released on September 27, 2018. It includes a number of new features.
+IPython 7.0 was released on September 27, 2018. It includes
+a number of new features.
 See the `Jupyter Blog
 <https://blog.jupyter.org/ipython-7-0-async-repl-a35ce050f7f7/>`_
 and the `release notes
