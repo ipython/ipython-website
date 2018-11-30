@@ -58,15 +58,25 @@ part of which is providing a Python kernel for Jupyter.
 Announcements
 =============
 
-- **IPython 6.5** minor bugfixes, and Python 3.7 compatibility  have been release on July 28, 2018.
+- **IPython 7.2**: minor bugfixes, improvements, and new configuration options
+  (November 29, 2018)
 
-- **IPython 5.8** minor bugfixes have been release on July 28, 2018.
+- **IPython 7.1**: fixes to new features, internal refactoring,
+  and fixes for regressions (October 27, 2018)
 
-- **IPython 6.4**, and **IPython 5.7** minor bugfixes have been release  on May
-  10, 2018.
+- **IPython 7.0**: major new features (September 27th, 2018).
+  See the `release notes
+  <http://ipython.readthedocs.io/en/stable/whatsnew/version7.html>`__
+  for more information about what's new.
 
-- **IPython 6.3**, and **IPython 5.6**: These two releases were made on April
-  2nd 2018.
+- **IPython 6.5**: minor bugfixes and Python 3.7 compatibility (July 28, 2018)
+
+- **IPython 5.8**: minor bugfixes (July 28, 2018)
+
+- **IPython 6.4** and **IPython 5.7**: minor bugfixes (May 10, 2018)
+
+- **IPython 6.3** and **IPython 5.6**: new features and bugfixes
+  (April 2, 2018)
 
 - **IPython 6.0**: This release, the first to require Python 3, integrates the
   Jedi library for completion. See the `release notes

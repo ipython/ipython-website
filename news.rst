@@ -2,9 +2,34 @@
 News
 ====
 
+IPython 7.2
+-----------
+IPython 7.2 was released on November 29, 2018. It includes
+minor bugfixes, improvements, and new configuration options.
+See the `release notes
+<https://ipython.readthedocs.io/en/stable/whatsnew/version7.html#ipython-7-2-0>`__
+
+.. ::
+   $ shasum -a 256 dist/*
+   f69932b1e806b38a7818d9a1e918e5821b685715040b48e59c657b3c7961b742  dist/ipython-7.2.0-py3-none-any.whl
+   6a9496209b76463f1dec126ab928919aaf1f55b38beb9219af3fe202f6bbdd12  dist/ipython-7.2.0.tar.gz
+
+IPython 7.1
+-----------
+IPython 7.1 was released on October 27, 2018. It includes
+fixes to new features, internal refactoring, and fixes for regressions.
+See the `release notes
+<https://ipython.readthedocs.io/en/stable/whatsnew/version7.html#ipython-7-1-0>`__
+
+.. ::
+   $ shasum -a 256 dist/*
+   107859b062f6360d7bf0063c275511c638b633622954ba9a401ffa4a0c6aba1b  dist/ipython-7.1.0-py3-none-any.whl
+   1dd701942069f9daad956ebf3d5ddc10cec886001b1702d95b8d0d50a57648c3  dist/ipython-7.1.0.tar.gz
+
 IPython 7.0
 -----------
-IPython 7.0 was released on September 27, 2018. It includes a number of new features.
+IPython 7.0 was released on September 27, 2018. It includes
+a number of new features.
 See the `Jupyter Blog
 <https://blog.jupyter.org/ipython-7-0-async-repl-a35ce050f7f7/>`_
 and the `release notes
@@ -23,7 +48,7 @@ With some compatibility fix for Python 3.7
 See the `release notes
 <https://ipython.readthedocs.io/en/stable/whatsnew/version6.html#ipython-6-5-0>`__
 
-.. :: 
+.. ::
     $ shasum -a 256 dist/*
     007dcd929c14631f83daff35df0147ea51d1af420da303fd078343878bd5fb62  dist/ipython-6.5.0-py3-none-any.whl
     b0f2ef9eada4a68ef63ee10b6dde4f35c840035c50fd24265f8052c98947d5a4  dist/ipython-6.5.0.tar.gz
@@ -36,7 +61,7 @@ IPython 5.8 was released on July 28, 2018. This is primarily a bugfix release.
 See the `release notes
 <https://ipython.readthedocs.io/en/stable/whatsnew/version5.html#ipython-5-8-0>`__
 
-.. :: 
+.. ::
     $shasum -a256 dist/*
     37101b8cbe072fe17bff100bc03d096404e4a9a0357097aeb5b61677c042cab1 dist/ipython-5.8.0-py2-none-any.whl
     0371b7e4bd74954a35086eac949beeac5b1c9f5ce231e2e77df2286a293765e3 dist/ipython-5.8.0-py3-none-any.whl
@@ -50,7 +75,7 @@ IPython 6.4 was released on May 10, 2018. This is primarily a bugfix release.
 See the `release notes
 <https://ipython.readthedocs.io/en/stable/whatsnew/version6.html#ipython-6-4-0>`__
 
-.. :: 
+.. ::
     shasum -a 256 dist/*
     a0c96853549b246991046f32d19db7140f5b1a644cc31f0dc1edc86713b7676f  dist/ipython-6.4.0-py3-none-any.whl
     eca537aa61592aca2fef4adea12af8e42f5c335004dfa80c78caf80e8b525e5c  dist/ipython-6.4.0.tar.gz
@@ -63,7 +88,7 @@ IPython 5.7 was released on May 10, 2018. This is primarily a bugfix release.
 See the `release notes
 <https://ipython.readthedocs.io/en/stable/whatsnew/version5.html#ipython-5-7-0>`__
 
-.. :: 
+.. ::
     $shasum -a256 dist/*
     707d1bbfc81e41e39ead1012af931bec6f80357b87e520af352e539cf5961dc0  dist/ipython-5.7.0-py2-none-any.whl
     fc0464e68f9c65cd8c453474b4175432cc29ecb6c83775baedf6dbfcee9275ab  dist/ipython-5.7.0-py3-none-any.whl
@@ -118,7 +143,7 @@ features and API additions that went into 6.0 and 6.1. See the `Jupyter Blog
 and the `release notes
 <http://ipython.readthedocs.io/en/5.x/whatsnew/version5.html#ipython-5-4>`__
 
-.. :: 
+.. ::
     sha256
     af2b1ca3e073b7230b975858c0f5fcc659aa25181335b40ab09b00bf91134d93  dist/ipython-5.4.1-py2-none-any.whl
     0a45d844d11bec910974ed4adf5de60d42dc34b60960f8cc2b857e2008fba550  dist/ipython-5.4.1-py3-none-any.whl
@@ -168,7 +193,7 @@ IPython 5.0
 
 IPython 5.0 was released on July 7th, 2016. This release is the
 last major release that will support Python 2. See longer announcement on the
-`Jupyter Blog <http://blog.jupyter.org/2016/07/08/ipython-5-0-released/>`_. 
+`Jupyter Blog <http://blog.jupyter.org/2016/07/08/ipython-5-0-released/>`_.
 
 
 New edition of the IPython minibook
