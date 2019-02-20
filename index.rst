@@ -58,6 +58,8 @@ part of which is providing a Python kernel for Jupyter.
 Announcements
 =============
 
+- **IPython 7.3**: several bugfixes and minor improvements (February 18, 2019)
+
 - **IPython 7.2**: minor bugfixes, improvements, and new configuration options
   (November 29, 2018)
 
