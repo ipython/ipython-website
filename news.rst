@@ -2,6 +2,18 @@
 News
 ====
 
+IPython 7.3
+-----------
+IPython 7.3 was released on February 18, 2019. It includes several bugfixes
+and small improvements.
+See the `release notes
+<https://ipython.readthedocs.io/en/stable/whatsnew/version7.html#ipython-7-3-0>`__
+
+.. ::
+   $ shasum -a 256 dist/*
+   5d3e020a6b5f29df037555e5c45ab1088d6a7cf3bd84f47e0ba501eeb0c3ec82  dist/ipython-7.3.0-py3-none-any.whl
+   06de667a9e406924f97781bda22d5d76bfb39762b678762d86a466e63f65dc39  dist/ipython-7.3.0.tar.gz
+
 IPython 7.2
 -----------
 IPython 7.2 was released on November 29, 2018. It includes
