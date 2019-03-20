@@ -14,8 +14,7 @@ resources.  Any amount helps!
 
 .. raw:: html
 
-    <!--This relies on some CSS & JS which is added in the _templates folder-->
-    <div style="background: #34677c;
+    <a style="background: #34677c;
         border-radius:0px 0px 0px 0px;
         font-weight:normal;
         font-family:Arial, Helvetica, sans-serif;
@@ -33,7 +32,7 @@ resources.  Any amount helps!
         color:#fff;
         text-decoration: none;
         z-index:1"
-      onclick="open_window('MjI1Ng==')">Donate Now</div>
+      href="https://numfocus.salsalabs.org/donate-to-ipython/index.html">Donate Now</a>
 
 
 
