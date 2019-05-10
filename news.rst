@@ -2,10 +2,31 @@
 News
 ====
 
+IPython 7.5
+-----------
+IPython 7.5 was released on April 25, 2019. It fixes several small issues brought by 7.4, and contains other minor fixes and improvements.
+See the `release notes
+<https://ipython.readthedocs.io/en/stable/whatsnew/version7.html#ipython-7-5-0>`__
+
+.. ::i
+    $ shasum -a 256 dist/*
+    54c5a8aa1eadd269ac210b96923688ccf01ebb2d0f21c18c3c717909583579a8  dist/ipython-7.5.0-py3-none-any.whl
+    e840810029224b56cd0d9e7719dc3b39cf84d577f8ac686547c8ba7a06eeab26  dist/ipython-7.5.0.tar.gz
+
+IPython 7.4
+-----------
+IPython 7.4 was released on March 21, 2019. It improves the completion system and fixes several small bugs.
+See the `release notes
+<https://ipython.readthedocs.io/en/stable/whatsnew/version7.html#ipython-7-4-0>`__
+
+.. ::i
+    $ shasum -a 256 dist/*
+    f5102c1cd67e399ec8ea66bcebe6e3968ea25a8977e53f012963e5affeb1fe38  dist/ipython-7.4.0-py3-none-any.whl
+    b038baa489c38f6d853a3cfc4c635b0cda66f2864d136fe8f40c1a6e334e2a6b  dist/ipython-7.4.0.tar.gz
+
 IPython 7.3
 -----------
-IPython 7.3 was released on February 18, 2019. It includes several bugfixes
-and small improvements.
+IPython 7.3 was released on February 18, 2019. It adds Python 3.8 compatibility and new %pip and %conda magic commands, among the usual bugfixes.
 See the `release notes
 <https://ipython.readthedocs.io/en/stable/whatsnew/version7.html#ipython-7-3-0>`__
 
