@@ -60,7 +60,7 @@ Announcements
 
 - **IPython 7.5**: fixes to issues brought by 7.4, documentation changes and other minor updates (April 25, 2019)
 
-- **IPython 7.4**: improvements to the completion system and miscelanious fixes (March 21, 2019)
+- **IPython 7.4**: improvements to the completion system and miscellaneous fixes (March 21, 2019)
 
 - **IPython 7.3**: several bugfixes, minor improvements and Python 3.8 support (February 18, 2019)
 
