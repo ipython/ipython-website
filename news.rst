@@ -2,6 +2,20 @@
 News
 ====
 
+IPython 7.6
+-----------
+IPython 7.6.0 was released on June 28, 2019;  7.6.1 on July 3rd
+See the `release notes
+<https://ipython.readthedocs.io/en/stable/whatsnew/version7.html#ipython-7-6-1>`__
+
+.. ::
+    $ shasum -a 256 dist/*
+    263376e672c7f104fb971c9e1f372441bb34d66dfb7323062f62aa21fa46a377  dist/ipython-7.6.0-py3-none-any.whl
+    0806894ae78ddb94b530514acc9ab03a928b79374d8630470b439b58383dd7ee  dist/ipython-7.6.0.tar.gz
+    60bc55c2c1d287161191cc2469e73c116d9b634cff25fe214a43cba7cec94c79  dist/ipython-7.6.1-py3-none-any.whl
+    11067ab11d98b1e6c7f0993506f7a5f8a91af420f7e82be6575fcb7a6ca372a0  dist/ipython-7.6.1.tar.gz
+
+
 IPython 7.5
 -----------
 IPython 7.5 was released on April 25, 2019. It fixes several small issues brought by 7.4, and contains other minor fixes and improvements.

@@ -58,6 +58,8 @@ part of which is providing a Python kernel for Jupyter.
 Announcements
 =============
 
+- **IPython 7.6.0 and 7.6.1**: Released on June 28th, and July 3rd 2019.
+
 - **IPython 7.5**: fixes to issues brought by 7.4, documentation changes and other minor updates (April 25, 2019)
 
 - **IPython 7.4**: improvements to the completion system and miscellaneous fixes (March 21, 2019)
