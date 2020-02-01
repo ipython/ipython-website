@@ -2,6 +2,27 @@
 News
 ====
 
+
+IPython 7.7 and above
+---------------------
+
+- **IPython 7.12.0**: Released on Jan 31st 2020.
+
+- **IPython 7.11.0 and 7.11.1**: Released on Dec 27, 2019 and Jan 1st 2020
+
+- **IPython 7.10.0 and 7.10.1**: Released on Nov 27, 2019 and Dec 1st 2019
+
+- **IPython 7.9.0**: Released on Oct 25, 2019
+
+- **IPython 7.8.0**: Released on Aug 30, 1019
+
+- **IPython 7.7.0**: Released on Jul 26, 2019
+
+See the `release notes for version 7
+<https://ipython.readthedocs.io/en/stable/whatsnew/version7.html>`__
+
+
+
 IPython 7.6
 -----------
 IPython 7.6.0 was released on June 28, 2019;  7.6.1 on July 3rd
