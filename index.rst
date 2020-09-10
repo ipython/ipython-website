@@ -58,7 +58,7 @@ part of which is providing a Python kernel for Jupyter.
 Announcements
 =============
 
-IPython tends to be released on the last Friday of each moth, this section updated rarely. Please have a look at the release history on `PyPI <https://pypi.org/project/ipython/#history>`_.
+IPython tends to be released on the last Friday of each month, this section updated rarely. Please have a look at the release history on `PyPI <https://pypi.org/project/ipython/#history>`_.
 
 - **IPython 7.12.0**: Released on Jan 31st 2020.
 
