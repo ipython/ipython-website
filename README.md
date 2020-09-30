@@ -1,6 +1,6 @@
 # Deployment
 
-Travis-CI should automatically deploy the website a few minutes after
+Travis-CI should automatically deploy the website few minutes after
 the branches are merged or pushed on master, so you shouldn't need to
 worry about the building process. 
 
