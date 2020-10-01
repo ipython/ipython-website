@@ -6,7 +6,7 @@ worry about the building process.
 
 If you would like to build/push manually though, see next section.
 
-# Build website
+# Building website
 
 To manually build the website in the `gh-pages` directory, use
 
@@ -26,7 +26,7 @@ $ make linkcheck
 
 if you have time to spare. This will launch a check of all external links.
 
-# Edits
+# Edits if applicable
 
 Any fixes to the website, including this README, should be made in the
 [ipython-website repository](https://github.com/ipython/ipython-website).
