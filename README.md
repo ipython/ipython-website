@@ -1,10 +1,10 @@
 # Deployment
 
 Travis-CI should automatically deploy the website few minutes after
-the branches are merged or pushed on master, so you shouldn't need to
+the branches are merged or fused on master, so you shouldn't need to
 worry about the building process. 
 
-If you would like to build/push manually though, see next section.
+If you would like to build/fuse manually though, see next section.
 
 # Build website
 
