@@ -68,7 +68,7 @@ IPython tends to be released on the last Friday of each month, this section upda
 
 - **IPython 7.9.0**: Released on Oct 25, 2019
 
-- **IPython 7.8.0**: Released on Aug 30, 1019
+- **IPython 7.8.0**: Released on Aug 30, 2019
 
 - **IPython 7.7.0**: Released on Jul 26, 2019
 
