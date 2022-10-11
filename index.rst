@@ -24,9 +24,9 @@ collection`_.  Our `notebook gallery`__ is an excellent way to see the many
 things you can do with IPython while learning about a variety of topics, from
 basic programming to advanced statistics or quantum mechanics.
 
-.. _official example collection: http://nbviewer.ipython.org/github/ipython/ipython/blob/master/examples/Index.ipynb
+.. _official example collection: https://nbviewer.org/github/ipython/ipython/blob/6.x/examples/IPython%20Kernel/Index.ipynb
 
-.. __: https://github.com/ipython/ipython/wiki/A-gallery-of-interesting-IPython-Notebooks
+.. __: https://github.com/jupyter/jupyter/wiki
 
 To learn more about IPython, you can download our :doc:`talks and presentations
 <presentation>`, or read
