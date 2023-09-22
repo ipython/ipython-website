@@ -20,9 +20,9 @@
       <div class="header">
         {%- block headertitle %}
 
-        {%- if logo %}
+        {%- if logo_url %}
           <div class="logo"><a href="{{ pathto(master_doc) }}">
-            <img class="logo" src="{{ pathto('_static/' + logo, 1) }}" alt="Logo"/>
+            <img class="logo" src="{{ pathto(logo_url, 1) }}" alt="Logo"/>
           </a></div>
         {%- endif %}
        {# <h1><a href="{{ pathto(master_doc) }}">{{ shorttitle|e }}</a></h1> #}
