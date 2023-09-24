@@ -42,8 +42,8 @@ source_suffix = '.rst'
 master_doc = 'index'
 
 # General information about the project.
-project = u'IPython'
-copyright = u'the IPython development team'
+project = "IPython"
+copyright = "the IPython development team. Python is trademark of the Python Software Foundation"
 
 # google analytics id
 googleanalytics_id = 'UA-38683231-1'
