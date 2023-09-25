@@ -4,6 +4,23 @@ Books And Videos
 
 
 
+IPython for Web Devs
+--------------------
+
+.. image:: _static/ipython-for-web-devs.png
+    :width: 200px
+    :alt: IPython for Web Devs
+    :target: _static/ipython-for-web-devs.png
+
+* `IPython for Web Devs <https://ipythonbook.com/>`_
+* by `Eric Hamiter <http://erichamiter.com>`_
+* 80 pages
+* November 15 2020
+
+This book is suitable for both beginning and experienced back-end web developers that use Python frameworks such as Django or Flask. There is an introduction to setting up IPython profiles, tweaking configuration settings, learning about available "magic" commands to improve workflows, and creating custom commands that can improve productivity.
+
+
+
 IPython Interactive Computing and Visualization Cookbook, Second Edition
 ------------------------------------------------------------------------
 
