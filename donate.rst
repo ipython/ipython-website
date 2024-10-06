@@ -32,7 +32,7 @@ resources.  Any amount helps!
         color:#fff;
         text-decoration: none;
         z-index:1"
-      href="https://numfocus.salsalabs.org/donate-to-ipython/index.html">Donate Now</a>
+      href="https://numfocus.org/donate-to-ipython">Donate Now</a>
 
 
 
