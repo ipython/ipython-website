@@ -51,51 +51,12 @@ Share your notebooks
   </ul>
 </div>
 
-<div class="sidebarblock">
-<h3>{{ _('Book') }}</h3>
-
-<a href="books.html"><img
-title="Packt Publishing donates a portion of the proceeds from this book to
-support IPython's development." width="160" height="200" id="sidebar-book-cover"
-style="margin-bottom: 10px;"></a>
-<script language="javascript">
-  // most recent at the end
-  var urls = [
-      "_static/ipython-book.jpg",
-      "_static/learning-jupyter-book.png",
-      "_static/mastering-ipython-book.png",
-      "_static/jupyter-notebook-for-all-I.jpg",
-      "_static/jupyter-notebook-for-all-II.jpg",
-      "_static/jupyter-in-depth.png",
-      "_static/jupyter-for-ds.png",
-      "_static/ipython-cookbook-2nd.png",
-  ]
-
-  function pick(){
-    var len = urls.length;
-    var num = Math.floor(Math.sqrt(Math.random()*len*len));
-    return urls[num];
-  }
-
-  function repick(){
-    $("#sidebar-book-cover").attr("src", pick());
-  }
-
-  window.onload = repick ;
-
-  var seconds = 1000;
-  setInterval(repick, 60*seconds)
-</script>
-
-</div>
-
 
 <div class="sidebarblock">
 
   <div class="tile" id="donate">
     <h4>Support IPython</h4>
 
-    {% include "donate_button.html" %}
     <a href="{{pathto('donate')}}">Find out more...</a>
 
   </div>
