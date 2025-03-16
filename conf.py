@@ -153,9 +153,9 @@ html_static_path = ['_static']
 # TODO: split this up into several chunks
 
 html_sidebars = {
-    '**': ['gse.html', 'sidebar_links.html'],
-    'searchresults': ['sidebar_links.html'],
-    }
+    "**": ["sidebar_links.html"],
+    "searchresults": ["sidebar_links.html"],
+}
 
 # Additional templates that should be rendered to pages, maps page names to
 # template names.

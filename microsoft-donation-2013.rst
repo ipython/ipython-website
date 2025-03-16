@@ -9,7 +9,7 @@
 We are thrilled to announce that in August 2013, Microsoft made a donation of
 $100,000 to sponsor IPython's continued development.
 
-This donation was received through NumFOCUS_, and is the next step in a
+This donation was received through NumFOCUS, and is the next step in a
 fruitful collaboration IPython has had with Microsoft:
 
 - In 2009 we added integration with Windows HPC Server for IPython's parallel
